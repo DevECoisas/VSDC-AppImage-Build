@@ -8,7 +8,7 @@ A VSDC Version bundled inside an AppImage
 ```
 git clone https://github.com/DevECoisas/VSDC-AppImage-Build.git
 cd VSDC-AppImage-Build/VSDC.AppDir/usr/
-wget https://github.com/mmtrt/WINE_AppImage/releases/download/continuous-stable/wine-stable_10.0-x86_64.AppImagesudo chmod +x wine-stable_10.0-x86_64.AppImage
+wget https://github.com/mmtrt/WINE_AppImage/releases/download/continuous-stable/wine-stable_10.0-x86_64.AppImage
 sudo chmod +x wine-stable_10.0-x86_64.AppImage 
 cd ../../
 wget https://github.com/AppImage/appimagetool/releases/download/continuous/appimagetool-x86_64.AppImage
