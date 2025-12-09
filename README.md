@@ -13,6 +13,6 @@ sudo chmod +x wine-stable_10.0-x86_64.AppImage
 cd ../../
 wget https://github.com/AppImage/appimagetool/releases/download/continuous/appimagetool-x86_64.AppImage
 sudo chmod +x appimagetool-x86_64.AppImage 
-./appimagetool-x86_64.AppImage VSDC.AppDir/
+ARCH=x86_64 ./appimagetool-x86_64.AppImage VSDC.AppDir/
 rm appimagetool-x86_64.AppImage 
 ```
