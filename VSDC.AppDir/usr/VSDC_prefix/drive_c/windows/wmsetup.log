@@ -1,0 +1,367 @@
+
+[*WMC Logging begun.  Logging at level: '5'.  OS is NT.  OSVer is 6.2.19045.0.  Setup version 9.00.00.2980.]
+Setup beginning.
+=====Building Install list.
+Finished building install list.  Result: '0x0'.
+=====Updating Install list for UI.
+  Package 'DRM' is version '9.0.0.2980'.  This is 'newer' than the version currently installed.
+  Package 'fhg' is version '1.9.0.305'.  This is 'newer' than the version currently installed.
+Finished updating install list.
+=====Updating Install list for UI.
+  Package 'DRM' is version '9.0.0.2980'.  This is 'newer' than the version currently installed.
+  Package 'fhg' is version '1.9.0.305'.  This is 'newer' than the version currently installed.
+Finished updating install list.
+=====Setup preparing to download needed files from network.
+
+Download complete.  Result: '0x0'.
+=====Installing Install list.  Last result: 0x578.
+Could not set system restore point: error 0x0.
+
+======Installing component 'DRM'.
+  Package 'DRM' is version '9.0.0.2980'.  This is 'newer' than the version currently installed.
+  InfParser: Set source directory 'C:\users\devecoisas\AppData\Local\Temp\IXP000.TMP'.
+INF: Found section 'DEFAULTINSTALL.NT5'.
+ Parsing CustomDestination INFSection:'DRM.Destination'
+INF: Found section 'ProgramFilesDir'.
+ Assigned destination: 'C:\Program Files' for section 'DRM.Destination'
+ Added CustomDestination '49000' as 'C:\PROG~FBU'.
+ Added CustomDestination '49001' as 'C:\Program Files'.
+ Added CustomDestination '49002' as 'C:\PROG~FBU'.
+INF: Found section 'DRMDirectory'.
+ Assigned destination: 'C:\Program Files\Windows Media Player' for section 'DRM.Destination'
+ Added CustomDestination '49300' as 'C:\PROG~FBU\WIND~ATD'.
+ Added CustomDestination '49301' as 'C:\Program Files\Windows Media Player'.
+ Added CustomDestination '49302' as 'C:\PROG~FBU\WIND~ATD'.
+INF: Found section 'DEFAULTINSTALL.NT5'.
+  Trusting Catalog: 'drm.cat'.
+    Trust on catalog 'drm.cat' beginning.  Last result: 0x0.
+  WinVerifyTrust on file 'drm.cat' returned 0x0.
+    Got catalog context.  Attempting to determine valid name for installed catalog.
+GetNameForCatalogOnSystem returned '0x0'.
+    Added catalog 'drm.cat'.  Last result: 0x0.
+    Trust on catalog 'drm.cat' complete.  Result: 0x0.
+   TrustCatalogFile returned 0x0.
+INF: Found section 'DEFAULTINSTALL.NT5'.
+ Source location is:'C:\users\devecoisas\AppData\Local\Temp\IXP000.TMP'.
+ Parsing 'COPYFILES' INFSection:'DRMCopy.Core'
+INF: Found section 'DESTINATIONDIRS'.
+Resolving destination: 49300.
+ Assigned destination: 'C:\PROG~FBU\WIND~ATD\' to 'DRMCopy.Core'.
+ERROR: Could not connect to SFP server.  0x2
+  WMC_CopyFile: Could not find file version for 'C:\PROG~FBU\WIND~ATD\npwmsdrm.dll'.  This file will be overwritten.
+ Copied file 'npwmsdrm.dll' to 'C:\PROG~FBU\WIND~ATD\'.
+  Package 'DRM' is version '9.0.0.2980'.  This is 'newer' than the version currently installed.
+ERROR: Could not connect to SFP server.  0x2
+  WMC_CopyFile: Could not find file version for 'C:\PROG~FBU\WIND~ATD\npdrmv2.dll'.  This file will be overwritten.
+ Copied file 'npdrmv2.dll' to 'C:\PROG~FBU\WIND~ATD\'.
+ERROR: Could not connect to SFP server.  0x2
+  WMC_CopyFile: Could not find file version for 'C:\PROG~FBU\WIND~ATD\npdrmv2.zip'.  This file will be overwritten.
+ Copied file 'npdrmv2.zip' to 'C:\PROG~FBU\WIND~ATD\'.
+ Parsing 'COPYFILES' INFSection:'DRMCopy.System'
+INF: Found section 'DESTINATIONDIRS'.
+ Assigned destination: 'C:\windows\system32\' to 'DRMCopy.System'.
+ERROR: Could not connect to SFP server.  0x0
+  WMC_CopyFile: File 'C:\users\devecoisas\AppData\Local\Temp\IXP000.TMP\drmclien.dll' is newer than the installed version.  This file will be installed.
+ Copied file 'drmclien.dll' to 'C:\windows\system32\'.
+ERROR: Could not connect to SFP server.  0x0
+  WMC_CopyFile: Could not find file version for 'C:\windows\system32\drmstor.dll'.  This file will be overwritten.
+ Copied file 'drmstor.dll' to 'C:\windows\system32\'.
+ERROR: Could not connect to SFP server.  0x0
+  WMC_CopyFile: Could not find file version for 'C:\windows\system32\drmv2clt.dll'.  This file will be overwritten.
+ Copied file 'drmv2clt.dll' to 'C:\windows\system32\'.
+ERROR: Could not connect to SFP server.  0x0
+  WMC_CopyFile: Could not find file version for 'C:\windows\system32\blackbox.dll'.  This file will be overwritten.
+ Copied file 'blackbox.dll' to 'C:\windows\system32\'.
+ERROR: Could not connect to SFP server.  0x0
+  WMC_CopyFile: Could not find file version for 'C:\windows\system32\msnetobj.dll'.  This file will be overwritten.
+ Copied file 'msnetobj.dll' to 'C:\windows\system32\'.
+ Parsing 'COPYFILES' INFSection:'DRMCopy.OS'
+INF: Found section 'DESTINATIONDIRS'.
+ Assigned destination: 'C:\windows\system32\' to 'DRMCopy.OS'.
+ Parsing 'COPYFILES' INFSection:'DRMCopy.INF'
+INF: Found section 'DESTINATIONDIRS'.
+ Assigned destination: 'C:\windows\INF\' to 'DRMCopy.INF'.
+ERROR: Could not connect to SFP server.  0x0
+  WMC_CopyFile: Could not find file version for 'C:\windows\INF\drm.inf'.  This file will be overwritten.
+ Copied file 'drm.inf' to 'C:\windows\INF\'.
+INF: Found section 'DEFAULTINSTALL.NT5'.
+ Parsing RegisterOCX INFSection:'DRMOCX.Register'.
+ Registering DLL: 'C:\windows\system32\drmstor.dll'.
+    Dll Registration: Succeeded for file 'C:\windows\system32\drmstor.dll'.
+ Registering DLL: 'C:\windows\system32\drmclien.dll'.
+    Dll Registration: Succeeded for file 'C:\windows\system32\drmclien.dll'.
+ Registering DLL: 'C:\windows\system32\drmv2clt.dll'.
+    Dll Registration: Succeeded for file 'C:\windows\system32\drmv2clt.dll'.
+ Registering DLL: 'C:\windows\system32\blackbox.dll'.
+    Dll Registration: Succeeded for file 'C:\windows\system32\blackbox.dll'.
+ Registering DLL: 'C:\windows\system32\msnetobj.dll'.
+    Dll Registration: Succeeded for file 'C:\windows\system32\msnetobj.dll'.
+  Package install complete.  Last result 0x0.
+  Package 'DRM' is version '9.0.0.2980'.  This is 'older or equal to' than the version currently installed.
+  Package 'DRM' is version '9.0.0.2980'.  This is 'older or equal to' than the version currently installed.
+  Package 'DRM' is version '9.0.0.2980'.  This is 'older or equal to' than the version currently installed.
+Adding dependency type 'Definition' to registry.
+Adding dependency type 'Definition' to registry.
+Adding dependency type 'Definition' to registry.
+Adding dependency type 'CriticalTo' to registry.
+SUCCESS: Package 'Windows Media Rights Management'.  Result: 0x0.
+
+======Installing component 'WMFSDK'.
+  InfParser: Set source directory 'C:\users\devecoisas\AppData\Local\Temp\IXP000.TMP'.
+INF: Found section 'DEFAULTINSTALL.NT'.
+ Parsing RegisterOCX INFSection:'WM8.UnReg'.
+Dll UnRegistration: Could not find file 'C:\windows\system32\wmv8dmod.dll'.
+  Unregistration failure ignored: file is either not present or has already been unregistered.
+Dll UnRegistration: Could not find file 'C:\windows\system32\wmv9dmod.dll'.
+  Unregistration failure ignored: file is either not present or has already been unregistered.
+Dll UnRegistration: Could not find file 'C:\windows\system32\wma9dmod.dll'.
+  Unregistration failure ignored: file is either not present or has already been unregistered.
+Dll UnRegistration: Could not find file 'C:\windows\system32\wms9dmod.dll'.
+  Unregistration failure ignored: file is either not present or has already been unregistered.
+Dll UnRegistration: Could not find file 'C:\windows\system32\wmadmoe.dll'.
+  Unregistration failure ignored: file is either not present or has already been unregistered.
+ Registering DLL: 'C:\windows\system32\wmadmod.dll'.
+    Dll Registration: Succeeded for file 'C:\windows\system32\wmadmod.dll'.
+Dll UnRegistration: Could not find file 'C:\windows\system32\wmvdmod.dll'.
+  Unregistration failure ignored: file is either not present or has already been unregistered.
+Dll UnRegistration: Could not find file 'C:\windows\system32\wmsdmod.dll'.
+  Unregistration failure ignored: file is either not present or has already been unregistered.
+Dll UnRegistration: Could not find file 'C:\windows\system32\wmsdmoe2.dll'.
+  Unregistration failure ignored: file is either not present or has already been unregistered.
+Dll UnRegistration: Could not find file 'C:\windows\system32\wmvdmoe2.dll'.
+  Unregistration failure ignored: file is either not present or has already been unregistered.
+Dll UnRegistration: Could not find file 'C:\windows\system32\mp4sdmod.dll'.
+  Unregistration failure ignored: file is either not present or has already been unregistered.
+Dll UnRegistration: Could not find file 'C:\windows\system32\mp43dmod.dll'.
+  Unregistration failure ignored: file is either not present or has already been unregistered.
+Dll UnRegistration: Could not find file 'C:\windows\system32\wmspdmoe.dll'.
+  Unregistration failure ignored: file is either not present or has already been unregistered.
+Dll UnRegistration: Could not find file 'C:\windows\system32\wmspdmod.dll'.
+  Unregistration failure ignored: file is either not present or has already been unregistered.
+INF: Found section 'DEFAULTINSTALL.NT'.
+ Parsing Reg section:'DelReg.Uninst'.
+ Processed DELREG line: 'HKCR,Software\Microsoft\Multimedia\Components\Installed\playback_wmfsdk\Uninstall', result 0x0.
+ Processed DELREG line: 'HKCR,windows media\WMSDK\AudioDecode\10', result 0x0.
+ Processed DELREG line: 'HKCR,Windows Media\WMSDK\AudioDecode\352', result 0x0.
+ Processed DELREG line: 'HKCR,Windows Media\WMSDK\AudioDecode\353', result 0x0.
+ Processed DELREG line: 'HKCR,windows media\WMSDK\AudioDecode\354', result 0x0.
+ Processed DELREG line: 'HKCR,windows media\WMSDK\AudioDecode\355', result 0x0.
+ Processed DELREG line: 'HKCR,Windows Media\WMSDK\VideoDecode\MSS1', result 0x0.
+ Processed DELREG line: 'HKCR,windows media\WMSDK\VideoDecode\MSS2', result 0x0.
+ Processed DELREG line: 'HKCR,windows media\WMSDK\VideoDecode\WMV1', result 0x0.
+ Processed DELREG line: 'HKCR,windows media\WMSDK\VideoDecode\WMV2', result 0x0.
+ Processed DELREG line: 'HKCR,windows media\WMSDK\VideoDecode\WMV3', result 0x0.
+ Processed DELREG line: 'HKCR,windows media\WMSDK\VideoDecode\WMVP', result 0x0.
+ Processed DELREG line: 'HKCR,windows media\WMSDK\VideoDecode\MP4S', result 0x0.
+ Processed DELREG line: 'HKCR,windows media\WMSDK\VideoDecode\M4S2', result 0x0.
+ Processed DELREG line: 'HKLM,SOFTWARE\Microsoft\Windows NT\CurrentVersion\drivers.desc,wma9dmod.dll', result 0x0.
+ Processed DELREG line: 'HKLM,SOFTWARE\Microsoft\Windows NT\CurrentVersion\drivers.desc,wms9dmod.dll', result 0x0.
+ Processed DELREG line: 'HKLM,SOFTWARE\Microsoft\Windows NT\CurrentVersion\drivers.desc,wmspdmod.dll', result 0x0.
+ Processed DELREG line: 'HKLM,SOFTWARE\Microsoft\Windows NT\CurrentVersion\drivers.desc,wmv9dmod.dll', result 0x0.
+ Processed DELREG line: 'HKLM,SOFTWARE\Microsoft\Windows NT\CurrentVersion\drivers.desc,mp4sdmod.dll', result 0x0.
+ Processed DELREG line: 'HKCR,DirectShow\MediaObjects\82d353df-90bd-4382-8bc2-3f6192b76e34\InputTypes\73646976-0000-0010-8000-00aa00389b71\3334504d-0000-0010-8000-00aa00389b71', result 0x0.
+ Processed DELREG line: 'HKCR,DirectShow\MediaObjects\82d353df-90bd-4382-8bc2-3f6192b76e34\InputTypes\73646976-0000-0010-8000-00aa00389b71\3334706d-0000-0010-8000-00aa00389b71', result 0x0.
+ Processed DELREG line: 'HKCR,DirectShow\MediaObjects\82d353df-90bd-4382-8bc2-3f6192b76e34\InputTypes\73646976-0000-0010-8000-00aa00389b71\5334504d-0000-0010-8000-00aa00389b71', result 0x0.
+ Processed DELREG line: 'HKCR,DirectShow\MediaObjects\82d353df-90bd-4382-8bc2-3f6192b76e34\InputTypes\73646976-0000-0010-8000-00aa00389b71\7334706d-0000-0010-8000-00aa00389b71', result 0x0.
+ Processed DELREG line: 'HKCR,DirectShow\MediaObjects\Categories\4a69b442-28be-4991-969c-b500adf5d8a8\InputTypes\73646976-0000-0010-8000-00aa00389b71\Subtypes\3334504d-0000-0010-8000-00aa00389b71', result 0x0.
+ Processed DELREG line: 'HKCR,DirectShow\MediaObjects\Categories\4a69b442-28be-4991-969c-b500adf5d8a8\InputTypes\73646976-0000-0010-8000-00aa00389b71\Subtypes\3334706d-0000-0010-8000-00aa00389b71', result 0x0.
+ Processed DELREG line: 'HKCR,DirectShow\MediaObjects\Categories\4a69b442-28be-4991-969c-b500adf5d8a8\InputTypes\73646976-0000-0010-8000-00aa00389b71\Subtypes\5334504d-0000-0010-8000-00aa00389b71', result 0x0.
+ Processed DELREG line: 'HKCR,DirectShow\MediaObjects\Categories\4a69b442-28be-4991-969c-b500adf5d8a8\InputTypes\73646976-0000-0010-8000-00aa00389b71\Subtypes\7334706d-0000-0010-8000-00aa00389b71', result 0x0.
+INF: Found section 'DEFAULTINSTALL.NT'.
+ Source location is:'C:\users\devecoisas\AppData\Local\Temp\IXP000.TMP'.
+ Parsing 'DELFILES' INFSection:'Del.OldCodecs'
+INF: Found section 'DESTINATIONDIRS'.
+ Assigned destination: 'C:\windows\system32\' to 'Del.OldCodecs'.
+ Deleted file 'C:\windows\system32\wmv9dmod.dll'.
+ Deleted file 'C:\windows\system32\wma9dmod.dll'.
+ Deleted file 'C:\windows\system32\wms9dmod.dll'.
+INF: Found section 'DEFAULTINSTALL.NT'.
+  Trusting Catalog: 'WMFSDK.cat'.
+    Trust on catalog 'WMFSDK.cat' beginning.  Last result: 0x0.
+  WinVerifyTrust on file 'WMFSDK.cat' returned 0x0.
+    Got catalog context.  Attempting to determine valid name for installed catalog.
+GetNameForCatalogOnSystem returned '0x0'.
+    Added catalog 'WMFSDK.cat'.  Last result: 0x0.
+    Trust on catalog 'WMFSDK.cat' complete.  Result: 0x0.
+   TrustCatalogFile returned 0x0.
+INF: Found section 'DEFAULTINSTALL.NT'.
+ Source location is:'C:\users\devecoisas\AppData\Local\Temp\IXP000.TMP'.
+ Parsing 'COPYFILES' INFSection:'WMPCopy.System'
+INF: Found section 'DESTINATIONDIRS'.
+ Assigned destination: 'C:\windows\system32\' to 'WMPCopy.System'.
+ERROR: Could not connect to SFP server.  0x0
+  WMC_CopyFile: File 'C:\users\devecoisas\AppData\Local\Temp\IXP000.TMP\wmasf.dll' is newer than the installed version.  This file will be installed.
+ Copied file 'wmasf.dll' to 'C:\windows\system32\'.
+ERROR: Could not connect to SFP server.  0x0
+  WMC_CopyFile: File 'C:\windows\system32\wmvcore.dll' is newer than the version to be installed.  No copy will occur.
+ERROR: Could not connect to SFP server.  0x0
+  WMC_CopyFile: Could not find file version for 'C:\windows\system32\wmidx.dll'.  This file will be overwritten.
+ Copied file 'wmidx.dll' to 'C:\windows\system32\'.
+ERROR: Could not connect to SFP server.  0x0
+  WMC_CopyFile: Could not find file version for 'C:\windows\system32\wmnetmgr.dll'.  This file will be overwritten.
+ Copied file 'wmnetmgr.dll' to 'C:\windows\system32\'.
+ERROR: Could not connect to SFP server.  0x0
+  WMC_CopyFile: Could not find file version for 'C:\windows\system32\logagent.exe'.  This file will be overwritten.
+ Copied file 'logagent.exe' to 'C:\windows\system32\'.
+ERROR: Could not connect to SFP server.  0x0
+  WMC_CopyFile: Could not find file version for 'C:\windows\system32\laprxy.dll'.  This file will be overwritten.
+ Copied file 'laprxy.dll' to 'C:\windows\system32\'.
+ERROR: Could not connect to SFP server.  0x0
+  WMC_CopyFile: File 'C:\windows\system32\qasf.dll' is newer than the version to be installed.  No copy will occur.
+ERROR: Could not connect to SFP server.  0x0
+  WMC_CopyFile: Could not find file version for 'C:\windows\system32\wmadmoe.dll'.  This file will be overwritten.
+ Copied file 'wmadmoe.dll' to 'C:\windows\system32\'.
+ERROR: Could not connect to SFP server.  0x0
+  WMC_CopyFile: Could not find file version for 'C:\windows\system32\wmsdmoe2.dll'.  This file will be overwritten.
+ Copied file 'wmsdmoe2.dll' to 'C:\windows\system32\'.
+ERROR: Could not connect to SFP server.  0x0
+  WMC_CopyFile: Could not find file version for 'C:\windows\system32\wmspdmoe.dll'.  This file will be overwritten.
+ Copied file 'wmspdmoe.dll' to 'C:\windows\system32\'.
+ERROR: Could not connect to SFP server.  0x0
+  WMC_CopyFile: Could not find file version for 'C:\windows\system32\wmvdmoe2.dll'.  This file will be overwritten.
+ Copied file 'wmvdmoe2.dll' to 'C:\windows\system32\'.
+ERROR: Could not connect to SFP server.  0x0
+  WMC_CopyFile: File 'C:\windows\system32\wmadmod.dll' is newer than the version to be installed.  No copy will occur.
+ERROR: Could not connect to SFP server.  0x0
+  WMC_CopyFile: Could not find file version for 'C:\windows\system32\wmsdmod.dll'.  This file will be overwritten.
+ Copied file 'wmsdmod.dll' to 'C:\windows\system32\'.
+ERROR: Could not connect to SFP server.  0x0
+  WMC_CopyFile: Could not find file version for 'C:\windows\system32\wmspdmod.dll'.  This file will be overwritten.
+ Copied file 'wmspdmod.dll' to 'C:\windows\system32\'.
+ERROR: Could not connect to SFP server.  0x0
+  WMC_CopyFile: Could not find file version for 'C:\windows\system32\wmvdmod.dll'.  This file will be overwritten.
+ Copied file 'wmvdmod.dll' to 'C:\windows\system32\'.
+ERROR: Could not connect to SFP server.  0x0
+  WMC_CopyFile: Could not find file version for 'C:\windows\system32\mpg4dmod.dll'.  This file will be overwritten.
+ Copied file 'mpg4dmod.dll' to 'C:\windows\system32\'.
+ERROR: Could not connect to SFP server.  0x0
+  WMC_CopyFile: Could not find file version for 'C:\windows\system32\mp4sdmod.dll'.  This file will be overwritten.
+ Copied file 'mp4sdmod.dll' to 'C:\windows\system32\'.
+ERROR: Could not connect to SFP server.  0x0
+  WMC_CopyFile: Could not find file version for 'C:\windows\system32\mp43dmod.dll'.  This file will be overwritten.
+ Copied file 'mp43dmod.dll' to 'C:\windows\system32\'.
+ Parsing 'COPYFILES' INFSection:'WMCopy.WinDir'
+INF: Found section 'DESTINATIONDIRS'.
+ Assigned destination: 'C:\windows\' to 'WMCopy.WinDir'.
+ Parsing 'COPYFILES' INFSection:'CopyINF'
+INF: Found section 'DESTINATIONDIRS'.
+ Assigned destination: 'C:\windows\INF\' to 'CopyINF'.
+ERROR: Could not connect to SFP server.  0x0
+  WMC_CopyFile: Could not find file version for 'C:\windows\INF\WMFSDK.inf'.  This file will be overwritten.
+ Copied file 'WMFSDK.inf' to 'C:\windows\INF\'.
+ Parsing 'COPYFILES' INFSection:'WMPCopy.System.Downlevel'
+INF: Found section 'DESTINATIONDIRS'.
+ Assigned destination: 'C:\windows\system32\' to 'WMPCopy.System.Downlevel'.
+ERROR: Could not connect to SFP server.  0x0
+  WMC_CopyFile: File 'C:\windows\system32\msdmo.dll' is newer than the version to be installed.  No copy will occur.
+INF: Found section 'DEFAULTINSTALL.NT'.
+ Parsing Reg section:'Reg.Codecs'.
+ Processed ADDREG line: 'HKCR,Windows Media\WMSDK\AudioEncode,10,,', result 0x0.
+ Processed ADDREG line: 'HKCR,Windows Media\WMSDK\AudioEncode,354,,', result 0x0.
+ Processed ADDREG line: 'HKCR,Windows Media\WMSDK\AudioEncode,355,,', result 0x0.
+ Processed ADDREG line: 'HKCR,Windows Media\WMSDK\VideoEncode,MSS2,,', result 0x0.
+ Processed ADDREG line: 'HKCR,Windows Media\WMSDK\VideoEncode,WMV3,,', result 0x0.
+ Processed ADDREG line: 'HKCR,Windows Media\WMSDK\AudioEncode,304,,', result 0x0.
+ Processed ADDREG line: 'HKCR,Windows Media\WMSDK\AudioEncode,353,,', result 0x0.
+ Processed ADDREG line: 'HKCR,Windows Media\WMSDK\VideoEncode,MP4S,,', result 0x0.
+ Processed ADDREG line: 'HKCR,Windows Media\WMSDK\VideoEncode,WMV1,,', result 0x0.
+ Processed ADDREG line: 'HKCR,Windows Media\WMSDK\VideoEncode,WMV2,,', result 0x0.
+ Processed ADDREG line: 'HKCR,Windows Media\WMSDK\VideoEncode,WMVP,,', result 0x0.
+ Processed ADDREG line: 'HKCR,Windows Media\WMSDK\VideoEncode,MSS1,,', result 0x0.
+ Processed ADDREG line: 'HKCR,Windows Media\WMSDK\AudioDecode,,,', result 0x0.
+ Processed ADDREG line: 'HKCR,Windows Media\WMSDK\VideoDecode,,,', result 0x0.
+ Processed ADDREG line: 'HKCU,Software\Microsoft\Windows Media\WMSDK,,,', result 0x0.
+ Processed ADDREG line: 'HKCU,Software\Microsoft\Windows Media\WMSDK\General,,,', result 0x0.
+ Processed ADDREG line: 'HKCU,Software\Microsoft\Windows Media\WMSDK\Local,,,', result 0x0.
+ Processed ADDREG line: 'HKCU,Software\Microsoft\Windows Media\WMSDK\Remote,,,', result 0x0.
+ Processed ADDREG line: 'HKCU,Software\Microsoft\Windows Media\WMSDK\AudioDecode,,,', result 0x0.
+ Processed ADDREG line: 'HKCU,Software\Microsoft\Windows Media\WMSDK\VideoDecode,,,', result 0x0.
+INF: Found section 'DEFAULTINSTALL.NT'.
+ Parsing RegisterOCX INFSection:'WMPOCX.Register'.
+ Registering DLL: 'C:\windows\system32\wmnetmgr.dll'.
+    Dll Registration: Succeeded for file 'C:\windows\system32\wmnetmgr.dll'.
+ Registering DLL: 'C:\windows\system32\wmadmod.dll'.
+    Dll Registration: Succeeded for file 'C:\windows\system32\wmadmod.dll'.
+ Registering DLL: 'C:\windows\system32\wmsdmod.dll'.
+    Dll Registration: Succeeded for file 'C:\windows\system32\wmsdmod.dll'.
+ Registering DLL: 'C:\windows\system32\mp4sdmod.dll'.
+    Dll Registration: Succeeded for file 'C:\windows\system32\mp4sdmod.dll'.
+ Registering DLL: 'C:\windows\system32\mp43dmod.dll'.
+    Dll Registration: Succeeded for file 'C:\windows\system32\mp43dmod.dll'.
+ Registering DLL: 'C:\windows\system32\wmvdmod.dll'.
+    Dll Registration: Succeeded for file 'C:\windows\system32\wmvdmod.dll'.
+ Registering DLL: 'C:\windows\system32\mpg4dmod.dll'.
+    Dll Registration: Succeeded for file 'C:\windows\system32\mpg4dmod.dll'.
+ Registering DLL: 'C:\windows\system32\wmspdmod.dll'.
+    Dll Registration: Succeeded for file 'C:\windows\system32\wmspdmod.dll'.
+ Registering DLL: 'C:\windows\system32\laprxy.dll'.
+    Dll Registration: Succeeded for file 'C:\windows\system32\laprxy.dll'.
+ Registering DLL: 'C:\windows\system32\wmadmoe.dll'.
+    Dll Registration: Succeeded for file 'C:\windows\system32\wmadmoe.dll'.
+ Registering DLL: 'C:\windows\system32\wmsdmoe2.dll'.
+    Dll Registration: Succeeded for file 'C:\windows\system32\wmsdmoe2.dll'.
+ Registering DLL: 'C:\windows\system32\wmspdmoe.dll'.
+    Dll Registration: Succeeded for file 'C:\windows\system32\wmspdmoe.dll'.
+ Registering DLL: 'C:\windows\system32\wmvdmoe2.dll'.
+    Dll Registration: Succeeded for file 'C:\windows\system32\wmvdmoe2.dll'.
+ Registering DLL: 'C:\windows\system32\qasf.dll'.
+    Dll Registration: Succeeded for file 'C:\windows\system32\qasf.dll'.
+ Parsing RegisterOCX INFSection:'WMPOCX.RegWMV'.
+ Registering DLL: 'C:\windows\system32\wmvcore.dll'.
+    Dll Registration: Succeeded for file 'C:\windows\system32\wmvcore.dll'.
+INF: Found section 'DEFAULTINSTALL.NT'.
+ Parsing RunCommands section: 'RunPost'.
+Starting process '"C:\windows\system32\logagent.exe" /RegServer'.
+ Success: Ran command: '"C:\windows\system32\logagent.exe" /RegServer'.
+  Package install complete.  Last result 0x0.
+  Package 'WMFSDK' is version '9.0.0.2980'.  This is 'older or equal to' than the version currently installed.
+  Package 'WMFSDK' is version '9.0.0.2980'.  This is 'older or equal to' than the version currently installed.
+  Package 'WMFSDK' is version '9.0.0.2980'.  This is 'older or equal to' than the version currently installed.
+  Package 'WMFSDK' is version '9.0.0.2980'.  This is 'newer' than the version currently installed.
+Adding dependency type 'Definition' to registry.
+Adding dependency type 'Definition' to registry.
+Adding dependency type 'Definition' to registry.
+Adding dependency type 'Definition' to registry.
+SUCCESS: Package 'Windows Media Format Runtime'.  Result: 0x0.
+
+======Installing component 'fhg'.
+  Package 'fhg' is version '1.9.0.305'.  This is 'newer' than the version currently installed.
+  InfParser: Set source directory 'C:\users\devecoisas\AppData\Local\Temp\IXP000.TMP'.
+INF: Found section 'DEFAULTINSTALL.NT'.
+ Parsing Reg section:'Reg.Del'.
+INF: Found section 'DEFAULTINSTALL.NT'.
+ Source location is:'C:\users\devecoisas\AppData\Local\Temp\IXP000.TMP'.
+ Parsing 'DELFILES' INFSection:'Files.Clean'
+INF: Found section 'DESTINATIONDIRS'.
+ Assigned destination: 'C:\windows\system32\' to 'Files.Clean'.
+INF: Found section 'DEFAULTINSTALL.NT'.
+ Source location is:'C:\users\devecoisas\AppData\Local\Temp\IXP000.TMP'.
+ Parsing 'COPYFILES' INFSection:'CopyFiles.DLL'
+INF: Found section 'DESTINATIONDIRS'.
+ Assigned destination: 'C:\windows\system32\' to 'CopyFiles.DLL'.
+  WMC_CopyFile: File 'C:\windows\system32\l3codeca.acm' is newer than the version to be installed.  No copy will occur.
+  Package 'fhg' is version '1.9.0.305'.  This is 'newer' than the version currently installed.
+ Parsing 'COPYFILES' INFSection:'CopyINF'
+INF: Found section 'DESTINATIONDIRS'.
+ Assigned destination: 'C:\windows\INF\' to 'CopyINF'.
+  WMC_CopyFile: Could not find file version for 'C:\windows\INF\fhg.inf'.  This file will be overwritten.
+ Copied file 'fhg.inf' to 'C:\windows\INF\'.
+INF: Found section 'DEFAULTINSTALL.NT'.
+ Parsing Reg section:'AddReg'.
+ Parsing Reg section:'AddReg.NT'.
+ Parsing Reg section:'AddUninst'.
+ Processed ADDREG line: 'HKCR,Software\Microsoft\Multimedia\Components\Installed\codec_fhg\Uninstall,InstallFile,2,C:\windows\inf\fhg.inf', result 0x0.
+ Processed ADDREG line: 'HKCR,Software\Microsoft\Multimedia\Components\Installed\codec_fhg\Uninstall,InstallType,,advinf', result 0x0.
+ Processed ADDREG line: 'HKCR,Software\Microsoft\Multimedia\Components\Installed\codec_fhg\AddsTo\Ref1,,,HKCR,.wav', result 0x0.
+ Processed ADDREG line: 'HKCR,Software\Microsoft\Multimedia\Components\Installed\codec_fhg\AddsTo\Ref1,Type,,Registry', result 0x0.
+ Processed ADDREG line: 'HKCR,Software\Microsoft\Multimedia\Components\Installed\codec_fhg\AddsTo\Ref2,,,HKCR,.wma', result 0x0.
+ Processed ADDREG line: 'HKCR,Software\Microsoft\Multimedia\Components\Installed\codec_fhg\AddsTo\Ref2,Type,,Registry', result 0x0.
+INF: Found section 'DEFAULTINSTALL.NT'.
+ Parsing RegisterOCX INFSection:'OCX.Register'.
+ Registering DLL: 'C:\windows\system32\l3codeca.acm'.
+ERROR: Dll Registration: Failed for file 'C:\windows\system32\l3codeca.acm': '0x8007007f'.
+ERROR: INF parser failed on: 'C:\users\devecoisas\AppData\Local\Temp\IXP000.TMP\fhg.inf'.  Result: 0x8007007f.
+  Package install complete.  Last result 0x8007007f.
+ERROR: Package 'fhg'.  Result: 0x8007007f.
+
+Setup complete.  Result: '0x8007007f'.

@@ -1,0 +1,83 @@
+[Version] 
+Signature   = "$Chicago$" 
+AdvancedINF = 2.5, "Your setup subsystem is outdated.  Please install IE 3.01 or greater." 
+  
+  
+[DefaultInstall] 
+RequiredEngine=Setupapi 
+CopyFiles  = CopyFiles.DLL, CopyINF 
+DelFiles=Files.Clean 
+UpdateInis = UpdateInis.95 
+RegisterOCXs     = OCX.Register 
+AddReg = AddReg, AddReg.NT, AddUninst, AddReg.95 
+DelReg     = Reg.Del 
+  
+[DefaultInstall.NT] 
+CopyFiles  = CopyFiles.DLL, CopyINF 
+DelFiles=Files.Clean 
+RegisterOCXs     = OCX.Register 
+AddReg     = AddReg, AddReg.NT, AddUninst 
+DelReg     = Reg.Del 
+  
+[NonAdminInstall] 
+AddReg     = UpdateDMO.Reg 
+IgnoreErrors = UpdateInis,AddReg,RegisterOCXs 
+  
+[Uninstall] 
+DelFiles  = CopyFiles.DLL 
+UnRegisterOCXs     = OCX.Register 
+DelReg     = DelReg 
+UpdateInis = DelInis.95 
+  
+[DestinationDirs] 
+CopyFiles.DLL        = 11  
+DefaultDestDir       = 11  
+Files.Clean    = 11 
+CopyINF    = 17 
+  
+[UpdateInis.95]  
+  
+[UpdateDMO.Reg]  
+HKCR,"windows media\WMSDK\AudioDecode\85","DllName",,"l3codeca.acm" 
+  
+[DelInis.95]  
+  
+[AddUninst] 
+HKCR, "Software\Microsoft\Multimedia\Components\Installed\codec_fhg\Uninstall", "InstallFile",2, "%17%\fhg.inf" 
+HKCR, "Software\Microsoft\Multimedia\Components\Installed\codec_fhg\Uninstall", "InstallType",, "advinf" 
+HKCR, "Software\Microsoft\Multimedia\Components\Installed\codec_fhg\AddsTo\Ref1",,, "HKCR,.wav" 
+HKCR, "Software\Microsoft\Multimedia\Components\Installed\codec_fhg\AddsTo\Ref1","Type",, "Registry" 
+HKCR, "Software\Microsoft\Multimedia\Components\Installed\codec_fhg\AddsTo\Ref2",,, "HKCR,.wma" 
+HKCR, "Software\Microsoft\Multimedia\Components\Installed\codec_fhg\AddsTo\Ref2","Type",, "Registry" 
+  
+[AddReg] 
+  
+[AddReg.NT] 
+  
+[AddReg.95] 
+  
+[DelReg] 
+HKLM, "SOFTWARE\Microsoft\Windows NT\CurrentVersion\drivers.desc", "l3codeca.acm" 
+HKCR,"windows media\WMSDK\AudioDecode\85" 
+  
+[Reg.Del] 
+  
+[OCX.Register] 
+"%11%\l3codeca.acm"  
+  
+[SourceDisksNames] 
+1 = "Fraunhofer IIS MPEG Layer-3 Codec Install",,0 
+  
+[SourceDisksFiles] 
+l3codeca.acm=1 
+  
+[CopyFiles.DLL] 
+l3codeca.acm,,,97 
+  
+[CopyINF] 
+fhg.inf 
+  
+[Files.Clean] 
+  
+[Strings] 
+  
