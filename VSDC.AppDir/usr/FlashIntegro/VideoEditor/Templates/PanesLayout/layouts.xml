@@ -1,0 +1,34 @@
+<PropertiesBag version="1" tag="-1" type="13" itype="1">
+	<PaneDesc version="1" tag="-1" type="13" itype="1" ctype="0" pos="0">
+		<Title type="8" pos="0">Classic</Title>
+		<Path type="8" pos="1">classic.layout</Path>
+	</PaneDesc>
+	<PaneDesc version="1" tag="-1" type="13" itype="1" ctype="0" pos="1">
+		<Title type="8" pos="0">Compact</Title>
+		<Path type="8" pos="1">compact.layout</Path>
+	</PaneDesc>
+	<PaneDesc version="1" tag="-1" type="13" itype="1" ctype="0" pos="2">
+		<Title type="8" pos="0">Color</Title>
+		<Path type="8" pos="1">color.layout</Path>
+	</PaneDesc>
+	<PaneDesc version="1" tag="-1" type="13" itype="1" ctype="0" pos="3">
+		<Title type="8" pos="0">Parameters</Title>
+		<Path type="8" pos="1">parameters.layout</Path>
+	</PaneDesc>
+	<PaneDesc version="1" tag="-1" type="13" itype="1" ctype="0" pos="4">
+		<Title type="8" pos="0">Timeline</Title>
+		<Path type="8" pos="1">timeline.layout</Path>
+	</PaneDesc>
+	<PaneDesc version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+		<Title type="8" pos="0">Libraries</Title>
+		<Path type="8" pos="1">libraries.layout</Path>
+	</PaneDesc>
+	<PaneDesc version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+		<Title type="8" pos="0">Adobe Premiere</Title>
+		<Path type="8" pos="1">Adobe_Premiere.layout</Path>
+	</PaneDesc>
+	<PaneDesc version="1" tag="-1" type="13" itype="1" ctype="0" pos="7">
+		<Title type="8" pos="0">DaVinci Resolve</Title>
+		<Path type="8" pos="1">DaVinci_Resolve.layout</Path>
+	</PaneDesc>
+</PropertiesBag>

@@ -1,0 +1,37 @@
+<quickaccess version="1" tag="-1" type="13" itype="1">
+	<qa version="1" tag="-1" type="13" itype="1" ctype="0" pos="0">
+		<id type="3" pos="0">101</id>
+		<node type="8" pos="1">652EB6FA-C8BF-4317-BC55-FF32EF5DF016</node>
+		<iconid type="3" pos="2">1000</iconid>
+	</qa>
+	<qa version="1" tag="-1" type="13" itype="1" ctype="0" pos="1">
+		<id type="3" pos="0">102</id>
+		<node type="8" pos="1">A49F2BD2-087A-4853-9E80-77AA404E2861</node>
+		<iconid type="3" pos="2">1002</iconid>
+	</qa>
+	<qa version="1" tag="-1" type="13" itype="1" ctype="0" pos="2">
+		<id type="3" pos="0">103</id>
+		<node type="8" pos="1">2D1C4A91-C0B6-45B1-9586-DE4879452CFA</node>
+		<iconid type="3" pos="2">1003</iconid>
+	</qa>
+	<qa version="1" tag="-1" type="13" itype="1" ctype="0" pos="3">
+		<id type="3" pos="0">104</id>
+		<node type="8" pos="1">7C4D8F92-2D57-4703-AF94-3EEE3D104669</node>
+		<iconid type="3" pos="2">1004</iconid>
+	</qa>
+	<qa version="1" tag="-1" type="13" itype="1" ctype="0" pos="4">
+		<id type="3" pos="0">105</id>
+		<node type="8" pos="1">4929C3A2-50AD-4B52-9358-C282542A137B</node>
+		<iconid type="3" pos="2">1007</iconid>
+	</qa>
+	<qa version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+		<id type="3" pos="0">106</id>
+		<node type="8" pos="1">87EA8D14-CBDF-4656-B5D1-09E241226439</node>
+		<iconid type="3" pos="2">1008</iconid>
+	</qa>
+	<qa version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+		<id type="3" pos="0">107</id>
+		<node type="8" pos="1">9EB360F1-87C3-45FB-A4B6-1174D07EB1CB</node>
+		<iconid type="3" pos="2">1005</iconid>
+	</qa>
+</quickaccess>

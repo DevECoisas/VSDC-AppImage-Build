@@ -1,0 +1,2396 @@
+<Profiles version="1">
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">Common</ProfileGroup>
+		<ProfileName type="8" pos="2">100% Quality Download (VBR)</ProfileName>
+		<ProfileDescription type="8" pos="3">100% Quality Download (VBR)</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<VideoStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="204" pos="0">
+				<Format version="1">
+					<AVType>204</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<fccHandler>0</fccHandler>
+					<InternalCodec>72</InternalCodec>
+					<EncodeMode>1</EncodeMode>
+					<Bitrate>4936000</Bitrate>
+					<Quality>100</Quality>
+					<TargetFileSize>1379328</TargetFileSize>
+					<Width>0</Width>
+					<Height>0</Height>
+					<FrameRate>0</FrameRate>
+					<AspectX>320</AspectX>
+					<AspectY>240</AspectY>
+					<ColorSpace>0</ColorSpace>
+					<Interlaced>0</Interlaced>
+					<HasTransparent>0</HasTransparent>
+					<FormatName>
+					</FormatName>
+					<EncodingType>1</EncodingType>
+					<EncodingComplexity>2</EncodingComplexity>
+					<VideoMode>0</VideoMode>
+					<MaxStartupLatency>4</MaxStartupLatency>
+					<LossProtection>0</LossProtection>
+					<MaxOutputFrameRate>0</MaxOutputFrameRate>
+					<MaxTimeBetweenKeyFrames>10</MaxTimeBetweenKeyFrames>
+				</Format>
+			</AVFormat>
+		</VideoStreamInfo>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<AVFormat type="13" itype="4" ctype="0" avtype="103" pos="0">
+				<Format version="1">
+					<AVType>103</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>86039</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>0</FormatTag>
+					<Channels>0</Channels>
+					<SamplesPerSec>0</SamplesPerSec>
+					<BitsPerSample>0</BitsPerSample>
+					<BlockAlign>0</BlockAlign>
+					<AvgBytesPerSec>0</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+					<CodecFlavor>14</CodecFlavor>
+					<EncodingComplexity>2</EncodingComplexity>
+					<AudioMode>0</AudioMode>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">Common</ProfileGroup>
+		<ProfileName type="8" pos="2">128k Dual ISDN</ProfileName>
+		<ProfileDescription type="8" pos="3">128k Dual ISDN</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<VideoStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="204" pos="0">
+				<Format version="1">
+					<AVType>204</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<fccHandler>0</fccHandler>
+					<InternalCodec>72</InternalCodec>
+					<EncodeMode>1</EncodeMode>
+					<Bitrate>80000</Bitrate>
+					<Quality>40</Quality>
+					<TargetFileSize>1379328</TargetFileSize>
+					<Width>0</Width>
+					<Height>0</Height>
+					<FrameRate>15</FrameRate>
+					<AspectX>320</AspectX>
+					<AspectY>240</AspectY>
+					<ColorSpace>0</ColorSpace>
+					<Interlaced>0</Interlaced>
+					<HasTransparent>0</HasTransparent>
+					<FormatName>
+					</FormatName>
+					<EncodingType>0</EncodingType>
+					<EncodingComplexity>2</EncodingComplexity>
+					<VideoMode>0</VideoMode>
+					<MaxStartupLatency>4</MaxStartupLatency>
+					<LossProtection>0</LossProtection>
+					<MaxOutputFrameRate>0</MaxOutputFrameRate>
+					<MaxTimeBetweenKeyFrames>10</MaxTimeBetweenKeyFrames>
+				</Format>
+			</AVFormat>
+		</VideoStreamInfo>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<AVFormat type="13" itype="4" ctype="0" avtype="103" pos="0">
+				<Format version="1">
+					<AVType>103</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>86039</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>0</FormatTag>
+					<Channels>0</Channels>
+					<SamplesPerSec>0</SamplesPerSec>
+					<BitsPerSample>0</BitsPerSample>
+					<BlockAlign>0</BlockAlign>
+					<AvgBytesPerSec>0</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+					<CodecFlavor>3</CodecFlavor>
+					<EncodingComplexity>2</EncodingComplexity>
+					<AudioMode>0</AudioMode>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">Common</ProfileGroup>
+		<ProfileName type="8" pos="2">12k Substream for 28k Dial-up</ProfileName>
+		<ProfileDescription type="8" pos="3">12k Substream for 28k Dial-up</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<VideoStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="204" pos="0">
+				<Format version="1">
+					<AVType>204</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<fccHandler>0</fccHandler>
+					<InternalCodec>72</InternalCodec>
+					<EncodeMode>1</EncodeMode>
+					<Bitrate>6000</Bitrate>
+					<Quality>30</Quality>
+					<TargetFileSize>1379328</TargetFileSize>
+					<Width>0</Width>
+					<Height>0</Height>
+					<FrameRate>15</FrameRate>
+					<AspectX>320</AspectX>
+					<AspectY>240</AspectY>
+					<ColorSpace>0</ColorSpace>
+					<Interlaced>0</Interlaced>
+					<HasTransparent>0</HasTransparent>
+					<FormatName>
+					</FormatName>
+					<EncodingType>0</EncodingType>
+					<EncodingComplexity>2</EncodingComplexity>
+					<VideoMode>0</VideoMode>
+					<MaxStartupLatency>4</MaxStartupLatency>
+					<LossProtection>0</LossProtection>
+					<MaxOutputFrameRate>0</MaxOutputFrameRate>
+					<MaxTimeBetweenKeyFrames>10</MaxTimeBetweenKeyFrames>
+				</Format>
+			</AVFormat>
+		</VideoStreamInfo>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<AVFormat type="13" itype="4" ctype="0" avtype="103" pos="0">
+				<Format version="1">
+					<AVType>103</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>86039</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>0</FormatTag>
+					<Channels>0</Channels>
+					<SamplesPerSec>0</SamplesPerSec>
+					<BitsPerSample>0</BitsPerSample>
+					<BlockAlign>0</BlockAlign>
+					<AvgBytesPerSec>0</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+					<CodecFlavor>8</CodecFlavor>
+					<EncodingComplexity>2</EncodingComplexity>
+					<AudioMode>0</AudioMode>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">Common</ProfileGroup>
+		<ProfileName type="8" pos="2">150k LAN</ProfileName>
+		<ProfileDescription type="8" pos="3">150k LAN</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<VideoStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="204" pos="0">
+				<Format version="1">
+					<AVType>204</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<fccHandler>0</fccHandler>
+					<InternalCodec>72</InternalCodec>
+					<EncodeMode>1</EncodeMode>
+					<Bitrate>118000</Bitrate>
+					<Quality>60</Quality>
+					<TargetFileSize>1379328</TargetFileSize>
+					<Width>0</Width>
+					<Height>0</Height>
+					<FrameRate>0</FrameRate>
+					<AspectX>320</AspectX>
+					<AspectY>240</AspectY>
+					<ColorSpace>0</ColorSpace>
+					<Interlaced>0</Interlaced>
+					<HasTransparent>0</HasTransparent>
+					<FormatName>
+					</FormatName>
+					<EncodingType>0</EncodingType>
+					<EncodingComplexity>2</EncodingComplexity>
+					<VideoMode>0</VideoMode>
+					<MaxStartupLatency>4</MaxStartupLatency>
+					<LossProtection>0</LossProtection>
+					<MaxOutputFrameRate>0</MaxOutputFrameRate>
+					<MaxTimeBetweenKeyFrames>10</MaxTimeBetweenKeyFrames>
+				</Format>
+			</AVFormat>
+		</VideoStreamInfo>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<AVFormat type="13" itype="4" ctype="0" avtype="103" pos="0">
+				<Format version="1">
+					<AVType>103</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>86039</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>0</FormatTag>
+					<Channels>0</Channels>
+					<SamplesPerSec>0</SamplesPerSec>
+					<BitsPerSample>0</BitsPerSample>
+					<BlockAlign>0</BlockAlign>
+					<AvgBytesPerSec>0</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+					<CodecFlavor>21</CodecFlavor>
+					<EncodingComplexity>2</EncodingComplexity>
+					<AudioMode>0</AudioMode>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">Common</ProfileGroup>
+		<ProfileName type="8" pos="2">16k Substream for 28k Dial-up</ProfileName>
+		<ProfileDescription type="8" pos="3">16k Substream for 28k Dial-up</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<VideoStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="204" pos="0">
+				<Format version="1">
+					<AVType>204</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<fccHandler>0</fccHandler>
+					<InternalCodec>72</InternalCodec>
+					<EncodeMode>1</EncodeMode>
+					<Bitrate>10000</Bitrate>
+					<Quality>30</Quality>
+					<TargetFileSize>1379328</TargetFileSize>
+					<Width>0</Width>
+					<Height>0</Height>
+					<FrameRate>15</FrameRate>
+					<AspectX>320</AspectX>
+					<AspectY>240</AspectY>
+					<ColorSpace>0</ColorSpace>
+					<Interlaced>0</Interlaced>
+					<HasTransparent>0</HasTransparent>
+					<FormatName>
+					</FormatName>
+					<EncodingType>0</EncodingType>
+					<EncodingComplexity>2</EncodingComplexity>
+					<VideoMode>0</VideoMode>
+					<MaxStartupLatency>4</MaxStartupLatency>
+					<LossProtection>0</LossProtection>
+					<MaxOutputFrameRate>0</MaxOutputFrameRate>
+					<MaxTimeBetweenKeyFrames>10</MaxTimeBetweenKeyFrames>
+				</Format>
+			</AVFormat>
+		</VideoStreamInfo>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<AVFormat type="13" itype="4" ctype="0" avtype="103" pos="0">
+				<Format version="1">
+					<AVType>103</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>86039</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>0</FormatTag>
+					<Channels>0</Channels>
+					<SamplesPerSec>0</SamplesPerSec>
+					<BitsPerSample>0</BitsPerSample>
+					<BlockAlign>0</BlockAlign>
+					<AvgBytesPerSec>0</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+					<CodecFlavor>8</CodecFlavor>
+					<EncodingComplexity>2</EncodingComplexity>
+					<AudioMode>0</AudioMode>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">Common</ProfileGroup>
+		<ProfileName type="8" pos="2">1M Download (VBR)</ProfileName>
+		<ProfileDescription type="8" pos="3">1M Download (VBR)</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<VideoStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="204" pos="0">
+				<Format version="1">
+					<AVType>204</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<fccHandler>0</fccHandler>
+					<InternalCodec>72</InternalCodec>
+					<EncodeMode>1</EncodeMode>
+					<Bitrate>904000</Bitrate>
+					<Quality>90</Quality>
+					<TargetFileSize>1379328</TargetFileSize>
+					<Width>0</Width>
+					<Height>0</Height>
+					<FrameRate>0</FrameRate>
+					<AspectX>320</AspectX>
+					<AspectY>240</AspectY>
+					<ColorSpace>0</ColorSpace>
+					<Interlaced>0</Interlaced>
+					<HasTransparent>0</HasTransparent>
+					<FormatName>
+					</FormatName>
+					<EncodingType>1</EncodingType>
+					<EncodingComplexity>2</EncodingComplexity>
+					<VideoMode>0</VideoMode>
+					<MaxStartupLatency>4</MaxStartupLatency>
+					<LossProtection>0</LossProtection>
+					<MaxOutputFrameRate>0</MaxOutputFrameRate>
+					<MaxTimeBetweenKeyFrames>10</MaxTimeBetweenKeyFrames>
+				</Format>
+			</AVFormat>
+		</VideoStreamInfo>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<AVFormat type="13" itype="4" ctype="0" avtype="103" pos="0">
+				<Format version="1">
+					<AVType>103</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>86039</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>0</FormatTag>
+					<Channels>0</Channels>
+					<SamplesPerSec>0</SamplesPerSec>
+					<BitsPerSample>0</BitsPerSample>
+					<BlockAlign>0</BlockAlign>
+					<AvgBytesPerSec>0</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+					<CodecFlavor>25</CodecFlavor>
+					<EncodingComplexity>2</EncodingComplexity>
+					<AudioMode>0</AudioMode>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">Common</ProfileGroup>
+		<ProfileName type="8" pos="2">1M Multichannel (VBR)</ProfileName>
+		<ProfileDescription type="8" pos="3">1M Multichannel (VBR)</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<VideoStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="204" pos="0">
+				<Format version="1">
+					<AVType>204</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<fccHandler>0</fccHandler>
+					<InternalCodec>72</InternalCodec>
+					<EncodeMode>1</EncodeMode>
+					<Bitrate>817000</Bitrate>
+					<Quality>90</Quality>
+					<TargetFileSize>1379328</TargetFileSize>
+					<Width>0</Width>
+					<Height>0</Height>
+					<FrameRate>0</FrameRate>
+					<AspectX>320</AspectX>
+					<AspectY>240</AspectY>
+					<ColorSpace>0</ColorSpace>
+					<Interlaced>0</Interlaced>
+					<HasTransparent>0</HasTransparent>
+					<FormatName>
+					</FormatName>
+					<EncodingType>1</EncodingType>
+					<EncodingComplexity>2</EncodingComplexity>
+					<VideoMode>0</VideoMode>
+					<MaxStartupLatency>4</MaxStartupLatency>
+					<LossProtection>0</LossProtection>
+					<MaxOutputFrameRate>0</MaxOutputFrameRate>
+					<MaxTimeBetweenKeyFrames>10</MaxTimeBetweenKeyFrames>
+				</Format>
+			</AVFormat>
+		</VideoStreamInfo>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<AVFormat type="13" itype="4" ctype="0" avtype="103" pos="0">
+				<Format version="1">
+					<AVType>103</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>86039</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>0</FormatTag>
+					<Channels>0</Channels>
+					<SamplesPerSec>0</SamplesPerSec>
+					<BitsPerSample>0</BitsPerSample>
+					<BlockAlign>0</BlockAlign>
+					<AvgBytesPerSec>0</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+					<CodecFlavor>32</CodecFlavor>
+					<EncodingComplexity>2</EncodingComplexity>
+					<AudioMode>0</AudioMode>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">Common</ProfileGroup>
+		<ProfileName type="8" pos="2">1M Surround Stereo (VBR)</ProfileName>
+		<ProfileDescription type="8" pos="3">1M Surround Stereo (VBR)</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<VideoStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="204" pos="0">
+				<Format version="1">
+					<AVType>204</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<fccHandler>0</fccHandler>
+					<InternalCodec>72</InternalCodec>
+					<EncodeMode>1</EncodeMode>
+					<Bitrate>904000</Bitrate>
+					<Quality>90</Quality>
+					<TargetFileSize>1379328</TargetFileSize>
+					<Width>0</Width>
+					<Height>0</Height>
+					<FrameRate>0</FrameRate>
+					<AspectX>320</AspectX>
+					<AspectY>240</AspectY>
+					<ColorSpace>0</ColorSpace>
+					<Interlaced>0</Interlaced>
+					<HasTransparent>0</HasTransparent>
+					<FormatName>
+					</FormatName>
+					<EncodingType>1</EncodingType>
+					<EncodingComplexity>2</EncodingComplexity>
+					<VideoMode>0</VideoMode>
+					<MaxStartupLatency>4</MaxStartupLatency>
+					<LossProtection>0</LossProtection>
+					<MaxOutputFrameRate>0</MaxOutputFrameRate>
+					<MaxTimeBetweenKeyFrames>10</MaxTimeBetweenKeyFrames>
+				</Format>
+			</AVFormat>
+		</VideoStreamInfo>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<AVFormat type="13" itype="4" ctype="0" avtype="103" pos="0">
+				<Format version="1">
+					<AVType>103</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>86039</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>0</FormatTag>
+					<Channels>0</Channels>
+					<SamplesPerSec>0</SamplesPerSec>
+					<BitsPerSample>0</BitsPerSample>
+					<BlockAlign>0</BlockAlign>
+					<AvgBytesPerSec>0</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+					<CodecFlavor>25</CodecFlavor>
+					<EncodingComplexity>2</EncodingComplexity>
+					<AudioMode>0</AudioMode>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">Common</ProfileGroup>
+		<ProfileName type="8" pos="2">256k DSL or Cable</ProfileName>
+		<ProfileDescription type="8" pos="3">256k DSL or Cable</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<VideoStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="204" pos="0">
+				<Format version="1">
+					<AVType>204</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<fccHandler>0</fccHandler>
+					<InternalCodec>72</InternalCodec>
+					<EncodeMode>1</EncodeMode>
+					<Bitrate>181000</Bitrate>
+					<Quality>70</Quality>
+					<TargetFileSize>1379328</TargetFileSize>
+					<Width>0</Width>
+					<Height>0</Height>
+					<FrameRate>0</FrameRate>
+					<AspectX>320</AspectX>
+					<AspectY>240</AspectY>
+					<ColorSpace>0</ColorSpace>
+					<Interlaced>0</Interlaced>
+					<HasTransparent>0</HasTransparent>
+					<FormatName>
+					</FormatName>
+					<EncodingType>0</EncodingType>
+					<EncodingComplexity>2</EncodingComplexity>
+					<VideoMode>0</VideoMode>
+					<MaxStartupLatency>4</MaxStartupLatency>
+					<LossProtection>0</LossProtection>
+					<MaxOutputFrameRate>0</MaxOutputFrameRate>
+					<MaxTimeBetweenKeyFrames>10</MaxTimeBetweenKeyFrames>
+				</Format>
+			</AVFormat>
+		</VideoStreamInfo>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<AVFormat type="13" itype="4" ctype="0" avtype="103" pos="0">
+				<Format version="1">
+					<AVType>103</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>86039</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>0</FormatTag>
+					<Channels>0</Channels>
+					<SamplesPerSec>0</SamplesPerSec>
+					<BitsPerSample>0</BitsPerSample>
+					<BlockAlign>0</BlockAlign>
+					<AvgBytesPerSec>0</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+					<CodecFlavor>23</CodecFlavor>
+					<EncodingComplexity>2</EncodingComplexity>
+					<AudioMode>0</AudioMode>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">Common</ProfileGroup>
+		<ProfileName type="8" pos="2">26k Substream for 56k Dial-up</ProfileName>
+		<ProfileDescription type="8" pos="3">26k Substream for 56k Dial-up</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<VideoStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="204" pos="0">
+				<Format version="1">
+					<AVType>204</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<fccHandler>0</fccHandler>
+					<InternalCodec>72</InternalCodec>
+					<EncodeMode>1</EncodeMode>
+					<Bitrate>18000</Bitrate>
+					<Quality>30</Quality>
+					<TargetFileSize>1379328</TargetFileSize>
+					<Width>0</Width>
+					<Height>0</Height>
+					<FrameRate>15</FrameRate>
+					<AspectX>320</AspectX>
+					<AspectY>240</AspectY>
+					<ColorSpace>0</ColorSpace>
+					<Interlaced>0</Interlaced>
+					<HasTransparent>0</HasTransparent>
+					<FormatName>
+					</FormatName>
+					<EncodingType>0</EncodingType>
+					<EncodingComplexity>2</EncodingComplexity>
+					<VideoMode>0</VideoMode>
+					<MaxStartupLatency>4</MaxStartupLatency>
+					<LossProtection>0</LossProtection>
+					<MaxOutputFrameRate>0</MaxOutputFrameRate>
+					<MaxTimeBetweenKeyFrames>10</MaxTimeBetweenKeyFrames>
+				</Format>
+			</AVFormat>
+		</VideoStreamInfo>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<AVFormat type="13" itype="4" ctype="0" avtype="103" pos="0">
+				<Format version="1">
+					<AVType>103</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>86039</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>0</FormatTag>
+					<Channels>0</Channels>
+					<SamplesPerSec>0</SamplesPerSec>
+					<BitsPerSample>0</BitsPerSample>
+					<BlockAlign>0</BlockAlign>
+					<AvgBytesPerSec>0</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+					<CodecFlavor>0</CodecFlavor>
+					<EncodingComplexity>2</EncodingComplexity>
+					<AudioMode>0</AudioMode>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">Common</ProfileGroup>
+		<ProfileName type="8" pos="2">28k Dial-up</ProfileName>
+		<ProfileDescription type="8" pos="3">28k Dial-up</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<VideoStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="204" pos="0">
+				<Format version="1">
+					<AVType>204</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<fccHandler>0</fccHandler>
+					<InternalCodec>72</InternalCodec>
+					<EncodeMode>1</EncodeMode>
+					<Bitrate>12000</Bitrate>
+					<Quality>30</Quality>
+					<TargetFileSize>1379328</TargetFileSize>
+					<Width>0</Width>
+					<Height>0</Height>
+					<FrameRate>15</FrameRate>
+					<AspectX>320</AspectX>
+					<AspectY>240</AspectY>
+					<ColorSpace>0</ColorSpace>
+					<Interlaced>0</Interlaced>
+					<HasTransparent>0</HasTransparent>
+					<FormatName>
+					</FormatName>
+					<EncodingType>0</EncodingType>
+					<EncodingComplexity>2</EncodingComplexity>
+					<VideoMode>0</VideoMode>
+					<MaxStartupLatency>4</MaxStartupLatency>
+					<LossProtection>0</LossProtection>
+					<MaxOutputFrameRate>0</MaxOutputFrameRate>
+					<MaxTimeBetweenKeyFrames>10</MaxTimeBetweenKeyFrames>
+				</Format>
+			</AVFormat>
+		</VideoStreamInfo>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<AVFormat type="13" itype="4" ctype="0" avtype="103" pos="0">
+				<Format version="1">
+					<AVType>103</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>86039</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>0</FormatTag>
+					<Channels>0</Channels>
+					<SamplesPerSec>0</SamplesPerSec>
+					<BitsPerSample>0</BitsPerSample>
+					<BlockAlign>0</BlockAlign>
+					<AvgBytesPerSec>0</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+					<CodecFlavor>0</CodecFlavor>
+					<EncodingComplexity>2</EncodingComplexity>
+					<AudioMode>0</AudioMode>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">Common</ProfileGroup>
+		<ProfileName type="8" pos="2">2M Download (VBR)</ProfileName>
+		<ProfileDescription type="8" pos="3">2M Download (VBR)</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<VideoStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="204" pos="0">
+				<Format version="1">
+					<AVType>204</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<fccHandler>0</fccHandler>
+					<InternalCodec>72</InternalCodec>
+					<EncodeMode>1</EncodeMode>
+					<Bitrate>1936000</Bitrate>
+					<Quality>95</Quality>
+					<TargetFileSize>1379328</TargetFileSize>
+					<Width>0</Width>
+					<Height>0</Height>
+					<FrameRate>0</FrameRate>
+					<AspectX>320</AspectX>
+					<AspectY>240</AspectY>
+					<ColorSpace>0</ColorSpace>
+					<Interlaced>0</Interlaced>
+					<HasTransparent>0</HasTransparent>
+					<FormatName>
+					</FormatName>
+					<EncodingType>1</EncodingType>
+					<EncodingComplexity>2</EncodingComplexity>
+					<VideoMode>0</VideoMode>
+					<MaxStartupLatency>4</MaxStartupLatency>
+					<LossProtection>0</LossProtection>
+					<MaxOutputFrameRate>0</MaxOutputFrameRate>
+					<MaxTimeBetweenKeyFrames>10</MaxTimeBetweenKeyFrames>
+				</Format>
+			</AVFormat>
+		</VideoStreamInfo>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<AVFormat type="13" itype="4" ctype="0" avtype="103" pos="0">
+				<Format version="1">
+					<AVType>103</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>86039</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>0</FormatTag>
+					<Channels>0</Channels>
+					<SamplesPerSec>0</SamplesPerSec>
+					<BitsPerSample>0</BitsPerSample>
+					<BlockAlign>0</BlockAlign>
+					<AvgBytesPerSec>0</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+					<CodecFlavor>27</CodecFlavor>
+					<EncodingComplexity>2</EncodingComplexity>
+					<AudioMode>0</AudioMode>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">Common</ProfileGroup>
+		<ProfileName type="8" pos="2">2M Multichannel (VBR)</ProfileName>
+		<ProfileDescription type="8" pos="3">2M Multichannel (VBR)</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<VideoStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="204" pos="0">
+				<Format version="1">
+					<AVType>204</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<fccHandler>0</fccHandler>
+					<InternalCodec>72</InternalCodec>
+					<EncodeMode>1</EncodeMode>
+					<Bitrate>1732000</Bitrate>
+					<Quality>95</Quality>
+					<TargetFileSize>1379328</TargetFileSize>
+					<Width>0</Width>
+					<Height>0</Height>
+					<FrameRate>0</FrameRate>
+					<AspectX>320</AspectX>
+					<AspectY>240</AspectY>
+					<ColorSpace>0</ColorSpace>
+					<Interlaced>0</Interlaced>
+					<HasTransparent>0</HasTransparent>
+					<FormatName>
+					</FormatName>
+					<EncodingType>0</EncodingType>
+					<EncodingComplexity>2</EncodingComplexity>
+					<VideoMode>0</VideoMode>
+					<MaxStartupLatency>4</MaxStartupLatency>
+					<LossProtection>0</LossProtection>
+					<MaxOutputFrameRate>0</MaxOutputFrameRate>
+					<MaxTimeBetweenKeyFrames>10</MaxTimeBetweenKeyFrames>
+				</Format>
+			</AVFormat>
+		</VideoStreamInfo>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<AVFormat type="13" itype="4" ctype="0" avtype="103" pos="0">
+				<Format version="1">
+					<AVType>103</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>86039</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>0</FormatTag>
+					<Channels>0</Channels>
+					<SamplesPerSec>0</SamplesPerSec>
+					<BitsPerSample>0</BitsPerSample>
+					<BlockAlign>0</BlockAlign>
+					<AvgBytesPerSec>0</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+					<CodecFlavor>33</CodecFlavor>
+					<EncodingComplexity>2</EncodingComplexity>
+					<AudioMode>0</AudioMode>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">Common</ProfileGroup>
+		<ProfileName type="8" pos="2">2M Surround Stereo (VBR)</ProfileName>
+		<ProfileDescription type="8" pos="3">2M Surround Stereo (VBR)</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<VideoStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="204" pos="0">
+				<Format version="1">
+					<AVType>204</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<fccHandler>0</fccHandler>
+					<InternalCodec>72</InternalCodec>
+					<EncodeMode>1</EncodeMode>
+					<Bitrate>1904000</Bitrate>
+					<Quality>95</Quality>
+					<TargetFileSize>1379328</TargetFileSize>
+					<Width>0</Width>
+					<Height>0</Height>
+					<FrameRate>0</FrameRate>
+					<AspectX>320</AspectX>
+					<AspectY>240</AspectY>
+					<ColorSpace>0</ColorSpace>
+					<Interlaced>0</Interlaced>
+					<HasTransparent>0</HasTransparent>
+					<FormatName>
+					</FormatName>
+					<EncodingType>1</EncodingType>
+					<EncodingComplexity>2</EncodingComplexity>
+					<VideoMode>0</VideoMode>
+					<MaxStartupLatency>4</MaxStartupLatency>
+					<LossProtection>0</LossProtection>
+					<MaxOutputFrameRate>0</MaxOutputFrameRate>
+					<MaxTimeBetweenKeyFrames>10</MaxTimeBetweenKeyFrames>
+				</Format>
+			</AVFormat>
+		</VideoStreamInfo>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<AVFormat type="13" itype="4" ctype="0" avtype="103" pos="0">
+				<Format version="1">
+					<AVType>103</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>86039</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>0</FormatTag>
+					<Channels>0</Channels>
+					<SamplesPerSec>0</SamplesPerSec>
+					<BitsPerSample>0</BitsPerSample>
+					<BlockAlign>0</BlockAlign>
+					<AvgBytesPerSec>0</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+					<CodecFlavor>25</CodecFlavor>
+					<EncodingComplexity>2</EncodingComplexity>
+					<AudioMode>0</AudioMode>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">Common</ProfileGroup>
+		<ProfileName type="8" pos="2">350k Download (VBR)</ProfileName>
+		<ProfileDescription type="8" pos="3">350k Download (VBR)</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<VideoStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="204" pos="0">
+				<Format version="1">
+					<AVType>204</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<fccHandler>0</fccHandler>
+					<InternalCodec>72</InternalCodec>
+					<EncodeMode>1</EncodeMode>
+					<Bitrate>286000</Bitrate>
+					<Quality>60</Quality>
+					<TargetFileSize>1379328</TargetFileSize>
+					<Width>0</Width>
+					<Height>0</Height>
+					<FrameRate>0</FrameRate>
+					<AspectX>320</AspectX>
+					<AspectY>240</AspectY>
+					<ColorSpace>0</ColorSpace>
+					<Interlaced>0</Interlaced>
+					<HasTransparent>0</HasTransparent>
+					<FormatName>
+					</FormatName>
+					<EncodingType>1</EncodingType>
+					<EncodingComplexity>2</EncodingComplexity>
+					<VideoMode>0</VideoMode>
+					<MaxStartupLatency>4</MaxStartupLatency>
+					<LossProtection>0</LossProtection>
+					<MaxOutputFrameRate>0</MaxOutputFrameRate>
+					<MaxTimeBetweenKeyFrames>10</MaxTimeBetweenKeyFrames>
+				</Format>
+			</AVFormat>
+		</VideoStreamInfo>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<AVFormat type="13" itype="4" ctype="0" avtype="103" pos="0">
+				<Format version="1">
+					<AVType>103</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>86039</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>0</FormatTag>
+					<Channels>0</Channels>
+					<SamplesPerSec>0</SamplesPerSec>
+					<BitsPerSample>0</BitsPerSample>
+					<BlockAlign>0</BlockAlign>
+					<AvgBytesPerSec>0</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+					<CodecFlavor>24</CodecFlavor>
+					<EncodingComplexity>2</EncodingComplexity>
+					<AudioMode>0</AudioMode>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">Common</ProfileGroup>
+		<ProfileName type="8" pos="2">350k Multichannel (VBR)</ProfileName>
+		<ProfileDescription type="8" pos="3">350k Multichannel (VBR)</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<VideoStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="204" pos="0">
+				<Format version="1">
+					<AVType>204</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<fccHandler>0</fccHandler>
+					<InternalCodec>72</InternalCodec>
+					<EncodeMode>1</EncodeMode>
+					<Bitrate>254000</Bitrate>
+					<Quality>60</Quality>
+					<TargetFileSize>1379328</TargetFileSize>
+					<Width>0</Width>
+					<Height>0</Height>
+					<FrameRate>0</FrameRate>
+					<AspectX>320</AspectX>
+					<AspectY>240</AspectY>
+					<ColorSpace>0</ColorSpace>
+					<Interlaced>0</Interlaced>
+					<HasTransparent>0</HasTransparent>
+					<FormatName>
+					</FormatName>
+					<EncodingType>1</EncodingType>
+					<EncodingComplexity>2</EncodingComplexity>
+					<VideoMode>0</VideoMode>
+					<MaxStartupLatency>4</MaxStartupLatency>
+					<LossProtection>0</LossProtection>
+					<MaxOutputFrameRate>0</MaxOutputFrameRate>
+					<MaxTimeBetweenKeyFrames>10</MaxTimeBetweenKeyFrames>
+				</Format>
+			</AVFormat>
+		</VideoStreamInfo>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<AVFormat type="13" itype="4" ctype="0" avtype="103" pos="0">
+				<Format version="1">
+					<AVType>103</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>86039</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>0</FormatTag>
+					<Channels>0</Channels>
+					<SamplesPerSec>0</SamplesPerSec>
+					<BitsPerSample>0</BitsPerSample>
+					<BlockAlign>0</BlockAlign>
+					<AvgBytesPerSec>0</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+					<CodecFlavor>30</CodecFlavor>
+					<EncodingComplexity>2</EncodingComplexity>
+					<AudioMode>0</AudioMode>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">Common</ProfileGroup>
+		<ProfileName type="8" pos="2">350k Surround Stereo (VBR)</ProfileName>
+		<ProfileDescription type="8" pos="3">350k Surround Stereo (VBR)</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<VideoStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="204" pos="0">
+				<Format version="1">
+					<AVType>204</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<fccHandler>0</fccHandler>
+					<InternalCodec>72</InternalCodec>
+					<EncodeMode>1</EncodeMode>
+					<Bitrate>306000</Bitrate>
+					<Quality>60</Quality>
+					<TargetFileSize>1379328</TargetFileSize>
+					<Width>0</Width>
+					<Height>0</Height>
+					<FrameRate>0</FrameRate>
+					<AspectX>320</AspectX>
+					<AspectY>240</AspectY>
+					<ColorSpace>0</ColorSpace>
+					<Interlaced>0</Interlaced>
+					<HasTransparent>0</HasTransparent>
+					<FormatName>
+					</FormatName>
+					<EncodingType>1</EncodingType>
+					<EncodingComplexity>2</EncodingComplexity>
+					<VideoMode>0</VideoMode>
+					<MaxStartupLatency>4</MaxStartupLatency>
+					<LossProtection>0</LossProtection>
+					<MaxOutputFrameRate>0</MaxOutputFrameRate>
+					<MaxTimeBetweenKeyFrames>10</MaxTimeBetweenKeyFrames>
+				</Format>
+			</AVFormat>
+		</VideoStreamInfo>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<AVFormat type="13" itype="4" ctype="0" avtype="103" pos="0">
+				<Format version="1">
+					<AVType>103</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>86039</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>0</FormatTag>
+					<Channels>0</Channels>
+					<SamplesPerSec>0</SamplesPerSec>
+					<BitsPerSample>0</BitsPerSample>
+					<BlockAlign>0</BlockAlign>
+					<AvgBytesPerSec>0</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+					<CodecFlavor>29</CodecFlavor>
+					<EncodingComplexity>2</EncodingComplexity>
+					<AudioMode>0</AudioMode>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">Common</ProfileGroup>
+		<ProfileName type="8" pos="2">384k DSL or Cable</ProfileName>
+		<ProfileDescription type="8" pos="3">384k DSL or Cable</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<VideoStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="204" pos="0">
+				<Format version="1">
+					<AVType>204</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<fccHandler>0</fccHandler>
+					<InternalCodec>72</InternalCodec>
+					<EncodeMode>1</EncodeMode>
+					<Bitrate>284000</Bitrate>
+					<Quality>77</Quality>
+					<TargetFileSize>1379328</TargetFileSize>
+					<Width>0</Width>
+					<Height>0</Height>
+					<FrameRate>0</FrameRate>
+					<AspectX>320</AspectX>
+					<AspectY>240</AspectY>
+					<ColorSpace>0</ColorSpace>
+					<Interlaced>0</Interlaced>
+					<HasTransparent>0</HasTransparent>
+					<FormatName>
+					</FormatName>
+					<EncodingType>0</EncodingType>
+					<EncodingComplexity>2</EncodingComplexity>
+					<VideoMode>0</VideoMode>
+					<MaxStartupLatency>4</MaxStartupLatency>
+					<LossProtection>0</LossProtection>
+					<MaxOutputFrameRate>0</MaxOutputFrameRate>
+					<MaxTimeBetweenKeyFrames>10</MaxTimeBetweenKeyFrames>
+				</Format>
+			</AVFormat>
+		</VideoStreamInfo>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<AVFormat type="13" itype="4" ctype="0" avtype="103" pos="0">
+				<Format version="1">
+					<AVType>103</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>86039</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>0</FormatTag>
+					<Channels>0</Channels>
+					<SamplesPerSec>0</SamplesPerSec>
+					<BitsPerSample>0</BitsPerSample>
+					<BlockAlign>0</BlockAlign>
+					<AvgBytesPerSec>0</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+					<CodecFlavor>24</CodecFlavor>
+					<EncodingComplexity>2</EncodingComplexity>
+					<AudioMode>0</AudioMode>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">Common</ProfileGroup>
+		<ProfileName type="8" pos="2">450k Download (VBR)</ProfileName>
+		<ProfileDescription type="8" pos="3">450k Download (VBR)</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<VideoStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="204" pos="0">
+				<Format version="1">
+					<AVType>204</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<fccHandler>0</fccHandler>
+					<InternalCodec>72</InternalCodec>
+					<EncodeMode>1</EncodeMode>
+					<Bitrate>354000</Bitrate>
+					<Quality>70</Quality>
+					<TargetFileSize>1379328</TargetFileSize>
+					<Width>0</Width>
+					<Height>0</Height>
+					<FrameRate>0</FrameRate>
+					<AspectX>320</AspectX>
+					<AspectY>240</AspectY>
+					<ColorSpace>0</ColorSpace>
+					<Interlaced>0</Interlaced>
+					<HasTransparent>0</HasTransparent>
+					<FormatName>
+					</FormatName>
+					<EncodingType>1</EncodingType>
+					<EncodingComplexity>2</EncodingComplexity>
+					<VideoMode>0</VideoMode>
+					<MaxStartupLatency>4</MaxStartupLatency>
+					<LossProtection>0</LossProtection>
+					<MaxOutputFrameRate>0</MaxOutputFrameRate>
+					<MaxTimeBetweenKeyFrames>10</MaxTimeBetweenKeyFrames>
+				</Format>
+			</AVFormat>
+		</VideoStreamInfo>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<AVFormat type="13" itype="4" ctype="0" avtype="103" pos="0">
+				<Format version="1">
+					<AVType>103</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>86039</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>0</FormatTag>
+					<Channels>0</Channels>
+					<SamplesPerSec>0</SamplesPerSec>
+					<BitsPerSample>0</BitsPerSample>
+					<BlockAlign>0</BlockAlign>
+					<AvgBytesPerSec>0</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+					<CodecFlavor>25</CodecFlavor>
+					<EncodingComplexity>2</EncodingComplexity>
+					<AudioMode>0</AudioMode>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">Common</ProfileGroup>
+		<ProfileName type="8" pos="2">450k Multichannel (VBR)</ProfileName>
+		<ProfileDescription type="8" pos="3">450k Multichannel (VBR)</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<VideoStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="204" pos="0">
+				<Format version="1">
+					<AVType>204</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<fccHandler>0</fccHandler>
+					<InternalCodec>72</InternalCodec>
+					<EncodeMode>1</EncodeMode>
+					<Bitrate>354000</Bitrate>
+					<Quality>70</Quality>
+					<TargetFileSize>1379328</TargetFileSize>
+					<Width>0</Width>
+					<Height>0</Height>
+					<FrameRate>0</FrameRate>
+					<AspectX>320</AspectX>
+					<AspectY>240</AspectY>
+					<ColorSpace>0</ColorSpace>
+					<Interlaced>0</Interlaced>
+					<HasTransparent>0</HasTransparent>
+					<FormatName>
+					</FormatName>
+					<EncodingType>1</EncodingType>
+					<EncodingComplexity>2</EncodingComplexity>
+					<VideoMode>0</VideoMode>
+					<MaxStartupLatency>4</MaxStartupLatency>
+					<LossProtection>0</LossProtection>
+					<MaxOutputFrameRate>0</MaxOutputFrameRate>
+					<MaxTimeBetweenKeyFrames>10</MaxTimeBetweenKeyFrames>
+				</Format>
+			</AVFormat>
+		</VideoStreamInfo>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<AVFormat type="13" itype="4" ctype="0" avtype="103" pos="0">
+				<Format version="1">
+					<AVType>103</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>86039</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>0</FormatTag>
+					<Channels>0</Channels>
+					<SamplesPerSec>0</SamplesPerSec>
+					<BitsPerSample>0</BitsPerSample>
+					<BlockAlign>0</BlockAlign>
+					<AvgBytesPerSec>0</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+					<CodecFlavor>30</CodecFlavor>
+					<EncodingComplexity>2</EncodingComplexity>
+					<AudioMode>0</AudioMode>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">Common</ProfileGroup>
+		<ProfileName type="8" pos="2">450k Surround Stereo (VBR)</ProfileName>
+		<ProfileDescription type="8" pos="3">450k Surround Stereo (VBR)</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<VideoStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="204" pos="0">
+				<Format version="1">
+					<AVType>204</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<fccHandler>0</fccHandler>
+					<InternalCodec>72</InternalCodec>
+					<EncodeMode>1</EncodeMode>
+					<Bitrate>406000</Bitrate>
+					<Quality>70</Quality>
+					<TargetFileSize>1379328</TargetFileSize>
+					<Width>0</Width>
+					<Height>0</Height>
+					<FrameRate>0</FrameRate>
+					<AspectX>320</AspectX>
+					<AspectY>240</AspectY>
+					<ColorSpace>0</ColorSpace>
+					<Interlaced>0</Interlaced>
+					<HasTransparent>0</HasTransparent>
+					<FormatName>
+					</FormatName>
+					<EncodingType>1</EncodingType>
+					<EncodingComplexity>2</EncodingComplexity>
+					<VideoMode>0</VideoMode>
+					<MaxStartupLatency>4</MaxStartupLatency>
+					<LossProtection>0</LossProtection>
+					<MaxOutputFrameRate>0</MaxOutputFrameRate>
+					<MaxTimeBetweenKeyFrames>10</MaxTimeBetweenKeyFrames>
+				</Format>
+			</AVFormat>
+		</VideoStreamInfo>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<AVFormat type="13" itype="4" ctype="0" avtype="103" pos="0">
+				<Format version="1">
+					<AVType>103</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>86039</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>0</FormatTag>
+					<Channels>0</Channels>
+					<SamplesPerSec>0</SamplesPerSec>
+					<BitsPerSample>0</BitsPerSample>
+					<BlockAlign>0</BlockAlign>
+					<AvgBytesPerSec>0</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+					<CodecFlavor>29</CodecFlavor>
+					<EncodingComplexity>2</EncodingComplexity>
+					<AudioMode>0</AudioMode>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">Common</ProfileGroup>
+		<ProfileName type="8" pos="2">512k DSL or Cable</ProfileName>
+		<ProfileDescription type="8" pos="3">512k DSL or Cable</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<VideoStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="204" pos="0">
+				<Format version="1">
+					<AVType>204</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<fccHandler>0</fccHandler>
+					<InternalCodec>72</InternalCodec>
+					<EncodeMode>1</EncodeMode>
+					<Bitrate>354000</Bitrate>
+					<Quality>84</Quality>
+					<TargetFileSize>1379328</TargetFileSize>
+					<Width>0</Width>
+					<Height>0</Height>
+					<FrameRate>0</FrameRate>
+					<AspectX>320</AspectX>
+					<AspectY>240</AspectY>
+					<ColorSpace>0</ColorSpace>
+					<Interlaced>0</Interlaced>
+					<HasTransparent>0</HasTransparent>
+					<FormatName>
+					</FormatName>
+					<EncodingType>0</EncodingType>
+					<EncodingComplexity>2</EncodingComplexity>
+					<VideoMode>0</VideoMode>
+					<MaxStartupLatency>4</MaxStartupLatency>
+					<LossProtection>0</LossProtection>
+					<MaxOutputFrameRate>0</MaxOutputFrameRate>
+					<MaxTimeBetweenKeyFrames>10</MaxTimeBetweenKeyFrames>
+				</Format>
+			</AVFormat>
+		</VideoStreamInfo>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<AVFormat type="13" itype="4" ctype="0" avtype="103" pos="0">
+				<Format version="1">
+					<AVType>103</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>86039</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>0</FormatTag>
+					<Channels>0</Channels>
+					<SamplesPerSec>0</SamplesPerSec>
+					<BitsPerSample>0</BitsPerSample>
+					<BlockAlign>0</BlockAlign>
+					<AvgBytesPerSec>0</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+					<CodecFlavor>25</CodecFlavor>
+					<EncodingComplexity>2</EncodingComplexity>
+					<AudioMode>0</AudioMode>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">Common</ProfileGroup>
+		<ProfileName type="8" pos="2">56k Dial-up</ProfileName>
+		<ProfileDescription type="8" pos="3">56k Dial-up</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<VideoStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="204" pos="0">
+				<Format version="1">
+					<AVType>204</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<fccHandler>0</fccHandler>
+					<InternalCodec>72</InternalCodec>
+					<EncodeMode>1</EncodeMode>
+					<Bitrate>26000</Bitrate>
+					<Quality>30</Quality>
+					<TargetFileSize>1379328</TargetFileSize>
+					<Width>0</Width>
+					<Height>0</Height>
+					<FrameRate>15</FrameRate>
+					<AspectX>320</AspectX>
+					<AspectY>240</AspectY>
+					<ColorSpace>0</ColorSpace>
+					<Interlaced>0</Interlaced>
+					<HasTransparent>0</HasTransparent>
+					<FormatName>
+					</FormatName>
+					<EncodingType>0</EncodingType>
+					<EncodingComplexity>2</EncodingComplexity>
+					<VideoMode>0</VideoMode>
+					<MaxStartupLatency>4</MaxStartupLatency>
+					<LossProtection>0</LossProtection>
+					<MaxOutputFrameRate>0</MaxOutputFrameRate>
+					<MaxTimeBetweenKeyFrames>10</MaxTimeBetweenKeyFrames>
+				</Format>
+			</AVFormat>
+		</VideoStreamInfo>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<AVFormat type="13" itype="4" ctype="0" avtype="103" pos="0">
+				<Format version="1">
+					<AVType>103</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>86039</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>0</FormatTag>
+					<Channels>0</Channels>
+					<SamplesPerSec>0</SamplesPerSec>
+					<BitsPerSample>0</BitsPerSample>
+					<BlockAlign>0</BlockAlign>
+					<AvgBytesPerSec>0</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+					<CodecFlavor>0</CodecFlavor>
+					<EncodingComplexity>2</EncodingComplexity>
+					<AudioMode>0</AudioMode>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">Common</ProfileGroup>
+		<ProfileName type="8" pos="2">5M Download (VBR)</ProfileName>
+		<ProfileDescription type="8" pos="3">5M Download (VBR)</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<VideoStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="204" pos="0">
+				<Format version="1">
+					<AVType>204</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<fccHandler>0</fccHandler>
+					<InternalCodec>72</InternalCodec>
+					<EncodeMode>1</EncodeMode>
+					<Bitrate>4904000</Bitrate>
+					<Quality>100</Quality>
+					<TargetFileSize>1379328</TargetFileSize>
+					<Width>0</Width>
+					<Height>0</Height>
+					<FrameRate>0</FrameRate>
+					<AspectX>320</AspectX>
+					<AspectY>240</AspectY>
+					<ColorSpace>0</ColorSpace>
+					<Interlaced>0</Interlaced>
+					<HasTransparent>0</HasTransparent>
+					<FormatName>
+					</FormatName>
+					<EncodingType>1</EncodingType>
+					<EncodingComplexity>2</EncodingComplexity>
+					<VideoMode>0</VideoMode>
+					<MaxStartupLatency>4</MaxStartupLatency>
+					<LossProtection>0</LossProtection>
+					<MaxOutputFrameRate>0</MaxOutputFrameRate>
+					<MaxTimeBetweenKeyFrames>10</MaxTimeBetweenKeyFrames>
+				</Format>
+			</AVFormat>
+		</VideoStreamInfo>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<AVFormat type="13" itype="4" ctype="0" avtype="103" pos="0">
+				<Format version="1">
+					<AVType>103</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>86039</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>0</FormatTag>
+					<Channels>0</Channels>
+					<SamplesPerSec>0</SamplesPerSec>
+					<BitsPerSample>0</BitsPerSample>
+					<BlockAlign>0</BlockAlign>
+					<AvgBytesPerSec>0</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+					<CodecFlavor>28</CodecFlavor>
+					<EncodingComplexity>2</EncodingComplexity>
+					<AudioMode>0</AudioMode>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">Common</ProfileGroup>
+		<ProfileName type="8" pos="2">5M Multichannel (VBR)</ProfileName>
+		<ProfileDescription type="8" pos="3">5M Multichannel (VBR)</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<VideoStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="204" pos="0">
+				<Format version="1">
+					<AVType>204</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<fccHandler>0</fccHandler>
+					<InternalCodec>72</InternalCodec>
+					<EncodeMode>1</EncodeMode>
+					<Bitrate>4732000</Bitrate>
+					<Quality>100</Quality>
+					<TargetFileSize>1379328</TargetFileSize>
+					<Width>0</Width>
+					<Height>0</Height>
+					<FrameRate>0</FrameRate>
+					<AspectX>320</AspectX>
+					<AspectY>240</AspectY>
+					<ColorSpace>0</ColorSpace>
+					<Interlaced>0</Interlaced>
+					<HasTransparent>0</HasTransparent>
+					<FormatName>
+					</FormatName>
+					<EncodingType>0</EncodingType>
+					<EncodingComplexity>2</EncodingComplexity>
+					<VideoMode>0</VideoMode>
+					<MaxStartupLatency>4</MaxStartupLatency>
+					<LossProtection>0</LossProtection>
+					<MaxOutputFrameRate>0</MaxOutputFrameRate>
+					<MaxTimeBetweenKeyFrames>10</MaxTimeBetweenKeyFrames>
+				</Format>
+			</AVFormat>
+		</VideoStreamInfo>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<AVFormat type="13" itype="4" ctype="0" avtype="103" pos="0">
+				<Format version="1">
+					<AVType>103</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>86039</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>0</FormatTag>
+					<Channels>0</Channels>
+					<SamplesPerSec>0</SamplesPerSec>
+					<BitsPerSample>0</BitsPerSample>
+					<BlockAlign>0</BlockAlign>
+					<AvgBytesPerSec>0</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+					<CodecFlavor>33</CodecFlavor>
+					<EncodingComplexity>2</EncodingComplexity>
+					<AudioMode>0</AudioMode>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">Common</ProfileGroup>
+		<ProfileName type="8" pos="2">5M Surround Stereo (VBR)</ProfileName>
+		<ProfileDescription type="8" pos="3">5M Surround Stereo (VBR)</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<VideoStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="204" pos="0">
+				<Format version="1">
+					<AVType>204</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<fccHandler>0</fccHandler>
+					<InternalCodec>72</InternalCodec>
+					<EncodeMode>1</EncodeMode>
+					<Bitrate>4904000</Bitrate>
+					<Quality>100</Quality>
+					<TargetFileSize>1379328</TargetFileSize>
+					<Width>0</Width>
+					<Height>0</Height>
+					<FrameRate>0</FrameRate>
+					<AspectX>320</AspectX>
+					<AspectY>240</AspectY>
+					<ColorSpace>0</ColorSpace>
+					<Interlaced>0</Interlaced>
+					<HasTransparent>0</HasTransparent>
+					<FormatName>
+					</FormatName>
+					<EncodingType>1</EncodingType>
+					<EncodingComplexity>2</EncodingComplexity>
+					<VideoMode>0</VideoMode>
+					<MaxStartupLatency>4</MaxStartupLatency>
+					<LossProtection>0</LossProtection>
+					<MaxOutputFrameRate>0</MaxOutputFrameRate>
+					<MaxTimeBetweenKeyFrames>10</MaxTimeBetweenKeyFrames>
+				</Format>
+			</AVFormat>
+		</VideoStreamInfo>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<AVFormat type="13" itype="4" ctype="0" avtype="103" pos="0">
+				<Format version="1">
+					<AVType>103</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>86039</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>0</FormatTag>
+					<Channels>0</Channels>
+					<SamplesPerSec>0</SamplesPerSec>
+					<BitsPerSample>0</BitsPerSample>
+					<BlockAlign>0</BlockAlign>
+					<AvgBytesPerSec>0</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+					<CodecFlavor>25</CodecFlavor>
+					<EncodingComplexity>2</EncodingComplexity>
+					<AudioMode>0</AudioMode>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">Common</ProfileGroup>
+		<ProfileName type="8" pos="2">64k Single ISDN</ProfileName>
+		<ProfileDescription type="8" pos="3">64k Single ISDN</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<VideoStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="204" pos="0">
+				<Format version="1">
+					<AVType>204</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<fccHandler>0</fccHandler>
+					<InternalCodec>72</InternalCodec>
+					<EncodeMode>1</EncodeMode>
+					<Bitrate>39000</Bitrate>
+					<Quality>35</Quality>
+					<TargetFileSize>1379328</TargetFileSize>
+					<Width>0</Width>
+					<Height>0</Height>
+					<FrameRate>15</FrameRate>
+					<AspectX>320</AspectX>
+					<AspectY>240</AspectY>
+					<ColorSpace>0</ColorSpace>
+					<Interlaced>0</Interlaced>
+					<HasTransparent>0</HasTransparent>
+					<FormatName>
+					</FormatName>
+					<EncodingType>0</EncodingType>
+					<EncodingComplexity>2</EncodingComplexity>
+					<VideoMode>0</VideoMode>
+					<MaxStartupLatency>4</MaxStartupLatency>
+					<LossProtection>0</LossProtection>
+					<MaxOutputFrameRate>0</MaxOutputFrameRate>
+					<MaxTimeBetweenKeyFrames>10</MaxTimeBetweenKeyFrames>
+				</Format>
+			</AVFormat>
+		</VideoStreamInfo>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<AVFormat type="13" itype="4" ctype="0" avtype="103" pos="0">
+				<Format version="1">
+					<AVType>103</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>86039</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>0</FormatTag>
+					<Channels>0</Channels>
+					<SamplesPerSec>0</SamplesPerSec>
+					<BitsPerSample>0</BitsPerSample>
+					<BlockAlign>0</BlockAlign>
+					<AvgBytesPerSec>0</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+					<CodecFlavor>1</CodecFlavor>
+					<EncodingComplexity>2</EncodingComplexity>
+					<AudioMode>0</AudioMode>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">Common</ProfileGroup>
+		<ProfileName type="8" pos="2">70% Quality Download (VBR)</ProfileName>
+		<ProfileDescription type="8" pos="3">70% Quality Download (VBR)</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<VideoStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="204" pos="0">
+				<Format version="1">
+					<AVType>204</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<fccHandler>0</fccHandler>
+					<InternalCodec>72</InternalCodec>
+					<EncodeMode>1</EncodeMode>
+					<Bitrate>604000</Bitrate>
+					<Quality>70</Quality>
+					<TargetFileSize>1379328</TargetFileSize>
+					<Width>0</Width>
+					<Height>0</Height>
+					<FrameRate>0</FrameRate>
+					<AspectX>320</AspectX>
+					<AspectY>240</AspectY>
+					<ColorSpace>0</ColorSpace>
+					<Interlaced>0</Interlaced>
+					<HasTransparent>0</HasTransparent>
+					<FormatName>
+					</FormatName>
+					<EncodingType>1</EncodingType>
+					<EncodingComplexity>2</EncodingComplexity>
+					<VideoMode>0</VideoMode>
+					<MaxStartupLatency>4</MaxStartupLatency>
+					<LossProtection>0</LossProtection>
+					<MaxOutputFrameRate>0</MaxOutputFrameRate>
+					<MaxTimeBetweenKeyFrames>10</MaxTimeBetweenKeyFrames>
+				</Format>
+			</AVFormat>
+		</VideoStreamInfo>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<AVFormat type="13" itype="4" ctype="0" avtype="103" pos="0">
+				<Format version="1">
+					<AVType>103</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>86039</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>0</FormatTag>
+					<Channels>0</Channels>
+					<SamplesPerSec>0</SamplesPerSec>
+					<BitsPerSample>0</BitsPerSample>
+					<BlockAlign>0</BlockAlign>
+					<AvgBytesPerSec>0</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+					<CodecFlavor>25</CodecFlavor>
+					<EncodingComplexity>2</EncodingComplexity>
+					<AudioMode>0</AudioMode>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">Common</ProfileGroup>
+		<ProfileName type="8" pos="2">750k Download (VBR)</ProfileName>
+		<ProfileDescription type="8" pos="3">750k Download (VBR)</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<VideoStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="204" pos="0">
+				<Format version="1">
+					<AVType>204</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<fccHandler>0</fccHandler>
+					<InternalCodec>72</InternalCodec>
+					<EncodeMode>1</EncodeMode>
+					<Bitrate>654000</Bitrate>
+					<Quality>80</Quality>
+					<TargetFileSize>1379328</TargetFileSize>
+					<Width>0</Width>
+					<Height>0</Height>
+					<FrameRate>0</FrameRate>
+					<AspectX>320</AspectX>
+					<AspectY>240</AspectY>
+					<ColorSpace>0</ColorSpace>
+					<Interlaced>0</Interlaced>
+					<HasTransparent>0</HasTransparent>
+					<FormatName>
+					</FormatName>
+					<EncodingType>1</EncodingType>
+					<EncodingComplexity>2</EncodingComplexity>
+					<VideoMode>0</VideoMode>
+					<MaxStartupLatency>4</MaxStartupLatency>
+					<LossProtection>0</LossProtection>
+					<MaxOutputFrameRate>0</MaxOutputFrameRate>
+					<MaxTimeBetweenKeyFrames>10</MaxTimeBetweenKeyFrames>
+				</Format>
+			</AVFormat>
+		</VideoStreamInfo>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<AVFormat type="13" itype="4" ctype="0" avtype="103" pos="0">
+				<Format version="1">
+					<AVType>103</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>86039</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>0</FormatTag>
+					<Channels>0</Channels>
+					<SamplesPerSec>0</SamplesPerSec>
+					<BitsPerSample>0</BitsPerSample>
+					<BlockAlign>0</BlockAlign>
+					<AvgBytesPerSec>0</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+					<CodecFlavor>25</CodecFlavor>
+					<EncodingComplexity>2</EncodingComplexity>
+					<AudioMode>0</AudioMode>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">Common</ProfileGroup>
+		<ProfileName type="8" pos="2">750k Multichannel (VBR)</ProfileName>
+		<ProfileDescription type="8" pos="3">750k Multichannel (VBR)</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<VideoStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="204" pos="0">
+				<Format version="1">
+					<AVType>204</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<fccHandler>0</fccHandler>
+					<InternalCodec>72</InternalCodec>
+					<EncodeMode>1</EncodeMode>
+					<Bitrate>619000</Bitrate>
+					<Quality>80</Quality>
+					<TargetFileSize>1379328</TargetFileSize>
+					<Width>0</Width>
+					<Height>0</Height>
+					<FrameRate>0</FrameRate>
+					<AspectX>320</AspectX>
+					<AspectY>240</AspectY>
+					<ColorSpace>0</ColorSpace>
+					<Interlaced>0</Interlaced>
+					<HasTransparent>0</HasTransparent>
+					<FormatName>
+					</FormatName>
+					<EncodingType>1</EncodingType>
+					<EncodingComplexity>2</EncodingComplexity>
+					<VideoMode>0</VideoMode>
+					<MaxStartupLatency>4</MaxStartupLatency>
+					<LossProtection>0</LossProtection>
+					<MaxOutputFrameRate>0</MaxOutputFrameRate>
+					<MaxTimeBetweenKeyFrames>10</MaxTimeBetweenKeyFrames>
+				</Format>
+			</AVFormat>
+		</VideoStreamInfo>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<AVFormat type="13" itype="4" ctype="0" avtype="103" pos="0">
+				<Format version="1">
+					<AVType>103</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>86039</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>0</FormatTag>
+					<Channels>0</Channels>
+					<SamplesPerSec>0</SamplesPerSec>
+					<BitsPerSample>0</BitsPerSample>
+					<BlockAlign>0</BlockAlign>
+					<AvgBytesPerSec>0</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+					<CodecFlavor>31</CodecFlavor>
+					<EncodingComplexity>2</EncodingComplexity>
+					<AudioMode>0</AudioMode>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">Common</ProfileGroup>
+		<ProfileName type="8" pos="2">750k Surround Stereo (VBR)</ProfileName>
+		<ProfileDescription type="8" pos="3">750k Surround Stereo (VBR)</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<VideoStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="204" pos="0">
+				<Format version="1">
+					<AVType>204</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<fccHandler>0</fccHandler>
+					<InternalCodec>72</InternalCodec>
+					<EncodeMode>1</EncodeMode>
+					<Bitrate>604000</Bitrate>
+					<Quality>80</Quality>
+					<TargetFileSize>1379328</TargetFileSize>
+					<Width>0</Width>
+					<Height>0</Height>
+					<FrameRate>0</FrameRate>
+					<AspectX>320</AspectX>
+					<AspectY>240</AspectY>
+					<ColorSpace>0</ColorSpace>
+					<Interlaced>0</Interlaced>
+					<HasTransparent>0</HasTransparent>
+					<FormatName>
+					</FormatName>
+					<EncodingType>1</EncodingType>
+					<EncodingComplexity>2</EncodingComplexity>
+					<VideoMode>0</VideoMode>
+					<MaxStartupLatency>4</MaxStartupLatency>
+					<LossProtection>0</LossProtection>
+					<MaxOutputFrameRate>0</MaxOutputFrameRate>
+					<MaxTimeBetweenKeyFrames>10</MaxTimeBetweenKeyFrames>
+				</Format>
+			</AVFormat>
+		</VideoStreamInfo>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<AVFormat type="13" itype="4" ctype="0" avtype="103" pos="0">
+				<Format version="1">
+					<AVType>103</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>86039</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>0</FormatTag>
+					<Channels>0</Channels>
+					<SamplesPerSec>0</SamplesPerSec>
+					<BitsPerSample>0</BitsPerSample>
+					<BlockAlign>0</BlockAlign>
+					<AvgBytesPerSec>0</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+					<CodecFlavor>28</CodecFlavor>
+					<EncodingComplexity>2</EncodingComplexity>
+					<AudioMode>0</AudioMode>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">Common</ProfileGroup>
+		<ProfileName type="8" pos="2">768k DSL or Cable</ProfileName>
+		<ProfileDescription type="8" pos="3">768k DSL or Cable</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<VideoStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="204" pos="0">
+				<Format version="1">
+					<AVType>204</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<fccHandler>0</fccHandler>
+					<InternalCodec>72</InternalCodec>
+					<EncodeMode>1</EncodeMode>
+					<Bitrate>604000</Bitrate>
+					<Quality>88</Quality>
+					<TargetFileSize>1379328</TargetFileSize>
+					<Width>0</Width>
+					<Height>0</Height>
+					<FrameRate>0</FrameRate>
+					<AspectX>320</AspectX>
+					<AspectY>240</AspectY>
+					<ColorSpace>0</ColorSpace>
+					<Interlaced>0</Interlaced>
+					<HasTransparent>0</HasTransparent>
+					<FormatName>
+					</FormatName>
+					<EncodingType>0</EncodingType>
+					<EncodingComplexity>2</EncodingComplexity>
+					<VideoMode>0</VideoMode>
+					<MaxStartupLatency>4</MaxStartupLatency>
+					<LossProtection>0</LossProtection>
+					<MaxOutputFrameRate>0</MaxOutputFrameRate>
+					<MaxTimeBetweenKeyFrames>10</MaxTimeBetweenKeyFrames>
+				</Format>
+			</AVFormat>
+		</VideoStreamInfo>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<AVFormat type="13" itype="4" ctype="0" avtype="103" pos="0">
+				<Format version="1">
+					<AVType>103</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>86039</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>0</FormatTag>
+					<Channels>0</Channels>
+					<SamplesPerSec>0</SamplesPerSec>
+					<BitsPerSample>0</BitsPerSample>
+					<BlockAlign>0</BlockAlign>
+					<AvgBytesPerSec>0</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+					<CodecFlavor>25</CodecFlavor>
+					<EncodingComplexity>2</EncodingComplexity>
+					<AudioMode>0</AudioMode>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">Common</ProfileGroup>
+		<ProfileName type="8" pos="2">80% Quality Download (VBR)</ProfileName>
+		<ProfileDescription type="8" pos="3">80% Quality Download (VBR)</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<VideoStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="204" pos="0">
+				<Format version="1">
+					<AVType>204</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<fccHandler>0</fccHandler>
+					<InternalCodec>72</InternalCodec>
+					<EncodeMode>1</EncodeMode>
+					<Bitrate>904000</Bitrate>
+					<Quality>80</Quality>
+					<TargetFileSize>1379328</TargetFileSize>
+					<Width>0</Width>
+					<Height>0</Height>
+					<FrameRate>0</FrameRate>
+					<AspectX>320</AspectX>
+					<AspectY>240</AspectY>
+					<ColorSpace>0</ColorSpace>
+					<Interlaced>0</Interlaced>
+					<HasTransparent>0</HasTransparent>
+					<FormatName>
+					</FormatName>
+					<EncodingType>1</EncodingType>
+					<EncodingComplexity>2</EncodingComplexity>
+					<VideoMode>0</VideoMode>
+					<MaxStartupLatency>4</MaxStartupLatency>
+					<LossProtection>0</LossProtection>
+					<MaxOutputFrameRate>0</MaxOutputFrameRate>
+					<MaxTimeBetweenKeyFrames>10</MaxTimeBetweenKeyFrames>
+				</Format>
+			</AVFormat>
+		</VideoStreamInfo>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<AVFormat type="13" itype="4" ctype="0" avtype="103" pos="0">
+				<Format version="1">
+					<AVType>103</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>86039</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>0</FormatTag>
+					<Channels>0</Channels>
+					<SamplesPerSec>0</SamplesPerSec>
+					<BitsPerSample>0</BitsPerSample>
+					<BlockAlign>0</BlockAlign>
+					<AvgBytesPerSec>0</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+					<CodecFlavor>25</CodecFlavor>
+					<EncodingComplexity>2</EncodingComplexity>
+					<AudioMode>0</AudioMode>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">Common</ProfileGroup>
+		<ProfileName type="8" pos="2">90% Quality Download (VBR)</ProfileName>
+		<ProfileDescription type="8" pos="3">90% Quality Download (VBR)</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<VideoStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="204" pos="0">
+				<Format version="1">
+					<AVType>204</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<fccHandler>0</fccHandler>
+					<InternalCodec>72</InternalCodec>
+					<EncodeMode>1</EncodeMode>
+					<Bitrate>1936000</Bitrate>
+					<Quality>90</Quality>
+					<TargetFileSize>1379328</TargetFileSize>
+					<Width>0</Width>
+					<Height>0</Height>
+					<FrameRate>0</FrameRate>
+					<AspectX>320</AspectX>
+					<AspectY>240</AspectY>
+					<ColorSpace>0</ColorSpace>
+					<Interlaced>0</Interlaced>
+					<HasTransparent>0</HasTransparent>
+					<FormatName>
+					</FormatName>
+					<EncodingType>1</EncodingType>
+					<EncodingComplexity>2</EncodingComplexity>
+					<VideoMode>0</VideoMode>
+					<MaxStartupLatency>4</MaxStartupLatency>
+					<LossProtection>0</LossProtection>
+					<MaxOutputFrameRate>0</MaxOutputFrameRate>
+					<MaxTimeBetweenKeyFrames>10</MaxTimeBetweenKeyFrames>
+				</Format>
+			</AVFormat>
+		</VideoStreamInfo>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<AVFormat type="13" itype="4" ctype="0" avtype="103" pos="0">
+				<Format version="1">
+					<AVType>103</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>86039</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>0</FormatTag>
+					<Channels>0</Channels>
+					<SamplesPerSec>0</SamplesPerSec>
+					<BitsPerSample>0</BitsPerSample>
+					<BlockAlign>0</BlockAlign>
+					<AvgBytesPerSec>0</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+					<CodecFlavor>27</CodecFlavor>
+					<EncodingComplexity>2</EncodingComplexity>
+					<AudioMode>0</AudioMode>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">Common</ProfileGroup>
+		<ProfileName type="8" pos="2">General Mobile Local Playback</ProfileName>
+		<ProfileDescription type="8" pos="3">General Mobile Local Playback</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<VideoStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="204" pos="0">
+				<Format version="1">
+					<AVType>204</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<fccHandler>0</fccHandler>
+					<InternalCodec>71</InternalCodec>
+					<EncodeMode>1</EncodeMode>
+					<Bitrate>64000</Bitrate>
+					<Quality>40</Quality>
+					<TargetFileSize>1379328</TargetFileSize>
+					<Width>0</Width>
+					<Height>0</Height>
+					<FrameRate>5</FrameRate>
+					<AspectX>320</AspectX>
+					<AspectY>240</AspectY>
+					<ColorSpace>0</ColorSpace>
+					<Interlaced>0</Interlaced>
+					<HasTransparent>0</HasTransparent>
+					<FormatName>
+					</FormatName>
+					<EncodingType>0</EncodingType>
+					<EncodingComplexity>2</EncodingComplexity>
+					<VideoMode>0</VideoMode>
+					<MaxStartupLatency>4</MaxStartupLatency>
+					<LossProtection>0</LossProtection>
+					<MaxOutputFrameRate>0</MaxOutputFrameRate>
+					<MaxTimeBetweenKeyFrames>10</MaxTimeBetweenKeyFrames>
+				</Format>
+			</AVFormat>
+		</VideoStreamInfo>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<AVFormat type="13" itype="4" ctype="0" avtype="103" pos="0">
+				<Format version="1">
+					<AVType>103</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>86039</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>0</FormatTag>
+					<Channels>0</Channels>
+					<SamplesPerSec>0</SamplesPerSec>
+					<BitsPerSample>0</BitsPerSample>
+					<BlockAlign>0</BlockAlign>
+					<AvgBytesPerSec>0</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+					<CodecFlavor>2</CodecFlavor>
+					<EncodingComplexity>2</EncodingComplexity>
+					<AudioMode>0</AudioMode>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">Common</ProfileGroup>
+		<ProfileName type="8" pos="2">General Mobile Streaming</ProfileName>
+		<ProfileDescription type="8" pos="3">General Mobile Streaming</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<VideoStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="204" pos="0">
+				<Format version="1">
+					<AVType>204</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<fccHandler>0</fccHandler>
+					<InternalCodec>71</InternalCodec>
+					<EncodeMode>1</EncodeMode>
+					<Bitrate>12000</Bitrate>
+					<Quality>30</Quality>
+					<TargetFileSize>1379328</TargetFileSize>
+					<Width>0</Width>
+					<Height>0</Height>
+					<FrameRate>5</FrameRate>
+					<AspectX>320</AspectX>
+					<AspectY>240</AspectY>
+					<ColorSpace>0</ColorSpace>
+					<Interlaced>0</Interlaced>
+					<HasTransparent>0</HasTransparent>
+					<FormatName>
+					</FormatName>
+					<EncodingType>0</EncodingType>
+					<EncodingComplexity>2</EncodingComplexity>
+					<VideoMode>0</VideoMode>
+					<MaxStartupLatency>4</MaxStartupLatency>
+					<LossProtection>0</LossProtection>
+					<MaxOutputFrameRate>0</MaxOutputFrameRate>
+					<MaxTimeBetweenKeyFrames>10</MaxTimeBetweenKeyFrames>
+				</Format>
+			</AVFormat>
+		</VideoStreamInfo>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<AVFormat type="13" itype="4" ctype="0" avtype="103" pos="0">
+				<Format version="1">
+					<AVType>103</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>86039</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>0</FormatTag>
+					<Channels>0</Channels>
+					<SamplesPerSec>0</SamplesPerSec>
+					<BitsPerSample>0</BitsPerSample>
+					<BlockAlign>0</BlockAlign>
+					<AvgBytesPerSec>0</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+					<CodecFlavor>0</CodecFlavor>
+					<EncodingComplexity>2</EncodingComplexity>
+					<AudioMode>0</AudioMode>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">Common</ProfileGroup>
+		<ProfileName type="8" pos="2">Lossless Audio</ProfileName>
+		<ProfileDescription type="8" pos="3">Lossless Audio</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<VideoStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="204" pos="0">
+				<Format version="1">
+					<AVType>204</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<fccHandler>0</fccHandler>
+					<InternalCodec>72</InternalCodec>
+					<EncodeMode>1</EncodeMode>
+					<Bitrate>2000000</Bitrate>
+					<Quality>100</Quality>
+					<TargetFileSize>1379328</TargetFileSize>
+					<Width>0</Width>
+					<Height>0</Height>
+					<FrameRate>0</FrameRate>
+					<AspectX>320</AspectX>
+					<AspectY>240</AspectY>
+					<ColorSpace>0</ColorSpace>
+					<Interlaced>0</Interlaced>
+					<HasTransparent>0</HasTransparent>
+					<FormatName>
+					</FormatName>
+					<EncodingType>1</EncodingType>
+					<EncodingComplexity>2</EncodingComplexity>
+					<VideoMode>0</VideoMode>
+					<MaxStartupLatency>4</MaxStartupLatency>
+					<LossProtection>0</LossProtection>
+					<MaxOutputFrameRate>0</MaxOutputFrameRate>
+					<MaxTimeBetweenKeyFrames>10</MaxTimeBetweenKeyFrames>
+				</Format>
+			</AVFormat>
+		</VideoStreamInfo>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<AVFormat type="13" itype="4" ctype="0" avtype="103" pos="0">
+				<Format version="1">
+					<AVType>103</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>196610</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>0</FormatTag>
+					<Channels>0</Channels>
+					<SamplesPerSec>0</SamplesPerSec>
+					<BitsPerSample>0</BitsPerSample>
+					<BlockAlign>0</BlockAlign>
+					<AvgBytesPerSec>0</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+					<CodecFlavor>0</CodecFlavor>
+					<EncodingComplexity>2</EncodingComplexity>
+					<AudioMode>0</AudioMode>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">Common</ProfileGroup>
+		<ProfileName type="8" pos="2">PocketPC Local Playback</ProfileName>
+		<ProfileDescription type="8" pos="3">PocketPC Local Playback</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<VideoStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="204" pos="0">
+				<Format version="1">
+					<AVType>204</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<fccHandler>0</fccHandler>
+					<InternalCodec>71</InternalCodec>
+					<EncodeMode>1</EncodeMode>
+					<Bitrate>168000</Bitrate>
+					<Quality>70</Quality>
+					<TargetFileSize>1379328</TargetFileSize>
+					<Width>0</Width>
+					<Height>0</Height>
+					<FrameRate>15</FrameRate>
+					<AspectX>320</AspectX>
+					<AspectY>240</AspectY>
+					<ColorSpace>0</ColorSpace>
+					<Interlaced>0</Interlaced>
+					<HasTransparent>0</HasTransparent>
+					<FormatName>
+					</FormatName>
+					<EncodingType>0</EncodingType>
+					<EncodingComplexity>2</EncodingComplexity>
+					<VideoMode>0</VideoMode>
+					<MaxStartupLatency>4</MaxStartupLatency>
+					<LossProtection>0</LossProtection>
+					<MaxOutputFrameRate>0</MaxOutputFrameRate>
+					<MaxTimeBetweenKeyFrames>10</MaxTimeBetweenKeyFrames>
+				</Format>
+			</AVFormat>
+		</VideoStreamInfo>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<AVFormat type="13" itype="4" ctype="0" avtype="103" pos="0">
+				<Format version="1">
+					<AVType>103</AVType>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>86039</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>0</FormatTag>
+					<Channels>0</Channels>
+					<SamplesPerSec>0</SamplesPerSec>
+					<BitsPerSample>0</BitsPerSample>
+					<BlockAlign>0</BlockAlign>
+					<AvgBytesPerSec>0</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+					<CodecFlavor>16</CodecFlavor>
+					<EncodingComplexity>2</EncodingComplexity>
+					<AudioMode>0</AudioMode>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+</Profiles>

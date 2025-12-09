@@ -1,0 +1,95 @@
+<Profiles version="1">
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">Common</ProfileGroup>
+		<ProfileName type="8" pos="2">Highest quality: AMR-NB - 12.2 kbps, 8000 Hz, Mono</ProfileName>
+		<ProfileDescription type="8" pos="3">Highest quality: AMR-NB - 12.2 kbps, 8000 Hz, Mono</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="100" pos="0">
+				<Format version="1">
+					<AVType>100</AVType>
+					<FormatFlags>0</FormatFlags>
+					<Options version="1" tag="-1" type="13" itype="1"/>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>73728</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>1</FormatTag>
+					<Channels>1</Channels>
+					<SamplesPerSec>8000</SamplesPerSec>
+					<BitsPerSample>16</BitsPerSample>
+					<BlockAlign>4</BlockAlign>
+					<AvgBytesPerSec>1500</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">Common</ProfileGroup>
+		<ProfileName type="8" pos="2">Normal quality: AMR-NB - 6.7 kbps, 8000 Hz, Mono</ProfileName>
+		<ProfileDescription type="8" pos="3">Normal quality: AMR-NB - 6.7 kbps, 8000 Hz, Mono</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="100" pos="0">
+				<Format version="1">
+					<AVType>100</AVType>
+					<FormatFlags>0</FormatFlags>
+					<Options version="1" tag="-1" type="13" itype="1"/>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>73728</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>1</FormatTag>
+					<Channels>1</Channels>
+					<SamplesPerSec>8000</SamplesPerSec>
+					<BitsPerSample>16</BitsPerSample>
+					<BlockAlign>4</BlockAlign>
+					<AvgBytesPerSec>875</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">Common</ProfileGroup>
+		<ProfileName type="8" pos="2">Low quality: AMR-NB - 4.75 kbps, 8000 Hz, Mono</ProfileName>
+		<ProfileDescription type="8" pos="3">Low quality: AMR-NB - 4.75 kbps, 8000 Hz, Mono</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="100" pos="0">
+				<Format version="1">
+					<AVType>100</AVType>
+					<FormatFlags>0</FormatFlags>
+					<Options version="1" tag="-1" type="13" itype="1"/>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>73728</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>1</FormatTag>
+					<Channels>1</Channels>
+					<SamplesPerSec>8000</SamplesPerSec>
+					<BitsPerSample>16</BitsPerSample>
+					<BlockAlign>4</BlockAlign>
+					<AvgBytesPerSec>500</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+</Profiles>

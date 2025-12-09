@@ -1,0 +1,204 @@
+<Profiles version="1">
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">
+		</ProfileGroup>
+		<ProfileName type="8" pos="2">Normal quality: WMA9 - 128 kbps, 44100 Hz, Stereo</ProfileName>
+		<ProfileDescription type="8" pos="3">Normal quality: WMA9 - 128 kbps, 44100 Hz, Stereo</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="100" pos="0">
+				<Format version="1">
+					<AVType>100</AVType>
+					<FormatFlags>0</FormatFlags>
+					<Options version="1" tag="-1" type="13" itype="1"/>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>0</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>353</FormatTag>
+					<Channels>2</Channels>
+					<SamplesPerSec>44100</SamplesPerSec>
+					<BitsPerSample>16</BitsPerSample>
+					<BlockAlign>5945</BlockAlign>
+					<AvgBytesPerSec>16002</AvgBytesPerSec>
+					<cbSize>10</cbSize>
+					<FormatName>128 kbps, 44 kHz, stereo CBR</FormatName>
+					<WaveExt>00,88,00,00,0f,00,e5,5c,00,00,</WaveExt>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<AVFormat type="13" itype="4" ctype="0" avtype="100" pos="0">
+				<Format version="1">
+					<AVType>100</AVType>
+					<FormatFlags>0</FormatFlags>
+					<Options version="1" tag="-1" type="13" itype="1"/>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>0</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>353</FormatTag>
+					<Channels>1</Channels>
+					<SamplesPerSec>8000</SamplesPerSec>
+					<BitsPerSample>16</BitsPerSample>
+					<BlockAlign>640</BlockAlign>
+					<AvgBytesPerSec>1000</AvgBytesPerSec>
+					<cbSize>10</cbSize>
+					<FormatName>8 kbps,  8 kHz, mono CBR</FormatName>
+					<WaveExt>00,22,00,00,26,00,00,00,00,00,</WaveExt>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="7">
+			<AVFormat type="13" itype="4" ctype="0" avtype="100" pos="0">
+				<Format version="1">
+					<AVType>100</AVType>
+					<FormatFlags>0</FormatFlags>
+					<Options version="1" tag="-1" type="13" itype="1"/>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>0</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>353</FormatTag>
+					<Channels>1</Channels>
+					<SamplesPerSec>8000</SamplesPerSec>
+					<BitsPerSample>16</BitsPerSample>
+					<BlockAlign>640</BlockAlign>
+					<AvgBytesPerSec>1000</AvgBytesPerSec>
+					<cbSize>10</cbSize>
+					<FormatName>8 kbps,  8 kHz, mono CBR</FormatName>
+					<WaveExt>00,22,00,00,26,00,00,00,00,00,</WaveExt>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="8">
+			<AVFormat type="13" itype="4" ctype="0" avtype="100" pos="0">
+				<Format version="1">
+					<AVType>100</AVType>
+					<FormatFlags>0</FormatFlags>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>0</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>353</FormatTag>
+					<Channels>1</Channels>
+					<SamplesPerSec>8000</SamplesPerSec>
+					<BitsPerSample>16</BitsPerSample>
+					<BlockAlign>640</BlockAlign>
+					<AvgBytesPerSec>1000</AvgBytesPerSec>
+					<cbSize>10</cbSize>
+					<FormatName>  8 kbps,  8 kHz, mono CBR</FormatName>
+					<WaveExt>00,22,00,00,26,00,00,00,00,00,</WaveExt>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="9">
+			<AVFormat type="13" itype="4" ctype="0" avtype="100" pos="0">
+				<Format version="1">
+					<AVType>100</AVType>
+					<FormatFlags>0</FormatFlags>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>0</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>353</FormatTag>
+					<Channels>1</Channels>
+					<SamplesPerSec>8000</SamplesPerSec>
+					<BitsPerSample>16</BitsPerSample>
+					<BlockAlign>640</BlockAlign>
+					<AvgBytesPerSec>1000</AvgBytesPerSec>
+					<cbSize>10</cbSize>
+					<FormatName>  8 kbps,  8 kHz, mono CBR</FormatName>
+					<WaveExt>00,22,00,00,26,00,00,00,00,00,</WaveExt>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">
+		</ProfileGroup>
+		<ProfileName type="8" pos="2">High quality: WMA9 - 192 kbps, 44100 Hz, Stereo</ProfileName>
+		<ProfileDescription type="8" pos="3">High quality: WMA9 - 192 kbps, 44100 Hz, Stereo</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="100" pos="0">
+				<Format version="1">
+					<AVType>100</AVType>
+					<FormatFlags>0</FormatFlags>
+					<Options version="1" tag="-1" type="13" itype="1"/>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>0</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>353</FormatTag>
+					<Channels>2</Channels>
+					<SamplesPerSec>44100</SamplesPerSec>
+					<BitsPerSample>16</BitsPerSample>
+					<BlockAlign>8917</BlockAlign>
+					<AvgBytesPerSec>24002</AvgBytesPerSec>
+					<cbSize>10</cbSize>
+					<FormatName>192 kbps, 44 kHz, stereo CBR</FormatName>
+					<WaveExt>00,88,00,00,0f,00,55,8b,00,00,</WaveExt>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">
+		</ProfileGroup>
+		<ProfileName type="8" pos="2">Highest quality: WMA9 - 256 kbps, 44100 Hz, Stereo</ProfileName>
+		<ProfileDescription type="8" pos="3">Highest quality: WMA9 - 256 kbps, 44100 Hz, Stereo</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="100" pos="0">
+				<Format version="1">
+					<AVType>100</AVType>
+					<FormatFlags>0</FormatFlags>
+					<Options version="1" tag="-1" type="13" itype="1"/>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>0</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>353</FormatTag>
+					<Channels>2</Channels>
+					<SamplesPerSec>44100</SamplesPerSec>
+					<BitsPerSample>16</BitsPerSample>
+					<BlockAlign>11889</BlockAlign>
+					<AvgBytesPerSec>32002</AvgBytesPerSec>
+					<cbSize>10</cbSize>
+					<FormatName>256 kbps, 44 kHz, stereo CBR</FormatName>
+					<WaveExt>00,88,00,00,0f,00,c5,b9,00,00,</WaveExt>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">
+		</ProfileGroup>
+		<ProfileName type="8" pos="2">Least quality: WMA9 - 80 kbps, 44100 Hz, Stereo</ProfileName>
+		<ProfileDescription type="8" pos="3">Least quality: WMA9 - 80 kbps, 44100 Hz, Stereo</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="100" pos="0">
+				<Format version="1">
+					<AVType>100</AVType>
+					<FormatFlags>0</FormatFlags>
+					<Options version="1" tag="-1" type="13" itype="1"/>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>0</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>353</FormatTag>
+					<Channels>2</Channels>
+					<SamplesPerSec>44100</SamplesPerSec>
+					<BitsPerSample>16</BitsPerSample>
+					<BlockAlign>3716</BlockAlign>
+					<AvgBytesPerSec>10003</AvgBytesPerSec>
+					<cbSize>10</cbSize>
+					<FormatName>80 kbps, 44 kHz, stereo CBR</FormatName>
+					<WaveExt>00,88,00,00,0f,00,11,3a,00,00,</WaveExt>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+</Profiles>

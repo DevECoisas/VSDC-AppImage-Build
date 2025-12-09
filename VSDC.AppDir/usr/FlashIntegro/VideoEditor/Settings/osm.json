@@ -1,0 +1,106 @@
+{
+    "providersOSM": [
+        {
+            "name": "OSM1",
+            "url": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+            "cpy": "(c) OpenStreetMap (https://openstreetmap.org/copyright)"			
+        },
+        {
+            "name": "OSM2",
+            "url": "https://tile.openstreetmap.de/{z}/{x}/{y}.png",
+            "cpy": "(c) OpenStreetMap (https://openstreetmap.org/copyright)"
+        },
+        {
+            "name": "OSM3",
+            "url": "https://a.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.png",
+            "cpy": "(c) OpenStreetMap (https://openstreetmap.org/copyright)"
+        },
+        {
+            "name": "OSM4",
+            "url": "https://a.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png",
+            "cpy": "(c) OpenStreetMap (https://openstreetmap.org/copyright)"
+        },
+        {
+            "name": "OSM5",
+            "url": "https://a.tile.opentopomap.org/{z}/{x}/{y}.png",
+            "cpy": "Map style: (c) OpenTopoMap (https://opentopomap.org), Map data: (c) OpenStreetMap (https://openstreetmap.org/copyright)"
+        },
+        {
+            "name": "Thunderforest Landscape(Commercial, api key)",
+            "url": "https://tile.thunderforest.com/landscape/{z}/{x}/{y}.png?apikey={apikey}",
+            "cpy": "Maps (c) Thunderforest (https://www.thunderforest.com), Data (c) OpenStreetMap (https://openstreetmap.org/copyright)",
+			"apiuid": 1
+        },
+        {
+            "name": "Thunderforest Outdoors(Commercial, api key)",
+            "url": "https://tile.thunderforest.com/outdoors/{z}/{x}/{y}.png?apikey={apikey}",
+            "cpy": "Maps (c) Thunderforest (https://www.thunderforest.com), Data (c) OpenStreetMap (https://openstreetmap.org/copyright)",
+			"apiuid": 1
+        },
+        {
+            "name": "Thunderforest OpenCycleMap(Commercial, api key)",
+            "url": "https://tile.thunderforest.com/cycle/{z}/{x}/{y}.png?apikey={apikey}",
+            "cpy": "Maps (c) Thunderforest (https://www.thunderforest.com), Data (c) OpenStreetMap (https://openstreetmap.org/copyright)",
+			"apiuid": 1
+        },
+        {
+            "name": "Thunderforest Atlas(Commercial, api key)",
+            "url": "https://tile.thunderforest.com/atlas/{z}/{x}/{y}.png?apikey={apikey}",
+            "cpy": "Maps (c) Thunderforest (https://www.thunderforest.com), Data (c) OpenStreetMap (https://openstreetmap.org/copyright)",
+			"apiuid": 1
+        },
+        {
+            "name": "Thunderforest Atlas mobile(Commercial, api key)",
+            "url": "https://tile.thunderforest.com/mobile-atlas/{z}/{x}/{y}.png?apikey={apikey}",
+            "cpy": "Maps (c) Thunderforest (https://www.thunderforest.com), Data (c) OpenStreetMap (https://openstreetmap.org/copyright)",
+			"apiuid": 1
+        },
+        {
+            "name": "Thunderforest Transport(Commercial, api key)",
+            "url": "https://tile.thunderforest.com/transport/{z}/{x}/{y}.png?apikey={apikey}",
+            "cpy": "Maps (c) Thunderforest (https://www.thunderforest.com), Data (c) OpenStreetMap (https://openstreetmap.org/copyright)",
+			"apiuid": 1
+        },
+        {
+            "name": "Thunderforest Transport dark(Commercial, api key)",
+            "url": "https://tile.thunderforest.com/transport-dark/{z}/{x}/{y}.png?apikey={apikey}",
+            "cpy": "Maps (c) Thunderforest (https://www.thunderforest.com), Data (c) OpenStreetMap (https://openstreetmap.org/copyright)",
+			"apiuid": 1
+        },
+        {
+            "name": "Thunderforest Pioneer(Commercial, api key)",
+            "url": "https://tile.thunderforest.com/pioneer/{z}/{x}/{y}.png?apikey={apikey}",
+            "cpy": "Maps (c) Thunderforest (https://www.thunderforest.com), Data (c) OpenStreetMap (https://openstreetmap.org/copyright)",
+			"apiuid": 1
+        },
+        {
+            "name": "Thunderforest neighbourhood(Commercial, api key)",
+            "url": "https://tile.thunderforest.com/neighbourhood/{z}/{x}/{y}.png?apikey={apikey}",
+            "cpy": "Maps (c) Thunderforest (https://www.thunderforest.com), Data (c) OpenStreetMap (https://openstreetmap.org/copyright)",
+			"apiuid": 1
+        }
+    ],
+	"providersGoogle": [
+        {
+            "name": "GoogleMaps1",
+            "url": "https://tile.googleapis.com/v1/2dtiles/{z}/{x}/{y}?session={session}&key={apikey}",
+            "cpy": "https://tile.googleapis.com/v1/createSession?key={apikey}"
+        },
+        {
+            "name": "GoogleMaps2",
+            "url": "https://tile.googleapis.com/v1/2dtiles/{z}/{x}/{y}?session={session}&key={apikey}",
+            "cpy": "https://tile.googleapis.com/v1/createSession?key={apikey}|terrain"
+        },
+        {
+            "name": "GoogleMaps3",
+            "url": "https://tile.googleapis.com/v1/2dtiles/{z}/{x}/{y}?session={session}&key={apikey}",
+            "cpy": "https://tile.googleapis.com/v1/createSession?key={apikey}|satellite"
+        },
+        {
+            "name": "GoogleMaps4",
+            "url": "https://tile.googleapis.com/v1/2dtiles/{z}/{x}/{y}?session={session}&key={apikey}",
+            "cpy": "https://tile.googleapis.com/v1/createSession?key={apikey}|hybrid"
+        }
+	],
+	"GoolgeViewport" : "https://tile.googleapis.com/tile/v1/viewport?session={session}&key={apikey}&zoom={z}&north={n}&south={s}&east={e}&west={w}"
+}

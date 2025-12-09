@@ -1,0 +1,252 @@
+<Profiles version="1">
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">
+		</ProfileGroup>
+		<ProfileName type="8" pos="2">Normal quality: MP3 - 128 kbps, 44100 Hz, Stereo</ProfileName>
+		<ProfileDescription type="8" pos="3">Normal quality: MP3 - 128 kbps, 44100 Hz, Stereo</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="101" pos="0">
+				<Format version="1">
+					<AVType>101</AVType>
+					<FormatFlags>0</FormatFlags>
+					<Options version="1" tag="-1" type="13" itype="1"/>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>86017</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>85</FormatTag>
+					<Channels>2</Channels>
+					<SamplesPerSec>44100</SamplesPerSec>
+					<BitsPerSample>0</BitsPerSample>
+					<BlockAlign>0</BlockAlign>
+					<AvgBytesPerSec>16000</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+					<Mode>1</Mode>
+					<MaxBitrate>0</MaxBitrate>
+					<Preset>-1</Preset>
+					<MpegVersion>1</MpegVersion>
+					<PsyModel>0</PsyModel>
+					<Emphasis>0</Emphasis>
+					<Private>0</Private>
+					<CRC>0</CRC>
+					<Copyright>0</Copyright>
+					<Original>-1</Original>
+					<WriteVBRHeader>0</WriteVBRHeader>
+					<EnableVBR>0</EnableVBR>
+					<VBRQuality>4</VBRQuality>
+					<VbrAbrBitrate>0</VbrAbrBitrate>
+					<VbrMethod>-1</VbrMethod>
+					<NoRes>0</NoRes>
+					<StrictIso>-1</StrictIso>
+					<Quality>3</Quality>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">
+		</ProfileGroup>
+		<ProfileName type="8" pos="2">High quality: MP3 - 192 kbps, 44100 Hz, Stereo</ProfileName>
+		<ProfileDescription type="8" pos="3">High quality: MP3 - 192 kbps, 44100 Hz, Stereo</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="101" pos="0">
+				<Format version="1">
+					<AVType>101</AVType>
+					<FormatFlags>0</FormatFlags>
+					<Options version="1" tag="-1" type="13" itype="1"/>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>86017</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>85</FormatTag>
+					<Channels>2</Channels>
+					<SamplesPerSec>44100</SamplesPerSec>
+					<BitsPerSample>0</BitsPerSample>
+					<BlockAlign>0</BlockAlign>
+					<AvgBytesPerSec>24000</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+					<Mode>1</Mode>
+					<MaxBitrate>0</MaxBitrate>
+					<Preset>-1</Preset>
+					<MpegVersion>1</MpegVersion>
+					<PsyModel>0</PsyModel>
+					<Emphasis>0</Emphasis>
+					<Private>0</Private>
+					<CRC>0</CRC>
+					<Copyright>0</Copyright>
+					<Original>-1</Original>
+					<WriteVBRHeader>0</WriteVBRHeader>
+					<EnableVBR>0</EnableVBR>
+					<VBRQuality>4</VBRQuality>
+					<VbrAbrBitrate>0</VbrAbrBitrate>
+					<VbrMethod>-1</VbrMethod>
+					<NoRes>0</NoRes>
+					<StrictIso>-1</StrictIso>
+					<Quality>3</Quality>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">
+		</ProfileGroup>
+		<ProfileName type="8" pos="2">Highest quality: MP3 - 320 kbps, 48000 Hz, Stereo</ProfileName>
+		<ProfileDescription type="8" pos="3">Highest quality: MP3 - 320 kbps, 48000 Hz, Stereo</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="101" pos="0">
+				<Format version="1">
+					<AVType>101</AVType>
+					<FormatFlags>0</FormatFlags>
+					<Options version="1" tag="-1" type="13" itype="1"/>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>86017</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>85</FormatTag>
+					<Channels>2</Channels>
+					<SamplesPerSec>48000</SamplesPerSec>
+					<BitsPerSample>0</BitsPerSample>
+					<BlockAlign>0</BlockAlign>
+					<AvgBytesPerSec>40000</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+					<Mode>1</Mode>
+					<MaxBitrate>0</MaxBitrate>
+					<Preset>-1</Preset>
+					<MpegVersion>1</MpegVersion>
+					<PsyModel>0</PsyModel>
+					<Emphasis>0</Emphasis>
+					<Private>0</Private>
+					<CRC>0</CRC>
+					<Copyright>0</Copyright>
+					<Original>-1</Original>
+					<WriteVBRHeader>0</WriteVBRHeader>
+					<EnableVBR>0</EnableVBR>
+					<VBRQuality>4</VBRQuality>
+					<VbrAbrBitrate>0</VbrAbrBitrate>
+					<VbrMethod>-1</VbrMethod>
+					<NoRes>0</NoRes>
+					<StrictIso>-1</StrictIso>
+					<Quality>3</Quality>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">
+		</ProfileGroup>
+		<ProfileName type="8" pos="2">Least quality: MP3 - 96 kbps, 44100 Hz, Stereo</ProfileName>
+		<ProfileDescription type="8" pos="3">Least quality: MP3 - 96 kbps, 44100 Hz, Stereo</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="101" pos="0">
+				<Format version="1">
+					<AVType>101</AVType>
+					<FormatFlags>0</FormatFlags>
+					<Options version="1" tag="-1" type="13" itype="1"/>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>86017</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>85</FormatTag>
+					<Channels>2</Channels>
+					<SamplesPerSec>44100</SamplesPerSec>
+					<BitsPerSample>0</BitsPerSample>
+					<BlockAlign>0</BlockAlign>
+					<AvgBytesPerSec>12000</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+					<Mode>1</Mode>
+					<MaxBitrate>0</MaxBitrate>
+					<Preset>-1</Preset>
+					<MpegVersion>1</MpegVersion>
+					<PsyModel>0</PsyModel>
+					<Emphasis>0</Emphasis>
+					<Private>0</Private>
+					<CRC>0</CRC>
+					<Copyright>0</Copyright>
+					<Original>-1</Original>
+					<WriteVBRHeader>0</WriteVBRHeader>
+					<EnableVBR>0</EnableVBR>
+					<VBRQuality>4</VBRQuality>
+					<VbrAbrBitrate>0</VbrAbrBitrate>
+					<VbrMethod>-1</VbrMethod>
+					<NoRes>0</NoRes>
+					<StrictIso>-1</StrictIso>
+					<Quality>3</Quality>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">
+		</ProfileGroup>
+		<ProfileName type="8" pos="2">Mobile quality: MP3 - 64 kbps, 22050 Hz, Mono</ProfileName>
+		<ProfileDescription type="8" pos="3">Mobile quality: MP3 - 64 kbps, 22050 Hz, Mono</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="101" pos="0">
+				<Format version="1">
+					<AVType>101</AVType>
+					<FormatFlags>0</FormatFlags>
+					<Options version="1" tag="-1" type="13" itype="1"/>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>86017</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>85</FormatTag>
+					<Channels>1</Channels>
+					<SamplesPerSec>22050</SamplesPerSec>
+					<BitsPerSample>0</BitsPerSample>
+					<BlockAlign>0</BlockAlign>
+					<AvgBytesPerSec>8000</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+					<Mode>3</Mode>
+					<MaxBitrate>0</MaxBitrate>
+					<Preset>-1</Preset>
+					<MpegVersion>1</MpegVersion>
+					<PsyModel>0</PsyModel>
+					<Emphasis>0</Emphasis>
+					<Private>0</Private>
+					<CRC>0</CRC>
+					<Copyright>0</Copyright>
+					<Original>-1</Original>
+					<WriteVBRHeader>0</WriteVBRHeader>
+					<EnableVBR>0</EnableVBR>
+					<VBRQuality>4</VBRQuality>
+					<VbrAbrBitrate>0</VbrAbrBitrate>
+					<VbrMethod>-1</VbrMethod>
+					<NoRes>0</NoRes>
+					<StrictIso>-1</StrictIso>
+					<Quality>3</Quality>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+</Profiles>

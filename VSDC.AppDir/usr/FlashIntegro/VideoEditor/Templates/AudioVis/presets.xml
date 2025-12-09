@@ -1,0 +1,2282 @@
+<PropertiesBag version="1" tag="-1" type="13" itype="1">
+	<PresetsGroup version="1" tag="-1" type="13" itype="1" ctype="0" pos="0">
+		<Title type="8" pos="0">Aderrasi</Title>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="1">
+			<Title type="8" pos="0">Airhandler</Title>
+			<Path type="8" pos="1">presets\Aderrasi\Aderrasi - Airhandler (Principle of Sharing).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="2">
+			<Title type="8" pos="0">Bitterfeld</Title>
+			<Path type="8" pos="1">presets\Aderrasi\Aderrasi - Bitterfeld (Crystal Border Mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="3">
+			<Title type="8" pos="0">Bow To Gravity</Title>
+			<Path type="8" pos="1">presets\Aderrasi\Aderrasi - Bow To Gravity.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="4">
+			<Title type="8" pos="0">Brakefreak</Title>
+			<Path type="8" pos="1">presets\Aderrasi\Aderrasi - Brakefreak-bitcore tweak.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<Title type="8" pos="0">Contortion</Title>
+			<Path type="8" pos="1">presets\Aderrasi\Aderrasi - Contortion (Escher's Tunnel Mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<Title type="8" pos="0">Ert (Wary Mix)</Title>
+			<Path type="8" pos="1">presets\Aderrasi\Aderrasi - Ert (Wary Mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="7">
+			<Title type="8" pos="0">Ghast Entity</Title>
+			<Path type="8" pos="1">presets\Aderrasi\Aderrasi - Ghast Entity.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="8">
+			<Title type="8" pos="0">Halls Of Centrifuge</Title>
+			<Path type="8" pos="1">presets\Aderrasi\Aderrasi - Halls Of Centrifuge.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="9">
+			<Title type="8" pos="0">Hard Drink</Title>
+			<Path type="8" pos="1">presets\Aderrasi\Aderrasi - Hard Drink (Half-Infinitea).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="10">
+			<Title type="8" pos="0">Kevlar Abyss</Title>
+			<Path type="8" pos="1">presets\Aderrasi\Aderrasi - Kevlar Abyss.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="11">
+			<Title type="8" pos="0">Party Mutant</Title>
+			<Path type="8" pos="1">presets\Aderrasi\Aderrasi - Party Mutant.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="12">
+			<Title type="8" pos="0">Potion of Spirits</Title>
+			<Path type="8" pos="1">presets\Aderrasi\Aderrasi - Potion of Spirits.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="13">
+			<Title type="8" pos="0">See</Title>
+			<Path type="8" pos="1">presets\Aderrasi\Aderrasi - See.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="14">
+			<Title type="8" pos="0">Songflower(Hybrid Plant)</Title>
+			<Path type="8" pos="1">presets\Aderrasi\Aderrasi - Songflower (Hybrid Plant).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="15">
+			<Title type="8" pos="0">Songflower(Moss Posy)</Title>
+			<Path type="8" pos="1">presets\Aderrasi\Aderrasi - Songflower (Moss Posy).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="16">
+			<Title type="8" pos="0">The Lurker(Twin Mix)</Title>
+			<Path type="8" pos="1">presets\Aderrasi\Aderrasi - The Lurker (Twin Mix) - Bitcore Tweak.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="17">
+			<Title type="8" pos="0">Visitor</Title>
+			<Path type="8" pos="1">presets\Aderrasi\Aderrasi - Visitor.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="18">
+			<Title type="8" pos="0">What Cannot Be Undone</Title>
+			<Path type="8" pos="1">presets\Aderrasi\Aderrasi - What Cannot Be Undone.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="19">
+			<Title type="8" pos="0">Airhandler(Last Breath - Calm)</Title>
+			<Path type="8" pos="1">presets\Aderrasi\Aderrasi + Flexi - Airhandler (Last Breath - Calm) [moebius morbid vision edit].milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="20">
+			<Title type="8" pos="0">Airhandler(Kali Mix)</Title>
+			<Path type="8" pos="1">presets\Aderrasi\Aderrasi + Geiss - Airhandler (Kali Mix) - Painterly Kaleidoscope 2.milk</Path>
+		</PresetProperties>
+	</PresetsGroup>
+	<PresetsGroup version="1" tag="-1" type="13" itype="1" ctype="0" pos="1">
+		<Title type="8" pos="0">Flexi</Title>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="1">
+			<Title type="8" pos="0">Age of shading chaos</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi - age of shading chaos.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="2">
+			<Title type="8" pos="0">Bouncing icecubes</Title>
+			<Path type="8" pos="1">presets\flexi\flexi - bouncing icecubes [good morning edit].milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="3">
+			<Title type="8" pos="0">Braggadocio</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi - braggadocio.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="4">
+			<Title type="8" pos="0">Cell tissue</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi - cell tissue.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<Title type="8" pos="0">Color strike</Title>
+			<Path type="8" pos="1">presets\flexi\flexi - color strike.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<Title type="8" pos="0">Dawn has broken</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi - dawn has broken.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="7">
+			<Title type="8" pos="0">Fractal descent</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi - fractal descent.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="8">
+			<Title type="8" pos="0">Fractal jellyfish</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi - fractal jellyfish [moebius mix].milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="9">
+			<Title type="8" pos="0">Fractal remix weed</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi - fractal remix weed.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="10">
+			<Title type="8" pos="0">Fractal seafood</Title>
+			<Path type="8" pos="1">presets\flexi\flexi - fractal seafood.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="11">
+			<Title type="8" pos="0">Fractals with a twist</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi - fractals with a twist.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="12">
+			<Title type="8" pos="0">Gold plated maelstrom of chaos</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi - gold plated maelstrom of chaos [mirrorized].milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="13">
+			<Title type="8" pos="0">Gold plated maelstrom of chaos</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi - gold plated maelstrom of chaos.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="14">
+			<Title type="8" pos="0">Hue burst</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi - hue burst.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="15">
+			<Title type="8" pos="0">Infused with the spiral</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi - infused with the spiral.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="16">
+			<Title type="8" pos="0">Intensive shader fractal[suksma comp shader mix]</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi - intensive shader fractal [suksma comp shader mix].milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="17">
+			<Title type="8" pos="0">Intensive shader fractal. shader fractal.</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi - intensive shader fractal.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="18">
+			<Title type="8" pos="0">Intention focus</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi - intention focus.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="19">
+			<Title type="8" pos="0">Jellyfish jam</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi - jellyfish jam.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="20">
+			<Title type="8" pos="0">Julia fractal</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi - Julia fractal.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="21">
+			<Title type="8" pos="0">Julian affair</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi - julian affairs [remix].milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="22">
+			<Title type="8" pos="0">Kaleidoscope</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi - kaleidoscope template [commented composite shader].milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="23">
+			<Title type="8" pos="0">Lorenz attractor</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi - lorenz attractor.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="24">
+			<Title type="8" pos="0">Meta4free</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi - meta4free.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="25">
+			<Title type="8" pos="0">Milkcore[Martin's ripple on water insertion]</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi - Milkcore [Martin's ripple on water insertion].milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="26">
+			<Title type="8" pos="0">Milkcore</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi - Milkcore.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="27">
+			<Title type="8" pos="0">Mindblob[shiny mix]</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi - mindblob [shiny mix].milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="28">
+			<Title type="8" pos="0">Nindblob 2.0[stahlregens glass texture garden mix]</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi - mindblob 2.0 [stahlregens glass texture garden mix].milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="29">
+			<Title type="8" pos="0">Mindblob 2.0</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi - mindblob 2.0.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="30">
+			<Title type="8" pos="0">Moebius transformation</Title>
+			<Path type="8" pos="1">presets\flexi\flexi - moebius transformation [random texture mix].milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="31">
+			<Title type="8" pos="0">Molten neon fire spirit</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi - molten neon fire spirit.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="32">
+			<Title type="8" pos="0">Oldschool tree</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi - oldschool tree.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="33">
+			<Title type="8" pos="0">Predator-prey-spirals[geiss' laplacian finish]</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi - predator-prey-spirals [geiss' laplacian finish].milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="34">
+			<Title type="8" pos="0">Predator-prey-spirals [stahlregens gelatine finish]</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi - predator-prey-spirals [stahlregens gelatine finish].milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="35">
+			<Title type="8" pos="0">Predator-prey-spirals</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi - predator-prey-spirals.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="36">
+			<Title type="8" pos="0">Psychenapping</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi - psychenapping.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="37">
+			<Title type="8" pos="0">Reality tunnel</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi - reality tunnel.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="38">
+			<Title type="8" pos="0">Science-fraction</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi - science-fraction.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="39">
+			<Title type="8" pos="0">Smashing fractals[acid etching mix]</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi - smashing fractals [acid etching mix].milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="40">
+			<Title type="8" pos="0">Smashing fractals[Geiss' bas relief finish]</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi - smashing fractals [Geiss' bas relief finish].milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="41">
+			<Title type="8" pos="0">Smouldering</Title>
+			<Path type="8" pos="1">presets\flexi\flexi - smouldering.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="42">
+			<Title type="8" pos="0">Strangely dynamic world</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi - strangely dynamic world.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="43">
+			<Title type="8" pos="0">Supersonic</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi - supersonic.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="44">
+			<Title type="8" pos="0">The distant point between</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi - the distant point between.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="45">
+			<Title type="8" pos="0">The early bird</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi - the early bird.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="46">
+			<Title type="8" pos="0">When monopolies were the future</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi - when monopolies were the future [simple warp + non-reactive moebius].milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="47">
+			<Title type="8" pos="0">Working with infinity</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi - working with infinity.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="48">
+			<Title type="8" pos="0">Bdrv - va ultramix #148</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi + bdrv - va ultramix #148 [fucking infinity mix].milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="49">
+			<Title type="8" pos="0">What to do</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi + bdrv - what to do [Phat edit].milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="50">
+			<Title type="8" pos="0">Operation fatcap I</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi + fiShbRaiN - operation fatcap I.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="51">
+			<Title type="8" pos="0">Operation fatcap II</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi + fiShbRaiN - operation fatcap II.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="52">
+			<Title type="8" pos="0">Witchcraft [complex terraforming - fiddling twists in the fabric of space]</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi + fiShbRaiN - witchcraft [complex terraforming - fiddling twists in the fabric of space].milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="53">
+			<Title type="8" pos="0">Witchcraft [complex terraforming]</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi + fiShbRaiN - witchcraft [complex terraforming].milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="54">
+			<Title type="8" pos="0">Antagonizing beat detection codes</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi + Geiss - antagonizing beat detection codes.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="55">
+			<Title type="8" pos="0">Bipolar vs. Reaction Diffusion mix</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi + Geiss - Bipolar vs. Reaction Diffusion mix.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="56">
+			<Title type="8" pos="0">Pogo-cubes on tokamak matter [mind over matter remix]</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi + Geiss - pogo-cubes on tokamak matter [mind over matter remix].milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="57">
+			<Title type="8" pos="0">Pogo-cubes on tokamak matter</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi + Geiss - pogo-cubes on tokamak matter.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="58">
+			<Title type="8" pos="0">Astral projection</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi + Martin - astral projection.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="59">
+			<Title type="8" pos="0">Dive</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi + Martin - dive.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="60">
+			<Title type="8" pos="0">Landing on Fractopia</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi + Rovastar - landing on Fractopia.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="61">
+			<Title type="8" pos="0">Postcard from Fractopia</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi + Rovastar - postcard from Fractopia.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="62">
+			<Title type="8" pos="0">Sublimal spaceship</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi + Shifter - sublimal spaceship.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="63">
+			<Title type="8" pos="0">Witchery</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi, fishbrain + Martin - witchery.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="64">
+			<Title type="8" pos="0">Tokamak witchery</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi, fishbrain, Geiss + Martin - tokamak witchery.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="65">
+			<Title type="8" pos="0">Dedicated to the sherwin maxawow</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi, martin + geiss - dedicated to the sherwin maxawow.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="66">
+			<Title type="8" pos="0">Work with lines of code</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi, Phat, Zylot + Eo.S - work with lines of code.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="67">
+			<Title type="8" pos="0">Fractopia vs bas relief</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi, Rovastar + Geiss - Fractopia vs bas relief.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="68">
+			<Title type="8" pos="0">Shader authoring motivation set</Title>
+			<Path type="8" pos="1">presets\flexi\Flexi, Stahlregen, Nitorami + Shifter - shader authoring motivation set.milk</Path>
+		</PresetProperties>
+	</PresetsGroup>
+	<PresetsGroup version="1" tag="-1" type="13" itype="1" ctype="0" pos="2">
+		<Title type="8" pos="0">Geiss</Title>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="1">
+			<Title type="8" pos="0">Blur Mix 3</Title>
+			<Path type="8" pos="1">presets\Geiss\Geiss - Blur Mix 3.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="2">
+			<Title type="8" pos="0">Cauldron - painterly 5</Title>
+			<Path type="8" pos="1">presets\Geiss\Geiss - Cauldron - painterly 5.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="3">
+			<Title type="8" pos="0">Confetti (Kaleidoscope Mix)</Title>
+			<Path type="8" pos="1">presets\Geiss\Geiss - Confetti (Kaleidoscope Mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="4">
+			<Title type="8" pos="0">Cosmic Dust 2 - Tiny Reaction Diffusion Mix</Title>
+			<Path type="8" pos="1">presets\Geiss\Geiss - Cosmic Dust 2 - Tiny Reaction Diffusion Mix.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<Title type="8" pos="0">Cosmic Dust 2 - Trails 5b</Title>
+			<Path type="8" pos="1">presets\Geiss\Geiss - Cosmic Dust 2 - Trails 5b.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<Title type="8" pos="0">Cosmic Dust 2</Title>
+			<Path type="8" pos="1">presets\Geiss\Geiss - Cosmic Dust 2.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="7">
+			<Title type="8" pos="0">Drop Shadow 1</Title>
+			<Path type="8" pos="1">presets\Geiss\Geiss - Drop Shadow 1.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="8">
+			<Title type="8" pos="0">Explosion 2</Title>
+			<Path type="8" pos="1">presets\Geiss\Geiss - Explosion 2.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="9">
+			<Title type="8" pos="0">Explosion 3</Title>
+			<Path type="8" pos="1">presets\Geiss\Geiss - Explosion 3.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="10">
+			<Title type="8" pos="0">Fog Tunnel</Title>
+			<Path type="8" pos="1">presets\Geiss\Geiss - Fog Tunnel.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="11">
+			<Title type="8" pos="0">Inkblot</Title>
+			<Path type="8" pos="1">presets\Geiss\Geiss - Inkblot.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="12">
+			<Title type="8" pos="0">Liquid Beats</Title>
+			<Path type="8" pos="1">presets\Geiss\Geiss - Liquid Beats (janky ripple warp reflecto).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="13">
+			<Title type="8" pos="0">Motion Blur 2</Title>
+			<Path type="8" pos="1">presets\Geiss\Geiss - Motion Blur 2 (Stahl's Neon Jelly 2 RMX).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="14">
+			<Title type="8" pos="0">Myriad Mosaics</Title>
+			<Path type="8" pos="1">presets\Geiss\Geiss - Myriad Mosaics.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="15">
+			<Title type="8" pos="0">Myriad Spirals</Title>
+			<Path type="8" pos="1">presets\Geiss\Geiss - Myriad Spirals.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="16">
+			<Title type="8" pos="0">Reaction Diffussion 2</Title>
+			<Path type="8" pos="1">presets\Geiss\Geiss - Reaction Diffusion 2.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="17">
+			<Title type="8" pos="0">Reaction Diffusion 3</Title>
+			<Path type="8" pos="1">presets\Geiss\Geiss - Reaction Diffusion 3 (Lichen Mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="18">
+			<Title type="8" pos="0">Skin Dots Multi-layer 3</Title>
+			<Path type="8" pos="1">presets\Geiss\Geiss - Skin Dots Multi-layer 3.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="19">
+			<Title type="8" pos="0">Spiral Artifact</Title>
+			<Path type="8" pos="1">presets\Geiss\Geiss - Spiral Artifact.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="20">
+			<Title type="8" pos="0">Swirlie 4</Title>
+			<Path type="8" pos="1">presets\Geiss\Geiss - Swirlie 4.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="21">
+			<Title type="8" pos="0">Tokamak Plus 4</Title>
+			<Path type="8" pos="1">presets\Geiss\Geiss - Tokamak Plus 4.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="22">
+			<Title type="8" pos="0">Disconnected</Title>
+			<Path type="8" pos="1">presets\Geiss\Geiss + Flexi + Martin - disconnected.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="23">
+			<Title type="8" pos="0">Reaction Diffusion 3 [Rippling Islands]</Title>
+			<Path type="8" pos="1">presets\Geiss\Geiss + Stahlregen - Reaction Diffusion 3 [Rippling Islands].milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="24">
+			<Title type="8" pos="0">Reaction Diffusion 3 (Overload Mix 2)</Title>
+			<Path type="8" pos="1">presets\Geiss\Geiss and Zylot - Reaction Diffusion 3 (Overload Mix 2).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="25">
+			<Title type="8" pos="0">Thumbdrum Tokamak [crossfiring aftermath jelly mashup]</Title>
+			<Path type="8" pos="1">presets\Geiss\Geiss, Flexi + Stahlregen - Thumbdrum Tokamak [crossfiring aftermath jelly mashup].milk</Path>
+		</PresetProperties>
+	</PresetsGroup>
+	<PresetsGroup version="1" tag="-1" type="13" itype="1" ctype="0" pos="3">
+		<Title type="8" pos="0">Goody</Title>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="1">
+			<Title type="8" pos="0">Acid Angel - Fallen Angel</Title>
+			<Path type="8" pos="1">presets\Goody\Goody - Acid Angel - Fallen Angel.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="2">
+			<Title type="8" pos="0">Acid Angel - REvisitation</Title>
+			<Path type="8" pos="1">presets\Goody\Goody - Acid Angel - REvisitation.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="3">
+			<Title type="8" pos="0">Aurora Totalis</Title>
+			<Path type="8" pos="1">presets\Goody\Goody - Aurora Totalis.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="4">
+			<Title type="8" pos="0">Blame Hoffman</Title>
+			<Path type="8" pos="1">presets\Goody\Goody - Blame Hoffman.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<Title type="8" pos="0">Clouded Reason - revisited</Title>
+			<Path type="8" pos="1">presets\Goody\Goody - Clouded Reason - revisited.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<Title type="8" pos="0">Ego Decontructor</Title>
+			<Path type="8" pos="1">presets\Goody\Goody - Ego Decontructor.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="7">
+			<Title type="8" pos="0">Lights in the Sky</Title>
+			<Path type="8" pos="1">presets\Goody\Goody - Lights in the Sky.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="8">
+			<Title type="8" pos="0">LSD Zoomtunnel</Title>
+			<Path type="8" pos="1">presets\Goody\Goody - LSD Zoomtunnel.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="9">
+			<Title type="8" pos="0">Need</Title>
+			<Path type="8" pos="1">presets\Goody\Goody - Need.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="10">
+			<Title type="8" pos="0">Need - Desire remix</Title>
+			<Path type="8" pos="1">presets\Goody\Goody - Need - Desire remix.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="11">
+			<Title type="8" pos="0">Need - Transcendance remix</Title>
+			<Path type="8" pos="1">presets\Goody\Goody - Need - Transcendance remix.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="12">
+			<Title type="8" pos="0">The Shakes</Title>
+			<Path type="8" pos="1">presets\Goody\Goody - The Shakes.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="13">
+			<Title type="8" pos="0">The Thing That Lives Between</Title>
+			<Path type="8" pos="1">presets\Goody\Goody - The Thing That Lives Between.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="14">
+			<Title type="8" pos="0">The Wild Vort</Title>
+			<Path type="8" pos="1">presets\Goody\Goody - The Wild Vort.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="15">
+			<Title type="8" pos="0">Unstable Sonic Reactor - Final</Title>
+			<Path type="8" pos="1">presets\Goody\Goody - Unstable Sonic Reactor - Final.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="16">
+			<Title type="8" pos="0">Vertigo</Title>
+			<Path type="8" pos="1">presets\Goody\Goody - Vertigo.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="17">
+			<Title type="8" pos="0">Vertigo - revisited</Title>
+			<Path type="8" pos="1">presets\Goody\Goody - Vertigo - revisited.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="18">
+			<Title type="8" pos="0">Aqua Lumens</Title>
+			<Path type="8" pos="1">presets\Goody\Goody + martin - crystal palace - Aqua Lumens.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="19">
+			<Title type="8" pos="0">Ocular Anima</Title>
+			<Path type="8" pos="1">presets\Goody\Goody + martin - crystal palace - Ocular Anima.milk</Path>
+		</PresetProperties>
+	</PresetsGroup>
+	<PresetsGroup version="1" tag="-1" type="13" itype="1" ctype="0" pos="4">
+		<Title type="8" pos="0">Hexcollie</Title>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="1">
+			<Title type="8" pos="0">Personal Mashup3 [Flexi's portal mix]</Title>
+			<Path type="8" pos="1">presets\Hexcollie\Hexcollie - Personal Mashup3 [Flexi's portal mix].milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="2">
+			<Title type="8" pos="0">Faceless Frog [rmx]</Title>
+			<Path type="8" pos="1">presets\Hexcollie\Hexcollie + Flexi - Faceless Frog [rmx].milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="3">
+			<Title type="8" pos="0">It's a start</Title>
+			<Path type="8" pos="1">presets\Hexcollie\Hexcollie, Aderassi, BDRV, AdamFX n Flexi - It's a start.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="4">
+			<Title type="8" pos="0">Julian Sploosh</Title>
+			<Path type="8" pos="1">presets\Hexcollie\Hexcollie, Flexi + Adam - Julian Sploosh.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<Title type="8" pos="0">Pineal Massage [5 minute composite quickshot]</Title>
+			<Path type="8" pos="1">presets\Hexcollie\Hexcollie, Flexi, ORB, Eo.S. n DaNOnE - Pineal Massage [5 minute composite quickshot].milk</Path>
+		</PresetProperties>
+	</PresetsGroup>
+	<PresetsGroup version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+		<Title type="8" pos="0">Martin</Title>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="1">
+			<Title type="8" pos="0">Axon3</Title>
+			<Path type="8" pos="1">presets\Martin\martin - axon3.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="2">
+			<Title type="8" pos="0">Butterflies</Title>
+			<Path type="8" pos="1">presets\Martin\martin - butterflies.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="3">
+			<Title type="8" pos="0">Crystal palace</Title>
+			<Path type="8" pos="1">presets\Martin\martin - crystal palace.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="4">
+			<Title type="8" pos="0">Dark galaxy</Title>
+			<Path type="8" pos="1">presets\Martin\martin - dark galaxy.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<Title type="8" pos="0">Deep blue</Title>
+			<Path type="8" pos="1">presets\Martin\martin - deep blue.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<Title type="8" pos="0">Disco mix 1</Title>
+			<Path type="8" pos="1">presets\Martin\martin - disco mix 1.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="7">
+			<Title type="8" pos="0">Disco mix 2</Title>
+			<Path type="8" pos="1">presets\Martin\martin - disco mix 2.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="8">
+			<Title type="8" pos="0">Disco mix 4</Title>
+			<Path type="8" pos="1">presets\Martin\martin - disco mix 4.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="9">
+			<Title type="8" pos="0">Dont drink and drive (police mix)</Title>
+			<Path type="8" pos="1">presets\Martin\martin - dont drink and drive (police mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="10">
+			<Title type="8" pos="0">Electric pool</Title>
+			<Path type="8" pos="1">presets\Martin\martin - electric pool.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="11">
+			<Title type="8" pos="0">First try</Title>
+			<Path type="8" pos="1">presets\Martin\martin - first try.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="12">
+			<Title type="8" pos="0">Foggy notion</Title>
+			<Path type="8" pos="1">presets\Martin\martin - foggy notion.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="13">
+			<Title type="8" pos="0">Fruit machine</Title>
+			<Path type="8" pos="1">presets\Martin\martin - fruit machine.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="14">
+			<Title type="8" pos="0">Funky illusions</Title>
+			<Path type="8" pos="1">presets\Martin\martin - funky illusions.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="15">
+			<Title type="8" pos="0">Gate to moria</Title>
+			<Path type="8" pos="1">presets\Martin\martin - gate to moria.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="16">
+			<Title type="8" pos="0">Geiss - Psychotic Roulette</Title>
+			<Path type="8" pos="1">presets\Martin\martin - Geiss - Psychotic Roulette.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="17">
+			<Title type="8" pos="0">Gentle happiness</Title>
+			<Path type="8" pos="1">presets\Martin\martin - gentle happiness.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="18">
+			<Title type="8" pos="0">Ghost city</Title>
+			<Path type="8" pos="1">presets\Martin\martin - ghost city.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="19">
+			<Title type="8" pos="0">Girlie affairs</Title>
+			<Path type="8" pos="1">presets\Martin\martin - girlie affairs.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="20">
+			<Title type="8" pos="0">Glass corridor</Title>
+			<Path type="8" pos="1">presets\Martin\martin - glass corridor.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="21">
+			<Title type="8" pos="0">Golden mirror</Title>
+			<Path type="8" pos="1">presets\Martin\martin - golden mirror.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="22">
+			<Title type="8" pos="0">Hardcore mix 1</Title>
+			<Path type="8" pos="1">presets\Martin\martin - hardcore mix 1.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="23">
+			<Title type="8" pos="0">Hardcore mix 2</Title>
+			<Path type="8" pos="1">presets\Martin\martin - hardcore mix 2.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="24">
+			<Title type="8" pos="0">Jellyfish dance</Title>
+			<Path type="8" pos="1">presets\Martin\martin - jellyfish dance.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="25">
+			<Title type="8" pos="0">Lightning [Goody tunnel artifact tweak]</Title>
+			<Path type="8" pos="1">presets\Martin\martin - lightning [Goody tunnel artifact tweak].milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="26">
+			<Title type="8" pos="0">Liquid arrows</Title>
+			<Path type="8" pos="1">presets\Martin\Martin - liquid arrows.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="27">
+			<Title type="8" pos="0">Liquid gold</Title>
+			<Path type="8" pos="1">presets\Martin\martin - liquid gold.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="28">
+			<Title type="8" pos="0">Ludicrous speed</Title>
+			<Path type="8" pos="1">presets\Martin\martin - ludicrous speed.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="29">
+			<Title type="8" pos="0">Moonlight splash</Title>
+			<Path type="8" pos="1">presets\Martin\martin - moonlight splash.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="30">
+			<Title type="8" pos="0">Move this body</Title>
+			<Path type="8" pos="1">presets\Martin\martin - move this body.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="31">
+			<Title type="8" pos="0">Mucus cervix</Title>
+			<Path type="8" pos="1">presets\Martin\martin - mucus cervix.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="32">
+			<Title type="8" pos="0">Musicogenic epilepsy</Title>
+			<Path type="8" pos="1">presets\Martin\martin - musicogenic epilepsy.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="33">
+			<Title type="8" pos="0">Neon space ps2</Title>
+			<Path type="8" pos="1">presets\Martin\martin - neon space ps2.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="34">
+			<Title type="8" pos="0">Neon space ps3</Title>
+			<Path type="8" pos="1">presets\Martin\martin - neon space ps3.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="35">
+			<Title type="8" pos="0">Night cathedral</Title>
+			<Path type="8" pos="1">presets\Martin\martin - night cathedral.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="36">
+			<Title type="8" pos="0">Night in the forest</Title>
+			<Path type="8" pos="1">presets\Martin\martin - night in the forest.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="37">
+			<Title type="8" pos="0">No religion</Title>
+			<Path type="8" pos="1">presets\Martin\martin - no religion.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="38">
+			<Title type="8" pos="0">Organic light</Title>
+			<Path type="8" pos="1">presets\Martin\martin - organic light.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="39">
+			<Title type="8" pos="0">Pendulum in brass ps3</Title>
+			<Path type="8" pos="1">presets\Martin\martin - pendulum in brass ps3.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="40">
+			<Title type="8" pos="0">Purple pulsator</Title>
+			<Path type="8" pos="1">presets\Martin\martin - purple pulsator.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="41">
+			<Title type="8" pos="0">Reflections on black tiles</Title>
+			<Path type="8" pos="1">presets\Martin\martin - reflections on black tiles.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="42">
+			<Title type="8" pos="0">Satellite view</Title>
+			<Path type="8" pos="1">presets\Martin\martin - satellite view.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="43">
+			<Title type="8" pos="0">Shiny tunnel</Title>
+			<Path type="8" pos="1">presets\Martin\martin - shiny tunnel.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="44">
+			<Title type="8" pos="0">Silversmith</Title>
+			<Path type="8" pos="1">presets\Martin\martin - silversmith.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="45">
+			<Title type="8" pos="0">Soma in pink</Title>
+			<Path type="8" pos="1">presets\Martin\martin - soma in pink.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="46">
+			<Title type="8" pos="0">Sparky caleidoscope</Title>
+			<Path type="8" pos="1">presets\Martin\martin - sparky caleidoscope.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="47">
+			<Title type="8" pos="0">Starfield sectors</Title>
+			<Path type="8" pos="1">presets\Martin\martin - starfield sectors.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="48">
+			<Title type="8" pos="0">Sunset over the river</Title>
+			<Path type="8" pos="1">presets\Martin\martin - sunset over the river.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="49">
+			<Title type="8" pos="0">The beast</Title>
+			<Path type="8" pos="1">presets\Martin\martin - the beast.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="50">
+			<Title type="8" pos="0">The Dome ps2</Title>
+			<Path type="8" pos="1">presets\Martin\martin - the Dome ps2.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="51">
+			<Title type="8" pos="0">The Dome ps3</Title>
+			<Path type="8" pos="1">presets\Martin\martin - the Dome ps3.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="52">
+			<Title type="8" pos="0">The forge of Isengard</Title>
+			<Path type="8" pos="1">presets\Martin\martin - the forge of Isengard.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="53">
+			<Title type="8" pos="0">Thinking about you</Title>
+			<Path type="8" pos="1">presets\Martin\martin - Thinking about you.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="54">
+			<Title type="8" pos="0">This beautiful planet</Title>
+			<Path type="8" pos="1">presets\Martin\martin - this beautiful planet.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="55">
+			<Title type="8" pos="0">Tiling the tube</Title>
+			<Path type="8" pos="1">presets\Martin\martin - tiling the tube.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="56">
+			<Title type="8" pos="0">Tunnel race</Title>
+			<Path type="8" pos="1">presets\Martin\martin - tunnel race.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="57">
+			<Title type="8" pos="0">Unholy amulet</Title>
+			<Path type="8" pos="1">presets\Martin\martin - unholy amulet.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="58">
+			<Title type="8" pos="0">Violet flash</Title>
+			<Path type="8" pos="1">presets\Martin\martin - violet flash.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="59">
+			<Title type="8" pos="0">Volcano</Title>
+			<Path type="8" pos="1">presets\Martin\martin - volcano.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="60">
+			<Title type="8" pos="0">Wire dance</Title>
+			<Path type="8" pos="1">presets\Martin\Martin - wire dance.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="61">
+			<Title type="8" pos="0">Blarfff [Zebra puke mash-up by Stahlregen]</Title>
+			<Path type="8" pos="1">presets\Martin\martin + suksma + fed + goody and others - blarfff [Zebra puke mash-up by Stahlregen].milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="62">
+			<Title type="8" pos="0">Acoustic Nerve Impulses</Title>
+			<Path type="8" pos="1">presets\Martin\Mstress - Acoustic Nerve Impulses.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="63">
+			<Title type="8" pos="0">Dancer</Title>
+			<Path type="8" pos="1">presets\Martin\Mstress + Juppy - Dancer.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="64">
+			<Title type="8" pos="0">Acid UFO</Title>
+			<Path type="8" pos="1">presets\Martin\Mstress + Zylot - Acid UFO.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="65">
+			<Title type="8" pos="0">Disco Comet</Title>
+			<Path type="8" pos="1">presets\Martin\nil - Disco Comet.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="66">
+			<Title type="8" pos="0">Vortex of Vortices</Title>
+			<Path type="8" pos="1">presets\Martin\nil - Vortex of Vortices.milk</Path>
+		</PresetProperties>
+	</PresetsGroup>
+	<PresetsGroup version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+		<Title type="8" pos="0">Orb</Title>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="1">
+			<Title type="8" pos="0">Acid Cycle [flexi composite]</Title>
+			<Path type="8" pos="1">presets\Orb\ORB - Acid Cycle [flexi composite].milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="2">
+			<Title type="8" pos="0">Acid Cycle Gas Giant</Title>
+			<Path type="8" pos="1">presets\Orb\ORB - Acid Cycle Gas Giant.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="3">
+			<Title type="8" pos="0">Acid Cycle</Title>
+			<Path type="8" pos="1">presets\Orb\ORB - Acid Cycle.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="4">
+			<Title type="8" pos="0">Acid Lamp</Title>
+			<Path type="8" pos="1">presets\Orb\ORB - Acid Lamp.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<Title type="8" pos="0">Acid Sunrise</Title>
+			<Path type="8" pos="1">presets\Orb\ORB - Acid Sunrise.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<Title type="8" pos="0">Blue Emotion</Title>
+			<Path type="8" pos="1">presets\Orb\ORB - Blue Emotion.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="7">
+			<Title type="8" pos="0">Crysal Storm</Title>
+			<Path type="8" pos="1">presets\Orb\ORB - Crysal Storm.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="8">
+			<Title type="8" pos="0">Dark Omen</Title>
+			<Path type="8" pos="1">presets\Orb\ORB - Dark Omen.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="9">
+			<Title type="8" pos="0">Fireworks - fusion</Title>
+			<Path type="8" pos="1">presets\Orb\orb - fireworks - fusion.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="10">
+			<Title type="8" pos="0">Noname2</Title>
+			<Path type="8" pos="1">presets\Orb\</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="11">
+			<Title type="8" pos="0">Fireworks Sp</Title>
+			<Path type="8" pos="1">presets\Orb\ORB - Fireworks Sparkle.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="12">
+			<Title type="8" pos="0">Inferno</Title>
+			<Path type="8" pos="1">presets\Orb\ORB - Inferno.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="13">
+			<Title type="8" pos="0">Kalidescope</Title>
+			<Path type="8" pos="1">presets\Orb\ORB - Kalidescope.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="14">
+			<Title type="8" pos="0">Lava Lamp</Title>
+			<Path type="8" pos="1">presets\Orb\ORB - Lava Lamp.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="15">
+			<Title type="8" pos="0">Magma Pool</Title>
+			<Path type="8" pos="1">presets\Orb\ORB - Magma Pool.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="16">
+			<Title type="8" pos="0">Mega Spectrum</Title>
+			<Path type="8" pos="1">presets\Orb\ORB - Mega Spectrum.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="17">
+			<Title type="8" pos="0">Nova Sunrise</Title>
+			<Path type="8" pos="1">presets\Orb\ORB - Nova Sunrise.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="18">
+			<Title type="8" pos="0">Pastel Primer</Title>
+			<Path type="8" pos="1">presets\Orb\ORB - Pastel Primer.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="19">
+			<Title type="8" pos="0">Fractal jellyfish</Title>
+			<Path type="8" pos="1">presets\Orb\ORB - Planetary Alignment Acid Burn.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="20">
+			<Title type="8" pos="0">Fractal remix weed</Title>
+			<Path type="8" pos="1">presets\Orb\ORB - Planetary Alignment.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="21">
+			<Title type="8" pos="0">Fractal seafood</Title>
+			<Path type="8" pos="1">presets\Orb\ORB - Quicksand Lab.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="22">
+			<Title type="8" pos="0">Fractals with a twist</Title>
+			<Path type="8" pos="1">presets\Orb\ORB - Quicksand.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="23">
+			<Title type="8" pos="0">Gold plated maelstrom of chaos</Title>
+			<Path type="8" pos="1">presets\Orb\ORB - Sandblade.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="24">
+			<Title type="8" pos="0">Gold plated maelstrom of chaos</Title>
+			<Path type="8" pos="1">presets\Orb\ORB - Saturns Rings.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="25">
+			<Title type="8" pos="0">Hue burst</Title>
+			<Path type="8" pos="1">presets\Orb\ORB - Solar Radiation.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="26">
+			<Title type="8" pos="0">Solar Sail</Title>
+			<Path type="8" pos="1">presets\Orb\ORB - Solar Sail.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="27">
+			<Title type="8" pos="0">Starfish</Title>
+			<Path type="8" pos="1">presets\Orb\ORB - Starfish.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="28">
+			<Title type="8" pos="0">Supernova Meltdown</Title>
+			<Path type="8" pos="1">presets\Orb\ORB - Supernova Meltdown.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="29">
+			<Title type="8" pos="0">Temporal Rift</Title>
+			<Path type="8" pos="1">presets\Orb\ORB - Temporal Rift.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="30">
+			<Title type="8" pos="0">Waaa</Title>
+			<Path type="8" pos="1">presets\Orb\ORB - Waaa.milk</Path>
+		</PresetProperties>
+	</PresetsGroup>
+	<PresetsGroup version="1" tag="-1" type="13" itype="1" ctype="0" pos="7">
+		<Title type="8" pos="0">Stahlregen</Title>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="1">
+			<Title type="8" pos="0">Spiral Beats (Fluctuating Flowers)</Title>
+			<Path type="8" pos="1">presets\stahlregen\Stahlregen - Spiral Beats (Fluctuating Flowers).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="2">
+			<Title type="8" pos="0">Fractopia Kaleidoscope</Title>
+			<Path type="8" pos="1">presets\stahlregen\Stahlregen + AdamFx + Eo.S + Flexi + Geiss + Phat + Rovastar + Zylot - Fractopia Kaleidoscope.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="3">
+			<Title type="8" pos="0">Fractal Twist (A feat. hexcollie)</Title>
+			<Path type="8" pos="1">presets\stahlregen\Stahlregen + Aderrasi + Flexi + Rovastar - Fractal Twist (A feat. hexcollie).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="4">
+			<Title type="8" pos="0">Charmed Spun Sugar</Title>
+			<Path type="8" pos="1">presets\stahlregen\Stahlregen + aderrasi + martin + rocke + rovastar - Charmed Spun Sugar.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<Title type="8" pos="0">Washing Machine</Title>
+			<Path type="8" pos="1">presets\stahlregen\Stahlregen + baked + Geiss + Krash - Washing Machine (V2).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<Title type="8" pos="0">Starcraft (Hyperion RMX V3)</Title>
+			<Path type="8" pos="1">presets\stahlregen\Stahlregen + bdrv + fiSHbRAiN + flexi + Geiss + shifter - Starcraft (Hyperion RMX V3).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="7">
+			<Title type="8" pos="0">Machine Code (Relief Block Mix)</Title>
+			<Path type="8" pos="1">presets\stahlregen\Stahlregen + Boz + Eo.S + Geiss + Phat + Rovastar + Zylot - Machine Code (Relief Block Mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="8">
+			<Title type="8" pos="0">Machine Code [Jelly]</Title>
+			<Path type="8" pos="1">presets\stahlregen\Stahlregen + Boz + Eo.S + Geiss + Phat + Rovastar + Zylot - Machine Code [Jelly].milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="9">
+			<Title type="8" pos="0">Fruitsticks (Flexi-Tex Shader)</Title>
+			<Path type="8" pos="1">presets\stahlregen\Stahlregen + Eo.S + Geiss + ORB + Phat - Fruitsticks (Flexi-Tex Shader).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="10">
+			<Title type="8" pos="0">The Machine that conquered the Aether</Title>
+			<Path type="8" pos="1">presets\stahlregen\Stahlregen + fishbrain + flexi + geiss - The Machine that conquered the Aether.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="11">
+			<Title type="8" pos="0">Stonecraft (Beetle Relief mix)</Title>
+			<Path type="8" pos="1">presets\stahlregen\Stahlregen + fiSHbRaiN + flexi + Geiss + shifter - Stonecraft (Beetle Relief mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="12">
+			<Title type="8" pos="0">Flowercraft</Title>
+			<Path type="8" pos="1">presets\stahlregen\Stahlregen + fishbrain + geiss + martin  - Flowercraft.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="13">
+			<Title type="8" pos="0">Liquidity</Title>
+			<Path type="8" pos="1">presets\stahlregen\Stahlregen + Flexi + Geiss - Liquidity (Dynamic Swirls).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="14">
+			<Title type="8" pos="0">Tiger No.5</Title>
+			<Path type="8" pos="1">presets\stahlregen\Stahlregen + Flexi + Geiss - Tiger No.5 (Random texture flow).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="15">
+			<Title type="8" pos="0">Even More Fractals for Hexcollie</Title>
+			<Path type="8" pos="1">presets\stahlregen\Stahlregen + flexi + Geiss + Rovastar + Shifter - Even More Fractals for Hexcollie (Reflecto Fcukup).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="16">
+			<Title type="8" pos="0">Fractal Feedback</Title>
+			<Path type="8" pos="1">presets\stahlregen\Stahlregen + flexi + Geiss + Rovastar + Shifter - Fractal Feedback (for Hexcollie).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="17">
+			<Title type="8" pos="0">Blurred Echoes</Title>
+			<Path type="8" pos="1">presets\stahlregen\Stahlregen + Flexi + Geiss + Rovastar + Unchained - Blurred Echoes (reflecto fucukp).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="18">
+			<Title type="8" pos="0">Cyclopean Shift</Title>
+			<Path type="8" pos="1">presets\stahlregen\Stahlregen + Geiss + Rovastar + Illusion + Krash + Rozzor - Cyclopean Shift (Eyeless Mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="19">
+			<Title type="8" pos="0">Space Gelatin</Title>
+			<Path type="8" pos="1">presets\stahlregen\Stahlregen + Geiss + TobiasWolfBoi - Space Gelatin (Color Xplosion).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="20">
+			<Title type="8" pos="0">Dots</Title>
+			<Path type="8" pos="1">presets\stahlregen\Stahlregen + Flexi - dots (layered).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="21">
+			<Title type="8" pos="0">Gimme color</Title>
+			<Path type="8" pos="1">presets\stahlregen\Stahlregen + Flexi - gimme color (Bubble Spinner Mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="22">
+			<Title type="8" pos="0">Psychotic flower gelatine burst</Title>
+			<Path type="8" pos="1">presets\stahlregen\Stahlregen + Flexi - psychotic flower gelatine burst.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="23">
+			<Title type="8" pos="0">What's on a moebius beasts mind</Title>
+			<Path type="8" pos="1">presets\stahlregen\stahlregen + flexi - what's on a moebius beasts mind.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="24">
+			<Title type="8" pos="0">Ouboros (Metal Finish 2</Title>
+			<Path type="8" pos="1">presets\stahlregen\Stahlregen + Geiss + Martin - Ouboros (Metal Finish 2).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="25">
+			<Title type="8" pos="0">Babylon</Title>
+			<Path type="8" pos="1">presets\stahlregen\stahlregen + geiss + shifter - babylon.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="26">
+			<Title type="8" pos="0">Psychedelic Metal Flower</Title>
+			<Path type="8" pos="1">presets\stahlregen\Stahlregen + martin + others - Psychedelic Metal Flower.milk</Path>
+		</PresetProperties>
+	</PresetsGroup>
+	<PresetsGroup version="1" tag="-1" type="13" itype="1" ctype="0" pos="8">
+		<Title type="8" pos="0">Eo.S</Title>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="1">
+			<Title type="8" pos="0">AlienSpaceshipInvasion 2</Title>
+			<Path type="8" pos="1">presets\Eo.S\Eo.s and PieturP - AlienSpaceshipInvasion 2.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="2">
+			<Title type="8" pos="0">Angels of decay</Title>
+			<Path type="8" pos="1">presets\Eo.S\Eo.S. - angels of decay.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="3">
+			<Title type="8" pos="0">Dark side of the moon (plus a few more hits and a pill)</Title>
+			<Path type="8" pos="1">presets\Eo.S\Eo.S. - dark side of the moon (plus a few more hits and a pill).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="4">
+			<Title type="8" pos="0">Ddg phat mix - Bitcore Tweak</Title>
+			<Path type="8" pos="1">presets\Eo.S\Eo.S. - ddg_phat_mix - Bitcore Tweak.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<Title type="8" pos="0">Glowsticks v2 03 music shifter edit b(Stahl's Reactive RMX V2i2 - feat. flexi + phat)</Title>
+			<Path type="8" pos="1">presets\Eo.S\Eo.S. - glowsticks v2 03 music shifter edit b (Stahl's Reactive RMX V2i2 - feat. flexi + phat).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<Title type="8" pos="0">Glowsticks v2 03 music shifter edit b</Title>
+			<Path type="8" pos="1">presets\Eo.S\Eo.S. - glowsticks v2 03 music shifter edit b.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="7">
+			<Title type="8" pos="0">Glowsticks v2 03 music</Title>
+			<Path type="8" pos="1">presets\Eo.S\Eo.S. - glowsticks v2 03 music.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="8">
+			<Title type="8" pos="0">Glowsticks v2 04 music minimal</Title>
+			<Path type="8" pos="1">presets\Eo.S\Eo.S. - glowsticks v2 04 music minimal.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="9">
+			<Title type="8" pos="0">Glowsticks v2 05 and proton lights (+Krash's beat code)  Phat remix03 madhatter v2</Title>
+			<Path type="8" pos="1">presets\Eo.S\Eo.S. - glowsticks v2 05 and proton lights (+Krash's beat code) _Phat_remix03 madhatter_v2.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="10">
+			<Title type="8" pos="0">Glowsticks v2 05 and proton lights (+Krash's beat code)  Phat remix07 recursive demons</Title>
+			<Path type="8" pos="1">presets\Eo.S\Eo.S. - glowsticks v2 05 and proton lights (+Krash's beat code) _Phat_remix07 recursive demons.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="11">
+			<Title type="8" pos="0">Heater core C Phat's class + sparks mix</Title>
+			<Path type="8" pos="1">presets\Eo.S\Eo.S. - heater core C_Phat's_class + sparks_mix.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="12">
+			<Title type="8" pos="0">Multisphere 01 B Phat Ra mix</Title>
+			<Path type="8" pos="1">presets\Eo.S\Eo.S. - multisphere 01 B_Phat_Ra_mix.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="13">
+			<Title type="8" pos="0">Nematodes E daemon</Title>
+			<Path type="8" pos="1">presets\Eo.S\Eo.S. - nematodes E daemon.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="14">
+			<Title type="8" pos="0">Pointfield 04 arcs demon phat edit v3</Title>
+			<Path type="8" pos="1">presets\Eo.S\Eo.S. - pointfield 04 arcs demon_phat edit_v3.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="15">
+			<Title type="8" pos="0">Pointfield 09 the gases beyond 85c</Title>
+			<Path type="8" pos="1">presets\Eo.S\Eo.S. - pointfield 09 the gases beyond 85c.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="16">
+			<Title type="8" pos="0">Kaleidoscope b</Title>
+			<Path type="8" pos="1">presets\Eo.S\Eo.S. - repeater 15 - kaleidoscope b.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="17">
+			<Title type="8" pos="0">Tumbler demon mix high fps Phat edit</Title>
+			<Path type="8" pos="1">presets\Eo.S\Eo.S. - tumbler demon mix high fps Phat_edit.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="18">
+			<Title type="8" pos="0">Glowsticks v2 05 and proton lights (+Krash's beat code)  Phat remix02b + illumination (Stahl's Mix)</Title>
+			<Path type="8" pos="1">presets\Eo.S\Eo.S. + flexi - glowsticks v2 05 and proton lights (+Krash's beat code) _Phat_remix02b + illumination (Stahl's Mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="19">
+			<Title type="8" pos="0">Glowsticks v2 02 (Relief Mix)</Title>
+			<Path type="8" pos="1">presets\Eo.S\Eo.S. + Geiss - glowsticks v2 02 (Relief Mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="20">
+			<Title type="8" pos="0">Glowsticks v2 03 music shifter edit b (water mix)</Title>
+			<Path type="8" pos="1">presets\Eo.S\Eo.S. + Geiss - glowsticks v2 03 music shifter edit b (water mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="21">
+			<Title type="8" pos="0">Sarc c Phats Zoom Mix Reflecto</Title>
+			<Path type="8" pos="1">presets\Eo.S\Eo.S. + Geiss - sarc c_Phats Zoom Mix Reflecto.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="22">
+			<Title type="8" pos="0">CAT Scan (Nirvana flux)</Title>
+			<Path type="8" pos="1">presets\Eo.S\Eo.S. + Phat - CAT Scan (Nirvana flux).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="23">
+			<Title type="8" pos="0">Chasers 11 sentinel C poltergeist mix response daemon</Title>
+			<Path type="8" pos="1">presets\Eo.S\Eo.S. + Phat - chasers 11 sentinel C_poltergeist_mix response daemon.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="24">
+			<Title type="8" pos="0">Chasers 14 sentinel 616</Title>
+			<Path type="8" pos="1">presets\Eo.S\Eo.S. + Phat - chasers 14 sentinel 616.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="25">
+			<Title type="8" pos="0">Chasers 18 hallway</Title>
+			<Path type="8" pos="1">presets\Eo.S\Eo.S. + Phat - chasers 18 hallway.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="26">
+			<Title type="8" pos="0">Chasers 19 Portal</Title>
+			<Path type="8" pos="1">presets\Eo.S\Eo.S. + Phat - chasers 19 Portal.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="27">
+			<Title type="8" pos="0">Cubetrace - v2</Title>
+			<Path type="8" pos="1">presets\Eo.S\Eo.S. + Phat - cubetrace - v2.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="28">
+			<Title type="8" pos="0">Emergent factors</Title>
+			<Path type="8" pos="1">presets\Eo.S\Eo.S. + Phat - Emergent factors.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="29">
+			<Title type="8" pos="0">Vacuum deity watching you</Title>
+			<Path type="8" pos="1">presets\Eo.S\Eo.S. + Phat - vacuum deity watching you.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="30">
+			<Title type="8" pos="0">Zen prophetmind WTF is it v2 - Bitcore Tweak</Title>
+			<Path type="8" pos="1">presets\Eo.S\Eo.S. + Phat - zen prophetmind WTF is it_v2 - Bitcore Tweak.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="31">
+			<Title type="8" pos="0">Skylight (Stained Glass Majesty mix)</Title>
+			<Path type="8" pos="1">presets\Eo.S\Eo.S. + Zylot - skylight (Stained Glass Majesty mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="32">
+			<Title type="8" pos="0">Arm upgrades - transformer</Title>
+			<Path type="8" pos="1">presets\Eo.S\Eo.S.+Phat - Arm_upgrades - transformer.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="33">
+			<Title type="8" pos="0">Detached centerpoint</Title>
+			<Path type="8" pos="1">presets\Eo.S\Eo.S.+Phat - detached centerpoint.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="34">
+			<Title type="8" pos="0">Flare dig mix</Title>
+			<Path type="8" pos="1">presets\Eo.S\Eo.S.+Phat - Flare_dig_mix.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="35">
+			<Title type="8" pos="0">Spectrum bubble new colors v2</Title>
+			<Path type="8" pos="1">presets\Eo.S\Eo.S.+Phat - spectrum bubble new colors_v2.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="36">
+			<Title type="8" pos="0">Krash's beat detection</Title>
+			<Path type="8" pos="1">presets\Eo.S\Eo.S.+Phat Cool Bug v2 + (Krash's beat detection).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="37">
+			<Title type="8" pos="0">Cool Bug</Title>
+			<Path type="8" pos="1">presets\Eo.S\Eo.S.+Phat Cool Bug.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="38">
+			<Title type="8" pos="0">Bitcore Tweak</Title>
+			<Path type="8" pos="1">presets\Eo.S\Eo.S.+Phat Emergent factors - Bitcore Tweak.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="39">
+			<Title type="8" pos="0">Fractical dancer v2d</Title>
+			<Path type="8" pos="1">presets\Eo.S\Eo.S.+Phat Fractical_dancer_v2d.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="40">
+			<Title type="8" pos="0">Speak with the orb rotation mix time mod</Title>
+			<Path type="8" pos="1">presets\Eo.S\Eo.S.+Phat Speak with the orb_rotation_mix_time_mod.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="41">
+			<Title type="8" pos="0">Trail of darkness</Title>
+			<Path type="8" pos="1">presets\Eo.S\Eo.S.+Phat trail_of_darkness.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="42">
+			<Title type="8" pos="0">Hippie Hypnotizer</Title>
+			<Path type="8" pos="1">presets\Eo.S\Esotic + Rozzer - Hippie Hypnotizer.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="43">
+			<Title type="8" pos="0">Now And Later</Title>
+			<Path type="8" pos="1">presets\Eo.S\Esotic + Rozzer - Now And Later.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="44">
+			<Title type="8" pos="0">The Dark Side Of My Moon</Title>
+			<Path type="8" pos="1">presets\Eo.S\Esotic + Rozzer - The Dark Side Of My Moon.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="45">
+			<Title type="8" pos="0">Pixie Party Light</Title>
+			<Path type="8" pos="1">presets\Eo.S\Esotic + Rozzor - Pixie Party Light ((No Wave Invasion) Mandala Chill Red Yellow Mix).milk</Path>
+		</PresetProperties>
+	</PresetsGroup>
+	<PresetsGroup version="1" tag="-1" type="13" itype="1" ctype="0" pos="9">
+		<Title type="8" pos="0">fiShbRaiN</Title>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="1">
+			<Title type="8" pos="0">A quiet death</Title>
+			<Path type="8" pos="1">presets\fiShbRaiN\fiShbRaiN - a quiet death.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="2">
+			<Title type="8" pos="0">Breakfast cruiser</Title>
+			<Path type="8" pos="1">presets\fiShbRaiN\fiShbRaiN - breakfast cruiser.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="3">
+			<Title type="8" pos="0">Crystal glasses</Title>
+			<Path type="8" pos="1">presets\fiShbRaiN\fiShbRaiN - crystal glasses.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="4">
+			<Title type="8" pos="0">Jade nicotine</Title>
+			<Path type="8" pos="1">presets\fiShbRaiN\fiShbRaiN - jade nicotine.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<Title type="8" pos="0">Lost in the bottle</Title>
+			<Path type="8" pos="1">presets\fiShbRaiN\fiShbRaiN - lost in the bottle.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<Title type="8" pos="0">One step beyond</Title>
+			<Path type="8" pos="1">presets\fiShbRaiN\fiShbRaiN - one step beyond (jelly remix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="7">
+			<Title type="8" pos="0">Psychotic meltdown</Title>
+			<Path type="8" pos="1">presets\fiShbRaiN\fiShbRaiN - psychotic meltdown.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="8">
+			<Title type="8" pos="0">Soft porn</Title>
+			<Path type="8" pos="1">presets\fiShbRaiN\fiShbRaiN - soft porn.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="9">
+			<Title type="8" pos="0">The dark side of the moon</Title>
+			<Path type="8" pos="1">presets\fiShbRaiN\fiShbRaiN - the dark side of the moon.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="10">
+			<Title type="8" pos="0">Toffee cream and icing sugar</Title>
+			<Path type="8" pos="1">presets\fiShbRaiN\fiShbRaiN - toffee cream and icing sugar.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="11">
+			<Title type="8" pos="0">When robots take over the world</Title>
+			<Path type="8" pos="1">presets\fiShbRaiN\fiShbRaiN - when robots take over the world.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="12">
+			<Title type="8" pos="0">White scream firefly</Title>
+			<Path type="8" pos="1">presets\fiShbRaiN\fiShbRaiN - white scream firefly.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="13">
+			<Title type="8" pos="0">Witchcraft</Title>
+			<Path type="8" pos="1">presets\fiShbRaiN\fiShbRaiN - witchcraft.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="14">
+			<Title type="8" pos="0">Starburst totem pole</Title>
+			<Path type="8" pos="1">presets\fiShbRaiN\fiShbRaiN + Eo.S. + Phat - starburst totem pole.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="15">
+			<Title type="8" pos="0">Stitchcraft</Title>
+			<Path type="8" pos="1">presets\fiShbRaiN\fiShbRaiN + Flexi - stitchcraft.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="16">
+			<Title type="8" pos="0">Witchcraft [graffitti attack]</Title>
+			<Path type="8" pos="1">presets\fiShbRaiN\fiShbRaiN + Flexi - witchcraft [graffitti attack].milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="17">
+			<Title type="8" pos="0">Witchcraft 2.0.</Title>
+			<Path type="8" pos="1">presets\fiShbRaiN\fiShbRaiN + Flexi - witchcraft 2.0.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="18">
+			<Title type="8" pos="0">Witchcraft unleashed</Title>
+			<Path type="8" pos="1">presets\fiShbRaiN\fiShbRaiN + Flexi - witchcraft unleashed.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="19">
+			<Title type="8" pos="0">Witchcraft (Stahl's Mirror Crossfire Mix)</Title>
+			<Path type="8" pos="1">presets\fiShbRaiN\fiShbRaiN + geiss - witchcraft (Stahl's Mirror Crossfire Mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="20">
+			<Title type="8" pos="0">Witchcraft (Grow Mix) (moebius remix)</Title>
+			<Path type="8" pos="1">presets\fiShbRaiN\fiShbRaiN, geiss + flexi - witchcraft (Grow Mix) (moebius remix).milk</Path>
+		</PresetProperties>
+	</PresetsGroup>
+	<PresetsGroup version="1" tag="-1" type="13" itype="1" ctype="0" pos="10">
+		<Title type="8" pos="0">Phat</Title>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="1">
+			<Title type="8" pos="0">2ct2V5</Title>
+			<Path type="8" pos="1">presets\phat\phat + Eo.S. - 2ct2V5.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="2">
+			<Title type="8" pos="0">2ct2V6</Title>
+			<Path type="8" pos="1">presets\phat\phat + Eo.S. - 2ct2V6.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="3">
+			<Title type="8" pos="0">Bass responce Red Movements Disorienting nebula3</Title>
+			<Path type="8" pos="1">presets\phat\phat + Eo.S. - Bass_responce_Red_Movements_Disorienting nebula3.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="4">
+			<Title type="8" pos="0">PeopleWhoEatAcid phatColoursV2</Title>
+			<Path type="8" pos="1">presets\phat\phat + Eo.S. - PeopleWhoEatAcid_phatColoursV2.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<Title type="8" pos="0">TesellatingFractal Mix3</Title>
+			<Path type="8" pos="1">presets\phat\phat + Eo.S. - TesellatingFractal_Mix3.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<Title type="8" pos="0">2C-B6</Title>
+			<Path type="8" pos="1">presets\phat\phat_2C-B6.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="7">
+			<Title type="8" pos="0">Just more trash</Title>
+			<Path type="8" pos="1">presets\phat\Phat_Eo.S. - Just more trash.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="8">
+			<Title type="8" pos="0">Our own personal demon</Title>
+			<Path type="8" pos="1">presets\phat\Phat_Eo.S. - our own personal demon.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="9">
+			<Title type="8" pos="0">Eyes spiral mix</Title>
+			<Path type="8" pos="1">presets\phat\Phat_Eo.S. Eyes_spiral_mix.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="10">
+			<Title type="8" pos="0">Rainbow bubble mid3-fuck me dood</Title>
+			<Path type="8" pos="1">presets\phat\Phat_Eo.S. rainbow bubble_mid3-fuck me dood.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="11">
+			<Title type="8" pos="0">It'sJustNumbers remix3</Title>
+			<Path type="8" pos="1">presets\phat\phat_It'sJustNumbers_remix3.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="12">
+			<Title type="8" pos="0">Zion square mix</Title>
+			<Path type="8" pos="1">presets\phat\Phat_remix_Eo.S. - zion square_mix.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="13">
+			<Title type="8" pos="0">Square faces v2</Title>
+			<Path type="8" pos="1">presets\phat\Phat_Rovastar_Eo.S. square_faces_v2.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="14">
+			<Title type="8" pos="0">Rainbow bubble mid3-fuck me dood-flash</Title>
+			<Path type="8" pos="1">presets\phat\Phat_Zylot_Eo.S. rainbow bubble_mid3-fuck me dood-flash.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="15">
+			<Title type="8" pos="0">Rainbow bubble mid3-starpoints spirals VE - Bitcore Tweak</Title>
+			<Path type="8" pos="1">presets\phat\Phat_Zylot_Eo.S. rainbow bubble_mid3-starpoints_spirals_VE - Bitcore Tweak.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="16">
+			<Title type="8" pos="0">Spiral faces v2</Title>
+			<Path type="8" pos="1">presets\phat\Phat_Zylot_Eo.S. spiral_faces_v2.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="17">
+			<Title type="8" pos="0">Spiral Movements Beatle</Title>
+			<Path type="8" pos="1">presets\phat\Phat_Zylot_Eo.S. spiral_Movements_Beatle.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="18">
+			<Title type="8" pos="0">Square faces v2 alt colours</Title>
+			<Path type="8" pos="1">presets\phat\Phat_Zylot_Eo.S. square_faces_v2_alt_colours.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="19">
+			<Title type="8" pos="0">Trippy rotation v2 sector mix alt colours</Title>
+			<Path type="8" pos="1">presets\phat\Phat_Zylot_Eo.S. Trippy_rotation_v2_sector_mix_alt_colours.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="20">
+			<Title type="8" pos="0">Trippy rotation weird boxs mix</Title>
+			<Path type="8" pos="1">presets\phat\Phat_Zylot_Eo.S. Trippy_rotation_weird_boxs mix.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="21">
+			<Title type="8" pos="0">work with lines</Title>
+			<Path type="8" pos="1">presets\phat\Phat_Zylot_Eo.S. work with lines.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="22">
+			<Title type="8" pos="0">Krash I hope someone will see this triping v2b</Title>
+			<Path type="8" pos="1">presets\phat\Phat_Zylot_Eo.S._Krash I_hope_someone_will_see_this_triping_v2b.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="23">
+			<Title type="8" pos="0">Mandala Chasers remix</Title>
+			<Path type="8" pos="1">presets\phat\Phat+fiShbRaiN+Eo.S_Mandala_Chasers_remix.milk</Path>
+		</PresetProperties>
+	</PresetsGroup>
+	<PresetsGroup version="1" tag="-1" type="13" itype="1" ctype="0" pos="11">
+		<Title type="8" pos="0">Rovastar</Title>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="1">
+			<Title type="8" pos="0">3am Somewhere</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar - 3am Somewhere.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="2">
+			<Title type="8" pos="0">A Million Miles From Earth</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar - A Million Miles From Earth (Wormhole Mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="3">
+			<Title type="8" pos="0">Alpha Conflict</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar - Alpha Conflict.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="4">
+			<Title type="8" pos="0">Altars Of Harlequin's Madness</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar - Altars Of Harlequin's Madness (Dark Disorder Mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<Title type="8" pos="0">Cerebral Parasites</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar - Cerebral Parasites (Attack Mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<Title type="8" pos="0">Dark Ritual</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar - Dark Ritual (Star Of Destiny Denied Mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="7">
+			<Title type="8" pos="0">Dark Ritual (Star Of Destiny Mix)</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar - Dark Ritual (Star Of Destiny Mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="8">
+			<Title type="8" pos="0">Destiny Star (Starbrust Mix)</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar - Destiny Star (Starbrust Mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="9">
+			<Title type="8" pos="0">Eclectic interface (despair mix)</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar - eclectic interface (despair mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="10">
+			<Title type="8" pos="0">Explosive Minds</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar - Explosive Minds.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="11">
+			<Title type="8" pos="0">Fractopia (Fantic Dancing Lights Mix)</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar - Fractopia (Fantic Dancing Lights Mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="12">
+			<Title type="8" pos="0">Fractopia (Galaxy Swirl Mix)</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar - Fractopia (Galaxy Swirl Mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="13">
+			<Title type="8" pos="0">Fractopia (Upspoken Mix)</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar - Fractopia (Upspoken Mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="14">
+			<Title type="8" pos="0">Fractopia (Upspoken Mix) Phat Speak When Spoken 2</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar - Fractopia (Upspoken Mix)_Phat_Speak_When_Spoken_2.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="15">
+			<Title type="8" pos="0">Hallucinogenic Pyramids (Beat Time Mix)</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar - Hallucinogenic Pyramids (Beat Time Mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="16">
+			<Title type="8" pos="0">Harlequin's + Jester's Dual Delight</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar - Harlequin's + Jester's Dual Delight (Chaotic Nightmare Mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="17">
+			<Title type="8" pos="0">Harlequin's Dynamic Fractal 3</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar - Harlequin's Dynamic Fractal 3.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="18">
+			<Title type="8" pos="0">Harlequin's Fractal Encounter</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar - Harlequin's Fractal Encounter.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="19">
+			<Title type="8" pos="0">Harlequin's Liquid Dragon</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar - Harlequin's Liquid Dragon.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="20">
+			<Title type="8" pos="0">Inner Thoughts (Frantic Thoughts Mix)</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar - Inner Thoughts (Frantic Thoughts Mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="21">
+			<Title type="8" pos="0">Jester's Calling 2</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar - Jester's Calling 2.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="22">
+			<Title type="8" pos="0">Jester's Surreal Tornado</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar - Jester's Surreal Tornado.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="23">
+			<Title type="8" pos="0">Mosaics Of Ages</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar - Mosaics Of Ages.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="24">
+			<Title type="8" pos="0">Parallel Universe</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar - Parallel Universe.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="25">
+			<Title type="8" pos="0">Ritual Halostar</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar - Ritual Halostar.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="26">
+			<Title type="8" pos="0">Solarized Space</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar - Solarized Space.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="27">
+			<Title type="8" pos="0">Sunflower Passion (Simple Mix) phat+Eo.S. werid angle mix</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar - Sunflower Passion (Simple Mix)_phat+Eo.S. werid_angle_mix.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="28">
+			<Title type="8" pos="0">Sunflower Passion</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar - Sunflower Passion.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="29">
+			<Title type="8" pos="0">Torrid Tales</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar - Torrid Tales.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="30">
+			<Title type="8" pos="0">Tripmaker</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar - Tripmaker (Space Trip Mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="31">
+			<Title type="8" pos="0">Tripmaker</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar - Tripmaker.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="32">
+			<Title type="8" pos="0">VooV's Light Pattern</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar - VooV's Light Pattern.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="33">
+			<Title type="8" pos="0">VooV's Movement</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar - VooV's Movement (After Dark Mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="34">
+			<Title type="8" pos="0">VooV's Organic Light</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar - VooV's Organic Light.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="35">
+			<Title type="8" pos="0">Xtal</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar - Xtal.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="36">
+			<Title type="8" pos="0">Airs Of Change</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar + Aderrasi - Airs Of Change.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="37">
+			<Title type="8" pos="0">Definitly Not For The Epileptic</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar + Che - Definitly Not For The Epileptic (Inner Perspective Of Life Mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="38">
+			<Title type="8" pos="0">Balk Acid</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar + Idiot24-7 - Balk Acid.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="39">
+			<Title type="8" pos="0">Marphet's Shrine</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar + Idiot24-7 - Marphet's Shrine.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="40">
+			<Title type="8" pos="0">Cerebral Demons</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar + Krash - Cerebral Demons (Beat Pulse Mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="41">
+			<Title type="8" pos="0">Rainbow Deflection</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar + Krash - Rainbow Deflection.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="42">
+			<Title type="8" pos="0">FractalDrop</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar + Loadus - FractalDrop (Active Sparks Mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="43">
+			<Title type="8" pos="0">FractalDrop (Spark Machine v2.0)</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar + Loadus + Zylot - FractalDrop (Spark Machine v2.0).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="44">
+			<Title type="8" pos="0">Sugar Spun Sister</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar + Rocke - Sugar Spun Sister.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="45">
+			<Title type="8" pos="0">Ambrosia Mystic</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar + Unchained - Ambrosia Mystic (Dark Heart Mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="46">
+			<Title type="8" pos="0">Demonology (Vampire Soul Mix)</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar + Unchained - Demonology (Vampire Soul Mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="47">
+			<Title type="8" pos="0">Unified Drag 2</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar + Unchained - Unified Drag 2 (Ghostly Vision Mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="48">
+			<Title type="8" pos="0">Crystal Ball</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar + Zylot - Crystal Ball (Many Visions Mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="49">
+			<Title type="8" pos="0">Hurricane Nightmare</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar + Flexi - Hurricane Nightmare (Moebius Mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="50">
+			<Title type="8" pos="0">Tone-mapped FractalDrop 4</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar + Flexi + Loadus + Geiss - Tone-mapped FractalDrop 4 [moebius edit].milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="51">
+			<Title type="8" pos="0">Snapshot Of Space</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar + Geiss - Snapshot Of Space (LSB mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="52">
+			<Title type="8" pos="0">FractalDrop (Spinning Mix)</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar + Loadus + Geiss - FractalDrop (Spinning Mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="53">
+			<Title type="8" pos="0">FractalDrop (Triple Mix)</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar + Loadus + Geiss - FractalDrop (Triple Mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="54">
+			<Title type="8" pos="0">Tone-mapped FractalDrop 7c</Title>
+			<Path type="8" pos="1">presets\Rovastar\Rovastar + Loadus + Geiss - Tone-mapped FractalDrop 7c.milk</Path>
+		</PresetProperties>
+	</PresetsGroup>
+	<PresetsGroup version="1" tag="-1" type="13" itype="1" ctype="0" pos="12">
+		<Title type="8" pos="0">Shifter</Title>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="1">
+			<Title type="8" pos="0">A thousand monkeys phat edit (subliminal mix</Title>
+			<Path type="8" pos="1">presets\shifter\shifter - a thousand monkeys_phat_edit (subliminal mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="2">
+			<Title type="8" pos="0">Brain coral (left brained)</Title>
+			<Path type="8" pos="1">presets\shifter\shifter - brain coral (left brained).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="3">
+			<Title type="8" pos="0">Brain coral</Title>
+			<Path type="8" pos="1">presets\shifter\shifter - brain coral.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="4">
+			<Title type="8" pos="0">Dark tides</Title>
+			<Path type="8" pos="1">presets\shifter\shifter - dark tides (eo.s+phat_whisps of doom mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<Title type="8" pos="0">Digi</Title>
+			<Path type="8" pos="1">presets\shifter\shifter - digi.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<Title type="8" pos="0">Before It Eats Your Brain Mix v2</Title>
+			<Path type="8" pos="1">presets\shifter\shifter - escape the worm - Eo.S. + Phat - Before_It_Eats_Your_Brain_Mix_v2.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="7">
+			<Title type="8" pos="0">Feathers</Title>
+			<Path type="8" pos="1">presets\shifter\shifter - feathers (angel wings).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="8">
+			<Title type="8" pos="0">Fractal grinder</Title>
+			<Path type="8" pos="1">presets\shifter\shifter - fractal grinder.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="9">
+			<Title type="8" pos="0">Lazerspecs_phat_edit</Title>
+			<Path type="8" pos="1">presets\shifter\shifter - lazerspecs_phat_edit.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="10">
+			<Title type="8" pos="0">Liquid circuitry</Title>
+			<Path type="8" pos="1">presets\shifter\shifter - liquid circuitry.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="11">
+			<Title type="8" pos="0">Robotopia</Title>
+			<Path type="8" pos="1">presets\shifter\shifter - robotopia.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="12">
+			<Title type="8" pos="0">Spincycle c</Title>
+			<Path type="8" pos="1">presets\shifter\shifter - spincycle c.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="13">
+			<Title type="8" pos="0">Swarm</Title>
+			<Path type="8" pos="1">presets\shifter\shifter - swarm.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="14">
+			<Title type="8" pos="0">Tadpole evolution</Title>
+			<Path type="8" pos="1">presets\shifter\shifter - tadpole evolution (static mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="15">
+			<Title type="8" pos="0">Tumbling cubes(endless) radial blur</Title>
+			<Path type="8" pos="1">presets\shifter\shifter - tumbling cubes (endless) radial blur.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="16">
+			<Title type="8" pos="0">Tumbling cubes (ripples) Eo.S. remix1</Title>
+			<Path type="8" pos="1">presets\shifter\shifter - tumbling cubes (ripples) Eo.S. remix1.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="17">
+			<Title type="8" pos="0">Phat parallel planes mix</Title>
+			<Path type="8" pos="1">presets\shifter\shifter - tumbling cubes (ripples) Phat_parallel_planes_mix.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="18">
+			<Title type="8" pos="0">Tumbling cubes (ripples)</Title>
+			<Path type="8" pos="1">presets\shifter\shifter - tumbling cubes (ripples).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="19">
+			<Title type="8" pos="0">Tumbling cubes</Title>
+			<Path type="8" pos="1">presets\shifter\shifter - tumbling cubes.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="20">
+			<Title type="8" pos="0">Urchin mod</Title>
+			<Path type="8" pos="1">presets\shifter\shifter - urchin mod.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="21">
+			<Title type="8" pos="0">Fractical dancer</Title>
+			<Path type="8" pos="1">presets\shifter\Shifter + Eo.S+Phat - Fractical dancer (inside the neural net).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="22">
+			<Title type="8" pos="0">Witchcraft(i'm melting)</Title>
+			<Path type="8" pos="1">presets\shifter\shifter + fiShbRaiN - witchcraft (i'm melting).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="23">
+			<Title type="8" pos="0">Neon pulse (glow mix)</Title>
+			<Path type="8" pos="1">presets\shifter\shifter + geiss - neon pulse (glow mix).milk</Path>
+		</PresetProperties>
+	</PresetsGroup>
+	<PresetsGroup version="1" tag="-1" type="13" itype="1" ctype="0" pos="13">
+		<Title type="8" pos="0">Unchained</Title>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="1">
+			<Title type="8" pos="0">Beat Demo (Demonology Mix)</Title>
+			<Path type="8" pos="1">presets\Unchained\Unchained - Beat Demo (Demonology Mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="2">
+			<Title type="8" pos="0">Beat Demo 1.0</Title>
+			<Path type="8" pos="1">presets\Unchained\Unchained - Beat Demo 1.0.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="3">
+			<Title type="8" pos="0">Beat Demo 2.4</Title>
+			<Path type="8" pos="1">presets\Unchained\Unchained - Beat Demo 2.4.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="4">
+			<Title type="8" pos="0">Beat Demo 2.5</Title>
+			<Path type="8" pos="1">presets\Unchained\Unchained - Beat Demo 2.5.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<Title type="8" pos="0">Beyond The Strife Nexus</Title>
+			<Path type="8" pos="1">presets\Unchained\Unchained - Beyond The Strife Nexus.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<Title type="8" pos="0">Demonology</Title>
+			<Path type="8" pos="1">presets\Unchained\Unchained - Demonology.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="7">
+			<Title type="8" pos="0">Free to Feel</Title>
+			<Path type="8" pos="1">presets\Unchained\Unchained - Free to Feel (Valium Remix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="8">
+			<Title type="8" pos="0">Fuzzy Sciences</Title>
+			<Path type="8" pos="1">presets\Unchained\Unchained - Fuzzy Sciences.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="9">
+			<Title type="8" pos="0">Goofy Beat Detection</Title>
+			<Path type="8" pos="1">presets\Unchained\Unchained - Goofy Beat Detection.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="10">
+			<Title type="8" pos="0">Hard Science</Title>
+			<Path type="8" pos="1">presets\Unchained\Unchained - Hard Science.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="11">
+			<Title type="8" pos="0">Housed In A Childish Mind</Title>
+			<Path type="8" pos="1">presets\Unchained\Unchained - Housed In A Childish Mind.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="12">
+			<Title type="8" pos="0">In Memory Of Peg</Title>
+			<Path type="8" pos="1">presets\Unchained\Unchained - In Memory Of Peg.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="13">
+			<Title type="8" pos="0">Jaded Emotion</Title>
+			<Path type="8" pos="1">presets\Unchained\Unchained - Jaded Emotion.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="14">
+			<Title type="8" pos="0">Making a Science of It 2</Title>
+			<Path type="8" pos="1">presets\Unchained\Unchained - Making a Science of It 2.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="15">
+			<Title type="8" pos="0">Making a Science of It 3</Title>
+			<Path type="8" pos="1">presets\Unchained\Unchained - Making a Science of It 3.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="16">
+			<Title type="8" pos="0">Making a Science of It 4</Title>
+			<Path type="8" pos="1">presets\Unchained\Unchained - Making a Science of It 4.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="17">
+			<Title type="8" pos="0">Making a Science of It 7</Title>
+			<Path type="8" pos="1">presets\Unchained\Unchained - Making a Science of It 7.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="18">
+			<Title type="8" pos="0">Making a Science of It</Title>
+			<Path type="8" pos="1">presets\Unchained\Unchained - Making a Science of It.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="19">
+			<Title type="8" pos="0">Not As Fun As It Looks</Title>
+			<Path type="8" pos="1">presets\Unchained\Unchained - Not As Fun As It Looks.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="20">
+			<Title type="8" pos="0">Picture Of Exile</Title>
+			<Path type="8" pos="1">presets\Unchained\Unchained - Picture Of Exile.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="21">
+			<Title type="8" pos="0">Picture Of Poison</Title>
+			<Path type="8" pos="1">presets\Unchained\Unchained - Picture Of Poison.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="22">
+			<Title type="8" pos="0">Quine</Title>
+			<Path type="8" pos="1">presets\Unchained\Unchained - Quine.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="23">
+			<Title type="8" pos="0">ReAwoke</Title>
+			<Path type="8" pos="1">presets\Unchained\Unchained - ReAwoke.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="24">
+			<Title type="8" pos="0">Rewop</Title>
+			<Path type="8" pos="1">presets\Unchained\Unchained - Rewop.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="25">
+			<Title type="8" pos="0">Ribald Ballad</Title>
+			<Path type="8" pos="1">presets\Unchained\Unchained - Ribald Ballad.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="26">
+			<Title type="8" pos="0">Scientific Shapes 2</Title>
+			<Path type="8" pos="1">presets\Unchained\Unchained - Scientific Shapes 2.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="27">
+			<Title type="8" pos="0">Spinal Mixdown 2</Title>
+			<Path type="8" pos="1">presets\Unchained\Unchained - Spinal Mixdown 2.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="28">
+			<Title type="8" pos="0">Those Who Doubted</Title>
+			<Path type="8" pos="1">presets\Unchained\Unchained - Those Who Doubted.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="29">
+			<Title type="8" pos="0">Unclaimed Wreckage 2 (Hemi-Sync)</Title>
+			<Path type="8" pos="1">presets\Unchained\Unchained - Unclaimed Wreckage 2 (Hemi-Sync).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="30">
+			<Title type="8" pos="0">Unclaimed Wreckage 2 (Sub-Spinal Daemon)</Title>
+			<Path type="8" pos="1">presets\Unchained\Unchained - Unclaimed Wreckage 2 (Sub-Spinal Daemon).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="31">
+			<Title type="8" pos="0">Unified Drag 2</Title>
+			<Path type="8" pos="1">presets\Unchained\Unchained - Unified Drag 2.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="32">
+			<Title type="8" pos="0">Unified Drag</Title>
+			<Path type="8" pos="1">presets\Unchained\Unchained - Unified Drag.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="33">
+			<Title type="8" pos="0">Luckless</Title>
+			<Path type="8" pos="1">presets\Unchained\Unchained + Rovastar - Luckless.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="34">
+			<Title type="8" pos="0">Rainbow Obscura</Title>
+			<Path type="8" pos="1">presets\Unchained\Unchained + Rovastar - Rainbow Obscura.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="35">
+			<Title type="8" pos="0">Wormhole Pillars (Hall of Shadows mix)</Title>
+			<Path type="8" pos="1">presets\Unchained\Unchained + Rovastar - Wormhole Pillars (Hall of Shadows mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="36">
+			<Title type="8" pos="0">Xen Traffic</Title>
+			<Path type="8" pos="1">presets\Unchained\Unchained + Rovastar - Xen Traffic.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="37">
+			<Title type="8" pos="0">Tripmaker</Title>
+			<Path type="8" pos="1">presets\Unchained\Unchained vs Rovastar vs Zylot - Tripmaker (Trip Machine v3).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="38">
+			<Title type="8" pos="0">Tripmaker(Trip machine)</Title>
+			<Path type="8" pos="1">presets\Unchained\Unchained vs Rovastar vs Zylot - Tripmaker (Trip machine).milk</Path>
+		</PresetProperties>
+	</PresetsGroup>
+	<PresetsGroup version="1" tag="-1" type="13" itype="1" ctype="0" pos="14">
+		<Title type="8" pos="0">Zylot</Title>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="1">
+			<Title type="8" pos="0">Bitcore Tweak</Title>
+			<Path type="8" pos="1">presets\Zylot\Zylot - Building Block of color - Bitcore Tweak.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="2">
+			<Title type="8" pos="0">Crosshair Dimension (Light of Ages)</Title>
+			<Path type="8" pos="1">presets\Zylot\Zylot - Crosshair Dimension (Light of Ages).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="3">
+			<Title type="8" pos="0">Funnels</Title>
+			<Path type="8" pos="1">presets\Zylot\Zylot - Funnels.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="4">
+			<Title type="8" pos="0">In death there is life (Geiss Layered Mix)</Title>
+			<Path type="8" pos="1">presets\Zylot\Zylot - In death there is life (Geiss Layered Mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<Title type="8" pos="0">Rush</Title>
+			<Path type="8" pos="1">presets\Zylot\Zylot - Rush.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<Title type="8" pos="0">Spiral (Hypnotic) Phat Double Spiral Mix</Title>
+			<Path type="8" pos="1">presets\Zylot\Zylot - Spiral (Hypnotic)_Phat_Double_Spiral_Mix.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="7">
+			<Title type="8" pos="0">Star Ornament</Title>
+			<Path type="8" pos="1">presets\Zylot\Zylot - Star Ornament.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="8">
+			<Title type="8" pos="0">Face BDRV et  AL  rmx ketama mix</Title>
+			<Path type="8" pos="1">presets\Zylot\Zylot + Idiot - Face BDRV et  AL  rmx ketama mix.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="9">
+			<Title type="8" pos="0">Unknown Power Source</Title>
+			<Path type="8" pos="1">presets\Zylot\Zylot + Idiot24-7 - Unknown Power Source.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="10">
+			<Title type="8" pos="0">Snowflake Halo (Ice Cube mix)</Title>
+			<Path type="8" pos="1">presets\Zylot\Zylot + Krash - Snowflake Halo (Ice Cube mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="11">
+			<Title type="8" pos="0">A Million Miles From Earth (Fog Of Time Mix (Vessel reMix))</Title>
+			<Path type="8" pos="1">presets\Zylot\Zylot + Rovastar - A Million Miles From Earth (Fog Of Time Mix (Vessel reMix) ).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="12">
+			<Title type="8" pos="0">Sully's Trip (The Worstest Mix)</Title>
+			<Path type="8" pos="1">presets\Zylot\Zylot + Rovastar - Sully's Trip (The Worstest Mix).milk</Path>
+		</PresetProperties>
+	</PresetsGroup>
+	<PresetsGroup version="1" tag="-1" type="13" itype="1" ctype="0" pos="15">
+		<Title type="8" pos="0">Other</Title>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="1">
+			<Title type="8" pos="0">Dragon Science</Title>
+			<Path type="8" pos="1">presets\Other\3dRaGoNs + Unchained - Dragon Science.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="2">
+			<Title type="8" pos="0">PieturP colors - Bitcore speed tweak</Title>
+			<Path type="8" pos="1">presets\Other\baked - Chinese Fingerbang (cao ni ma =]) - PieturP colors - Bitcore speed tweak.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="3">
+			<Title type="8" pos="0">mushroom rainbows[acid Storm]</Title>
+			<Path type="8" pos="1">presets\Other\baked - mushroom rainbows[acid Storm].milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="4">
+			<Title type="8" pos="0">River of Illusion (InfecteD acid mix)</Title>
+			<Path type="8" pos="1">presets\Other\baked - River of Illusion (InfecteD acid mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<Title type="8" pos="0">River of Illusion Dillusion</Title>
+			<Path type="8" pos="1">presets\Other\baked - River of Illusion Dillusion [Bubble].milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<Title type="8" pos="0">ultramix2 #43</Title>
+			<Path type="8" pos="1">presets\Other\bdrv - ultramix2 #43.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="7">
+			<Title type="8" pos="0">Atom Smasher</Title>
+			<Path type="8" pos="1">presets\Other\Benski - Atom Smasher.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="8">
+			<Title type="8" pos="0">Pentultimate Nerual Slipstream</Title>
+			<Path type="8" pos="1">presets\Other\Bmelgren - Pentultimate Nerual Slipstream (Tweak 2).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="9">
+			<Title type="8" pos="0">Rainbow Orb Peacock</Title>
+			<Path type="8" pos="1">presets\Other\Bmelgren + Krash - Rainbow Orb Peacock (Lonely Signal Gone Mad Mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="10">
+			<Title type="8" pos="0">Blackwidow</Title>
+			<Path type="8" pos="1">presets\Other\BrainStain-Blackwidow.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="11">
+			<Title type="8" pos="0">Re entry</Title>
+			<Path type="8" pos="1">presets\Other\BrainStain-re entry.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="12">
+			<Title type="8" pos="0">Escape</Title>
+			<Path type="8" pos="1">presets\Other\Che - Escape.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="13">
+			<Title type="8" pos="0">Terracarbon Stream</Title>
+			<Path type="8" pos="1">presets\Other\Che - Terracarbon Stream.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="14">
+			<Title type="8" pos="0">Digital sea</Title>
+			<Path type="8" pos="1">presets\Other\cope - digital sea.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="15">
+			<Title type="8" pos="0">Ferrofluid</Title>
+			<Path type="8" pos="1">presets\Other\cope - ferrofluid [Flexis minor remix].milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="16">
+			<Title type="8" pos="0">The drain to heaven</Title>
+			<Path type="8" pos="1">presets\Other\cope - the drain to heaven.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="17">
+			<Title type="8" pos="0">They're so cute, Dad can I keep one</Title>
+			<Path type="8" pos="1">presets\Other\EMPR - Random - They're so cute, Dad can I keep one!.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="18">
+			<Title type="8" pos="0">Slowfast 1.1.</Title>
+			<Path type="8" pos="1">presets\Other\fed - slowfast 1.1.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="19">
+			<Title type="8" pos="0">100% shader fractal [origami edit]</Title>
+			<Path type="8" pos="1">presets\Other\Flexi - 100% shader fractal [origami edit].milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="20">
+			<Title type="8" pos="0">Second try #4</Title>
+			<Path type="8" pos="1">presets\Other\Forum collaboration thread - second try #4 [Goody(2), Stahlregen (2)].milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="21">
+			<Title type="8" pos="0">Second try #6</Title>
+			<Path type="8" pos="1">presets\Other\Forum collaboration thread - second try #6 [Goody(2), Stahlregen (3), fed (1)].milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="22">
+			<Title type="8" pos="0">Second try #6c1.5</Title>
+			<Path type="8" pos="1">presets\Other\Forum collaboration thread - second try #6c1.5 [Goody(2), Stahlregen (3.5), fed (1)].milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="23">
+			<Title type="8" pos="0">Rebirth(Progression Rot Mix)</Title>
+			<Path type="8" pos="1">presets\Other\Fvese - Rebirth (Progression Rot Mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="24">
+			<Title type="8" pos="0">Rebirth</Title>
+			<Path type="8" pos="1">presets\Other\Fvese - Rebirth.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="25">
+			<Title type="8" pos="0">Snowflake Like 2</Title>
+			<Path type="8" pos="1">presets\Other\Fvese - Snowflake Like 2.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="26">
+			<Title type="8" pos="0">The Tunnel (Final Stage Mix)</Title>
+			<Path type="8" pos="1">presets\Other\Fvese - The Tunnel (Final Stage Mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="27">
+			<Title type="8" pos="0">Zoom Effects (Remix 3)</Title>
+			<Path type="8" pos="1">presets\Other\Fvese - Zoom Effects (Remix 3).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="28">
+			<Title type="8" pos="0">9-7-02 (Remix 2)</Title>
+			<Path type="8" pos="1">presets\Other\Idiot - 9-7-02 (Remix 2).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="29">
+			<Title type="8" pos="0">9-7-02</Title>
+			<Path type="8" pos="1">presets\Other\Idiot - 9-7-02.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="30">
+			<Title type="8" pos="0">Marphets Surreal Dream</Title>
+			<Path type="8" pos="1">presets\Other\Idiot - Marphets Surreal Dream (Hypnotic Spiral Mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="31">
+			<Title type="8" pos="0">Star Of Annon</Title>
+			<Path type="8" pos="1">presets\Other\Idiot - Star Of Annon.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="32">
+			<Title type="8" pos="0">Subnormal Trance</Title>
+			<Path type="8" pos="1">presets\Other\Idiot - Subnormal Trance (Remix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="33">
+			<Title type="8" pos="0">Tentacle Dreams</Title>
+			<Path type="8" pos="1">presets\Other\Idiot - Tentacle Dreams.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="34">
+			<Title type="8" pos="0">What Is</Title>
+			<Path type="8" pos="1">presets\Other\Idiot - What Is.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="35">
+			<Title type="8" pos="0">Ascending to heaven 2</Title>
+			<Path type="8" pos="1">presets\Other\Idiot24-7 - Ascending to heaven 2.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="36">
+			<Title type="8" pos="0">Dance Of The Planets</Title>
+			<Path type="8" pos="1">presets\Other\Illusion - Dance Of The Planets.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="37">
+			<Title type="8" pos="0">Hot Air Balloon</Title>
+			<Path type="8" pos="1">presets\Other\Illusion + Boz - Hot Air Balloon.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="38">
+			<Title type="8" pos="0">Clouded Bottle</Title>
+			<Path type="8" pos="1">presets\Other\Illusion + Rovastar - Clouded Bottle.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="39">
+			<Title type="8" pos="0">New Strategy</Title>
+			<Path type="8" pos="1">presets\Other\Illusion + Unchained - New Strategy.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="40">
+			<Title type="8" pos="0">Interwoven</Title>
+			<Path type="8" pos="1">presets\Other\Krash - interwoven (nightmare weft)_Phats_Maybe_Ill_Go_To_A_Party.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="41">
+			<Title type="8" pos="0">Snowflake Halo</Title>
+			<Path type="8" pos="1">presets\Other\Krash - Snowflake Halo.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="42">
+			<Title type="8" pos="0">A Million Miles from Earth</Title>
+			<Path type="8" pos="1">presets\Other\Krash + Rovastar - A Million Miles from Earth (Ripple Mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="43">
+			<Title type="8" pos="0">Killer Death Bunny Remix</Title>
+			<Path type="8" pos="1">presets\Other\Krash + Rovastar - Cerebral Demons - Phat + Eo.S. Killer Death Bunny Remix.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="44">
+			<Title type="8" pos="0">Moire Remix</Title>
+			<Path type="8" pos="1">presets\Other\Krash + Rovastar - Cerebral Demons - Phat + Eo.S. Moire Remix.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="45">
+			<Title type="8" pos="0">Stars Remix</Title>
+			<Path type="8" pos="1">presets\Other\Krash + Rovastar - Cerebral Demons - Phat + Eo.S. Stars Remix.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="46">
+			<Title type="8" pos="0">The Devil Is In The Details</Title>
+			<Path type="8" pos="1">presets\Other\Krash + Rovastar - The Devil Is In The Details.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="47">
+			<Title type="8" pos="0">War Machine</Title>
+			<Path type="8" pos="1">presets\Other\Krash + Geiss + martin - War Machine (Stahl's ultimate Mash Mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="48">
+			<Title type="8" pos="0">IT MIGHT BE EVIL (phat remix)</Title>
+			<Path type="8" pos="1">presets\Other\PieturP - IT_MIGHT_BE_EVIL_phat_remix.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="49">
+			<Title type="8" pos="0">Triptrap(getting concrete visions through a diafragma version)</Title>
+			<Path type="8" pos="1">presets\Other\PieturP - triptrap_(getting_concrete_visions_through_a_diafragma_version).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="50">
+			<Title type="8" pos="0">Triptrap (ultimate-trip-mix)</Title>
+			<Path type="8" pos="1">presets\Other\PieturP - triptrap_(ultimate-trip-mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="51">
+			<Title type="8" pos="0">Fourth state of Milkdrop 2</Title>
+			<Path type="8" pos="1">presets\Other\raron - fourth state of Milkdrop 2.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="52">
+			<Title type="8" pos="0">Milkdrop fibers on fire</Title>
+			<Path type="8" pos="1">presets\Other\raron + flexi - milkdrop fibers on fire.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="53">
+			<Title type="8" pos="0">I dont think those were portabello mushrooms</Title>
+			<Path type="8" pos="1">presets\Other\Redi Jedi - i dont think those were portabello mushrooms.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="54">
+			<Title type="8" pos="0">Off the fadar</Title>
+			<Path type="8" pos="1">presets\Other\Redi Jedi - off the fadar.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="55">
+			<Title type="8" pos="0">Phoenix</Title>
+			<Path type="8" pos="1">presets\Other\Reenen - phoenix.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="56">
+			<Title type="8" pos="0">Slow Shift Matrix</Title>
+			<Path type="8" pos="1">presets\Other\Reenen + Telek - Slow Shift Matrix (bb4.5 (Dynamic Beat) Mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="57">
+			<Title type="8" pos="0">Soft Triple Feedback</Title>
+			<Path type="8" pos="1">presets\Other\Reenen Geiss - Soft Triple Feedback.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="58">
+			<Title type="8" pos="0">Triple Feedback phat edit</Title>
+			<Path type="8" pos="1">presets\Other\Reenen Geiss - Triple Feedback_phat_edit.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="59">
+			<Title type="8" pos="0">Cold Love (Tei Zwaa)</Title>
+			<Path type="8" pos="1">presets\Other\Rocke - Cold Love (Tei Zwaa).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="60">
+			<Title type="8" pos="0">Learning Curve</Title>
+			<Path type="8" pos="1">presets\Other\Rozzor - Learning Curve (Invert Tweak).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="61">
+			<Title type="8" pos="0">Canon</Title>
+			<Path type="8" pos="1">presets\Other\Rozzor + Aderrasi - Canon.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="62">
+			<Title type="8" pos="0">Inside The House Of Nil</Title>
+			<Path type="8" pos="1">presets\Other\Rozzor + Che - Inside The House Of Nil.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="63">
+			<Title type="8" pos="0">Pixie Party Light</Title>
+			<Path type="8" pos="1">presets\Other\Rozzor + Esotic - Pixie Party Light (With Liquid Refreshment Mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="64">
+			<Title type="8" pos="0">PPL (NWI) Mandala Chill Color Reactive Texture Tweaked</Title>
+			<Path type="8" pos="1">presets\Other\Rozzor + Esotic - PPL (NWI) Mandala Chill Color Reactive Texture Tweaked.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="65">
+			<Title type="8" pos="0">Starover</Title>
+			<Path type="8" pos="1">presets\Other\Rozzor + Neuro - Starover (Semicolon Mix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="66">
+			<Title type="8" pos="0">Shame Turns inTo Change</Title>
+			<Path type="8" pos="1">presets\Other\Rozzor + Rovastar - Shame Turns inTo Change.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="67">
+			<Title type="8" pos="0">Vertigyny</Title>
+			<Path type="8" pos="1">presets\Other\Rozzor + StudioMusic - Vertigyny (Geiss Shape Mod).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="68">
+			<Title type="8" pos="0">Crescat Scientia, Vita Excolatur</Title>
+			<Path type="8" pos="1">presets\Other\Rozzor + Unchained - Crescat Scientia, Vita Excolatur.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="69">
+			<Title type="8" pos="0">Painful Plasma</Title>
+			<Path type="8" pos="1">presets\Other\Rozzor + Unchained - Painful Plasma (Multi-Wave Mirrored Rage (Triangle Tweak)).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="70">
+			<Title type="8" pos="0">Scientifically Shapely</Title>
+			<Path type="8" pos="1">presets\Other\Rozzor + Unchained - Scientifically Shapely.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="71">
+			<Title type="8" pos="0">Carnival</Title>
+			<Path type="8" pos="1">presets\Other\Shreyas - Carnival.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="72">
+			<Title type="8" pos="0">Psychedelic Flower Kung Fu</Title>
+			<Path type="8" pos="1">presets\Other\Stahlregen + Unchained - Psychedelic Flower Kung Fu (Corrupt).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="73">
+			<Title type="8" pos="0">Rapid Alteration</Title>
+			<Path type="8" pos="1">presets\Other\Studio Music and Unchained - Rapid Alteration.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="74">
+			<Title type="8" pos="0">Psychodelic Highway</Title>
+			<Path type="8" pos="1">presets\Other\TEcHNO + SandStorm - Psychodelic Highway.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="75">
+			<Title type="8" pos="0">Tokyo corridor</Title>
+			<Path type="8" pos="1">presets\Other\Tokyo corridor (shifter tumbling cubes remix).milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="76">
+			<Title type="8" pos="0">Van Gogh's nightmare</Title>
+			<Path type="8" pos="1">presets\Other\yin - 051 - Van Gogh's nightmare (in depth) - bitcore tweak.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="77">
+			<Title type="8" pos="0">Through the ether</Title>
+			<Path type="8" pos="1">presets\Other\yin - 100 - Through the ether - Bitcore Tweak.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="78">
+			<Title type="8" pos="0">Ohm to the stars</Title>
+			<Path type="8" pos="1">presets\Other\yin - 140 - Ohm to the stars.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="79">
+			<Title type="8" pos="0">Controversial</Title>
+			<Path type="8" pos="1">presets\Other\yin - 160 - Controversial.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="80">
+			<Title type="8" pos="0">Temporal singularities</Title>
+			<Path type="8" pos="1">presets\Other\yin - 191 - Temporal singularities.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="81">
+			<Title type="8" pos="0">Artificial poles of the continuum Phat's Orbit mix</Title>
+			<Path type="8" pos="1">presets\Other\yin - 250 - Artificial poles of the continuum_Phat's_Orbit_mix.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="82">
+			<Title type="8" pos="0">Sonic brainstorm</Title>
+			<Path type="8" pos="1">presets\Other\yin - 290 - Sonic brainstorm.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="83">
+			<Title type="8" pos="0">Daydreamer</Title>
+			<Path type="8" pos="1">presets\Other\yin - 300 - Daydreamer.milk</Path>
+		</PresetProperties>
+		<PresetProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="84">
+			<Title type="8" pos="0">Ocean of Light</Title>
+			<Path type="8" pos="1">presets\Other\yin - 315 - Ocean of Light (yo im peakin yo Eo.S.-Phat).milk</Path>
+		</PresetProperties>
+	</PresetsGroup>
+</PropertiesBag>

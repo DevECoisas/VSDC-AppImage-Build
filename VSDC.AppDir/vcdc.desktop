@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=vcdc
+Exec=run.sh
+Icon=icon
+Type=Application
+Categories=Utility

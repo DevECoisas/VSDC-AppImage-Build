@@ -1,0 +1,247 @@
+<Templates version="1" tag="-1" type="13" itype="1">
+	<Template version="1" tag="-1" type="13" itype="1" ctype="32" pos="1">
+		<en type="8" pos="0">Templates</en>
+		<state type="3" pos="1">1</state>
+		<ptype type="3" pos="2">1</ptype>
+		<node type="8" pos="3">652EB6FA-C8BF-4317-BC55-FF32EF5DF016</node>
+		<user type="11" pos="4">0</user>
+		<type type="3" pos="5">0</type>
+		<expanded type="11" pos="7">0</expanded>
+	</Template>
+	<Template version="1" tag="-1" type="13" itype="1" ctype="32" pos="1">
+		<en type="8" pos="0">Video effects</en>
+		<state type="3" pos="1">1</state>
+		<ptype type="3" pos="2">1</ptype>
+		<node type="8" pos="3">A49F2BD2-087A-4853-9E80-77AA404E2861</node>
+		<user type="11" pos="4">0</user>
+		<type type="3" pos="5">0</type>
+		<icon type="3" pos="6">1002</icon>
+		<expanded type="11" pos="7">0</expanded>
+	</Template>
+	<Template version="1" tag="-1" type="13" itype="1" ctype="32" pos="2">
+		<en type="8" pos="0">Audio effects</en>
+		<state type="3" pos="1">1</state>
+		<ptype type="3" pos="2">1</ptype>
+		<node type="8" pos="3">2D1C4A91-C0B6-45B1-9586-DE4879452CFA</node>
+		<user type="11" pos="4">0</user>
+		<type type="3" pos="5">0</type>
+		<icon type="3" pos="6">1003</icon>
+		<expanded type="11" pos="7">0</expanded>
+	</Template>
+	<Template version="1" tag="-1" type="13" itype="1" ctype="32" pos="3">
+		<en type="8" pos="0">Text effects</en>
+		<state type="3" pos="1">1</state>
+		<ptype type="3" pos="2">1</ptype>
+		<node type="8" pos="3">7C4D8F92-2D57-4703-AF94-3EEE3D104669</node>
+		<user type="11" pos="4">0</user>
+		<type type="3" pos="5">0</type>
+		<icon type="3" pos="6">1004</icon>
+		<expanded type="11" pos="7">0</expanded>
+	</Template>
+	<Template version="1" tag="-1" type="13" itype="1" ctype="32" pos="4">
+		<en type="8" pos="0">Quick styles</en>
+		<state type="3" pos="1">1</state>
+		<ptype type="3" pos="2">0</ptype>
+		<path type="8" pos="3">./quickstyles.vproj</path>
+		<node type="8" pos="4">4929C3A2-50AD-4B52-9358-C282542A137B</node>
+		<user type="11" pos="5">0</user>
+		<type type="3" pos="6">0</type>
+		<app type="3" pos="7">-1</app>
+		<expanded type="11" pos="8">0</expanded>
+	</Template>
+	<Template version="1" tag="-1" type="13" itype="1" ctype="32" pos="5">
+		<en type="8" pos="0">Instagram styles</en>
+		<state type="3" pos="1">1</state>
+		<ptype type="3" pos="2">0</ptype>
+		<path type="8" pos="3">./instagramstyles.vproj</path>
+		<node type="8" pos="4">87EA8D14-CBDF-4656-B5D1-09E241226439</node>
+		<user type="11" pos="5">0</user>
+		<type type="3" pos="6">0</type>
+		<app type="3" pos="7">-1</app>
+		<expanded type="11" pos="8">0</expanded>
+	</Template>
+	<Template version="1" tag="-1" type="13" itype="1" ctype="32" pos="6">
+		<en type="8" pos="0">Transition collection</en>
+		<state type="3" pos="1">1</state>
+		<ptype type="3" pos="2">0</ptype>
+		<node type="8" pos="3">9EB360F1-87C3-45FB-A4B6-1174D07EB1CB</node>
+		<user type="11" pos="4">0</user>
+		<type type="3" pos="5">0</type>
+		<expanded type="11" pos="7">0</expanded>
+		<Template version="1" tag="-1" type="13" itype="1" ctype="32" pos="8">
+			<en type="8" pos="0">Perspective</en>
+			<state type="3" pos="1">1</state>
+			<ptype type="3" pos="2">0</ptype>
+			<path type="8" pos="3">./Transitions/perspective.vproj</path>
+			<node type="8" pos="4">E1DC9696-3C30-46C4-AEE0-610DC55FC0DD</node>
+			<user type="11" pos="5">0</user>
+			<type type="3" pos="6">0</type>
+			<app type="3" pos="7">-1</app>
+			<expanded type="11" pos="8">0</expanded>
+		</Template>
+		<Template version="1" tag="-1" type="13" itype="1" ctype="32" pos="9">
+			<en type="8" pos="0">Skew</en>
+			<state type="3" pos="1">1</state>
+			<ptype type="3" pos="2">0</ptype>
+			<path type="8" pos="3">./Transitions/skew.vproj</path>
+			<node type="8" pos="4">13C3BD68-C2B9-4F99-9756-17F57E5875CC</node>
+			<user type="11" pos="5">0</user>
+			<type type="3" pos="6">0</type>
+			<app type="3" pos="7">-1</app>
+			<expanded type="11" pos="8">0</expanded>
+		</Template>
+		<Template version="1" tag="-1" type="13" itype="1" ctype="32" pos="10">
+			<en type="8" pos="0">Wipe clock</en>
+			<state type="3" pos="1">1</state>
+			<ptype type="3" pos="2">0</ptype>
+			<path type="8" pos="3">./Transitions/wipe_clock.vproj</path>
+			<node type="8" pos="4">7D93A237-5ED7-4853-8350-09832A0C4436</node>
+			<user type="11" pos="5">0</user>
+			<type type="3" pos="6">0</type>
+			<app type="3" pos="7">-1</app>
+			<expanded type="11" pos="8">0</expanded>
+			<variate_childs type="11" pos="9">-1</variate_childs>
+		</Template>
+		<Template version="1" tag="-1" type="13" itype="1" ctype="32" pos="11">
+			<en type="8" pos="0">Wipe door</en>
+			<state type="3" pos="1">1</state>
+			<ptype type="3" pos="2">0</ptype>
+			<path type="8" pos="3">./Transitions/wipe_door.vproj</path>
+			<node type="8" pos="4">0A9606C5-DEB0-43A1-8739-1028BBB7127F</node>
+			<user type="11" pos="5">0</user>
+			<type type="3" pos="6">0</type>
+			<app type="3" pos="7">-1</app>
+			<expanded type="11" pos="8">0</expanded>
+			<variate_childs type="11" pos="9">-1</variate_childs>
+		</Template>
+		<Template version="1" tag="-1" type="13" itype="1" ctype="32" pos="12">
+			<en type="8" pos="0">Wipe side</en>
+			<state type="3" pos="1">1</state>
+			<ptype type="3" pos="2">0</ptype>
+			<path type="8" pos="3">./Transitions/wipe_side.vproj</path>
+			<node type="8" pos="4">80A4FC84-6F43-4512-9BC9-6FAA05169912</node>
+			<user type="11" pos="5">0</user>
+			<type type="3" pos="6">0</type>
+			<app type="3" pos="7">-1</app>
+			<expanded type="11" pos="8">0</expanded>
+			<variate_childs type="11" pos="9">-1</variate_childs>
+		</Template>
+		<Template version="1" tag="-1" type="13" itype="1" ctype="32" pos="13">
+			<en type="8" pos="0">Wipe center</en>
+			<state type="3" pos="1">1</state>
+			<ptype type="3" pos="2">0</ptype>
+			<path type="8" pos="3">./Transitions/wipe_center.vproj</path>
+			<node type="8" pos="4">A83D2926-400F-4B31-8364-369E2CCAEE1C</node>
+			<user type="11" pos="5">0</user>
+			<type type="3" pos="6">0</type>
+			<app type="3" pos="7">-1</app>
+			<expanded type="11" pos="8">0</expanded>
+			<variate_childs type="11" pos="9">-1</variate_childs>
+		</Template>
+		<Template version="1" tag="-1" type="13" itype="1" ctype="32" pos="14">
+			<en type="8" pos="0">Wipe strips</en>
+			<state type="3" pos="1">1</state>
+			<ptype type="3" pos="2">0</ptype>
+			<path type="8" pos="3">./Transitions/wipe_strips.vproj</path>
+			<node type="8" pos="4">7B52C480-F5A1-48FB-BD1D-668E90256365</node>
+			<user type="11" pos="5">0</user>
+			<type type="3" pos="6">0</type>
+			<app type="3" pos="7">-1</app>
+			<expanded type="11" pos="8">0</expanded>
+			<variate_childs type="11" pos="9">-1</variate_childs>
+		</Template>
+		<Template version="1" tag="-1" type="13" itype="1" ctype="32" pos="15">
+			<en type="8" pos="0">Wipe checker</en>
+			<state type="3" pos="1">1</state>
+			<ptype type="3" pos="2">0</ptype>
+			<path type="8" pos="3">./Transitions/wipe_checker.vproj</path>
+			<node type="8" pos="4">549D82DA-6AB0-494C-8D3D-FFBEAE9841BA</node>
+			<user type="11" pos="5">0</user>
+			<type type="3" pos="6">0</type>
+			<app type="3" pos="7">-1</app>
+			<expanded type="11" pos="8">0</expanded>
+			<variate_childs type="11" pos="9">-1</variate_childs>
+		</Template>
+		<Template version="1" tag="-1" type="13" itype="1" ctype="32" pos="16">
+			<en type="8" pos="0">Push door</en>
+			<state type="3" pos="1">1</state>
+			<ptype type="3" pos="2">0</ptype>
+			<path type="8" pos="3">./Transitions/push_door.vproj</path>
+			<node type="8" pos="4">B314DC91-523D-4302-9038-7459957ED724</node>
+			<user type="11" pos="5">0</user>
+			<type type="3" pos="6">0</type>
+			<app type="3" pos="7">-1</app>
+			<expanded type="11" pos="8">0</expanded>
+			<variate_childs type="11" pos="9">-1</variate_childs>
+		</Template>
+		<Template version="1" tag="-1" type="13" itype="1" ctype="32" pos="17">
+			<en type="8" pos="0">Push side</en>
+			<state type="3" pos="1">1</state>
+			<ptype type="3" pos="2">0</ptype>
+			<path type="8" pos="3">./Transitions/push_side.vproj</path>
+			<node type="8" pos="4">4AA7BA9B-FD78-4F6E-B23F-15A2A26D3C83</node>
+			<user type="11" pos="5">0</user>
+			<type type="3" pos="6">0</type>
+			<app type="3" pos="7">-1</app>
+			<expanded type="11" pos="8">0</expanded>
+			<variate_childs type="11" pos="9">-1</variate_childs>
+		</Template>
+		<Template version="1" tag="-1" type="13" itype="1" ctype="32" pos="18">
+			<en type="8" pos="0">Push strips</en>
+			<state type="3" pos="1">1</state>
+			<ptype type="3" pos="2">0</ptype>
+			<path type="8" pos="3">./Transitions/push_strips.vproj</path>
+			<node type="8" pos="4">1452BAAD-773B-4EDF-B1AB-A78ECF3AEE47</node>
+			<user type="11" pos="5">0</user>
+			<type type="3" pos="6">0</type>
+			<app type="3" pos="7">-1</app>
+			<expanded type="11" pos="8">0</expanded>
+			<variate_childs type="11" pos="9">-1</variate_childs>
+		</Template>
+		<Template version="1" tag="-1" type="13" itype="1" ctype="32" pos="19">
+			<en type="8" pos="0">Fade</en>
+			<state type="3" pos="1">1</state>
+			<ptype type="3" pos="2">0</ptype>
+			<path type="8" pos="3">./Transitions/fade.vproj</path>
+			<node type="8" pos="4">BFFB76BD-6C71-42B1-B9EE-1704CA978D18</node>
+			<user type="11" pos="5">0</user>
+			<type type="3" pos="6">0</type>
+			<app type="3" pos="7">-1</app>
+			<expanded type="11" pos="8">0</expanded>
+		</Template>
+		<Template version="1" tag="-1" type="13" itype="1" ctype="32" pos="20">
+			<en type="8" pos="0">Mosaic</en>
+			<state type="3" pos="1">1</state>
+			<ptype type="3" pos="2">0</ptype>
+			<path type="8" pos="3">./Transitions/mosaic.vproj</path>
+			<node type="8" pos="4">455DFD58-15FC-4875-996C-3BF71D1C8B31</node>
+			<user type="11" pos="5">0</user>
+			<type type="3" pos="6">0</type>
+			<app type="3" pos="7">-1</app>
+			<expanded type="11" pos="8">0</expanded>
+			<variate_childs type="11" pos="9">-1</variate_childs>
+		</Template>
+		<Template version="1" tag="-1" type="13" itype="1" ctype="32" pos="21">
+			<en type="8" pos="0">Diffuse</en>
+			<state type="3" pos="1">1</state>
+			<ptype type="3" pos="2">0</ptype>
+			<path type="8" pos="3">./Transitions/diffuse.vproj</path>
+			<node type="8" pos="4">72C4B1CF-9E52-46D5-9E2D-DCD11DD3ED90</node>
+			<user type="11" pos="5">0</user>
+			<type type="3" pos="6">0</type>
+			<app type="3" pos="7">-1</app>
+			<expanded type="11" pos="8">0</expanded>
+		</Template>
+		<Template version="1" tag="-1" type="13" itype="1" ctype="32" pos="22">
+			<en type="8" pos="0">Page turn</en>
+			<state type="3" pos="1">1</state>
+			<ptype type="3" pos="2">0</ptype>
+			<path type="8" pos="3">./Transitions/page_turn.vproj</path>
+			<node type="8" pos="4">7F31D759-72AE-446A-9222-AEEFC0357E87</node>
+			<user type="11" pos="5">0</user>
+			<type type="3" pos="6">0</type>
+			<app type="3" pos="7">-1</app>
+			<expanded type="11" pos="8">0</expanded>
+		</Template>
+	</Template>
+</Templates>

@@ -1,0 +1,72 @@
+<PropertiesBag version="1" tag="-1" type="13" itype="1">
+	<TemplateProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="0">
+		<Title type="8" pos="0">perspective</Title>
+		<Path type="8" pos="1">perspective.vproj</Path>
+	</TemplateProperties>
+	<TemplateProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="1">
+		<Title type="8" pos="0">skew</Title>
+		<Path type="8" pos="1">skew.vproj</Path>
+	</TemplateProperties>
+	<TemplateProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="2">
+		<Title type="8" pos="0">wipe_clock</Title>
+		<Path type="8" pos="1">wipe_clock.vproj</Path>
+		<Spec type="11" pos="2">-1</Spec>
+	</TemplateProperties>
+	<TemplateProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="3">
+		<Title type="8" pos="0">wipe_door</Title>
+		<Path type="8" pos="1">wipe_door.vproj</Path>
+		<Spec type="11" pos="2">-1</Spec>
+	</TemplateProperties>
+	<TemplateProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="4">
+		<Title type="8" pos="0">wipe_side</Title>
+		<Path type="8" pos="1">wipe_side.vproj</Path>
+		<Spec type="11" pos="2">-1</Spec>
+	</TemplateProperties>
+	<TemplateProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+		<Title type="8" pos="0">wipe_center</Title>
+		<Path type="8" pos="1">wipe_center.vproj</Path>
+		<Spec type="11" pos="2">-1</Spec>
+	</TemplateProperties>
+	<TemplateProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+		<Title type="8" pos="0">wipe_strips</Title>
+		<Path type="8" pos="1">wipe_strips.vproj</Path>
+		<Spec type="11" pos="2">-1</Spec>
+	</TemplateProperties>
+	<TemplateProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="7">
+		<Title type="8" pos="0">wipe_checker</Title>
+		<Path type="8" pos="1">wipe_checker.vproj</Path>
+		<Spec type="11" pos="2">-1</Spec>
+	</TemplateProperties>
+	<TemplateProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="8">
+		<Title type="8" pos="0">push_door</Title>
+		<Path type="8" pos="1">push_door.vproj</Path>
+		<Spec type="11" pos="2">-1</Spec>
+	</TemplateProperties>
+	<TemplateProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="9">
+		<Title type="8" pos="0">push_side</Title>
+		<Path type="8" pos="1">push_side.vproj</Path>
+		<Spec type="11" pos="2">-1</Spec>
+	</TemplateProperties>
+	<TemplateProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="10">
+		<Title type="8" pos="0">push_strips</Title>
+		<Path type="8" pos="1">push_strips.vproj</Path>
+		<Spec type="11" pos="2">-1</Spec>
+	</TemplateProperties>
+	<TemplateProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="11">
+		<Title type="8" pos="0">fade</Title>
+		<Path type="8" pos="1">fade.vproj</Path>
+	</TemplateProperties>
+	<TemplateProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="12">
+		<Title type="8" pos="0">mosaic</Title>
+		<Path type="8" pos="1">mosaic.vproj</Path>
+		<Spec type="11" pos="2">-1</Spec>
+	</TemplateProperties>
+	<TemplateProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="13">
+		<Title type="8" pos="0">diffuse</Title>
+		<Path type="8" pos="1">diffuse.vproj</Path>
+	</TemplateProperties>
+	<TemplateProperties version="1" tag="-1" type="13" itype="1" ctype="0" pos="14">
+		<Title type="8" pos="0">page_turn</Title>
+		<Path type="8" pos="1">page_turn.vproj</Path>
+	</TemplateProperties>
+</PropertiesBag>

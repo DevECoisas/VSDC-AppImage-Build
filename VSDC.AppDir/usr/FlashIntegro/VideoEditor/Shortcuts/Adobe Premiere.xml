@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Shortcuts CompactMode="1">
+	<Main Schema="43">
+		<Shortcut Id="22013" Key="Ctrl+O"/>
+		<Shortcut Id="22016" Key="Ctrl+S"/>
+		<Shortcut Id="22023" Key="Ctrl+F7"/>
+		<Shortcut Id="22018" Key="Ctrl+F5"/>
+		<Shortcut Id="22022" Key="F5"/>
+		<Shortcut Id="22022" Key="Space"/>
+		<Shortcut Id="22078" Key="Alt+Up Arrow"/>
+		<Shortcut Id="22079" Key="Alt+Down Arrow"/>
+		<Shortcut Id="22080" Key="Alt+Home"/>
+		<Shortcut Id="22081" Key="Alt+End"/>
+		<Shortcut Id="22082" Key="Alt+Enter"/>
+		<Shortcut Id="22063" Key="Ctrl+C"/>
+		<Shortcut Id="22062" Key="Ctrl+X"/>
+		<Shortcut Id="22064" Key="Ctrl+V"/>
+		<Shortcut Id="22060" Key="Ctrl+Z"/>
+		<Shortcut Id="22100" Key="Ctrl+Shift+1"/>
+		<Shortcut Id="22101" Key="Ctrl+Shift+2"/>
+		<Shortcut Id="22102" Key="Ctrl+Shift+3"/>
+		<Shortcut Id="22103" Key="Ctrl+Shift+4"/>
+		<Shortcut Id="22104" Key="Ctrl+Shift+5"/>
+		<Shortcut Id="22164" Key="Shift+N"/>
+		<Shortcut Id="22166" Key="Shift+C"/>
+		<Shortcut Id="22157" Key="Shift+I"/>
+		<Shortcut Id="22163" Key="Shift+M"/>
+		<Shortcut Id="22176" Key="Shift+Alt+M"/>
+		<Shortcut Id="22161" Key="Shift+A"/>
+		<Shortcut Id="22152" Key="Shift+P"/>
+		<Shortcut Id="22167" Key="Shift+S"/>
+		<Shortcut Id="22158" Key="Shift+U"/>
+		<Shortcut Id="22162" Key="Shift+V"/>
+		<Shortcut Id="22178" Key="Shift+Alt+T"/>
+		<Shortcut Id="22172" Key="Shift+W"/>
+		<Shortcut Id="22173" Key="Shift+Alt+W"/>
+		<Shortcut Id="26615" Key="Ctrl+R"/>
+		<Shortcut Id="22069" Key="Ctrl+F12"/>
+		<Shortcut Id="24604" Key="Ctrl+Del"/>
+		<Shortcut Id="24605" Key="Ctrl+K"/>
+		<Shortcut Id="24610" Key="Ctrl+Shift+0xdd"/>
+		<Shortcut Id="24609" Key="Ctrl+Shift+0xdb"/>
+		<Shortcut Id="22012" Key="Ctrl+Alt+N"/>
+		<Shortcut Id="22014" Key="Ctrl+Shift+W"/>
+		<Shortcut Id="22015" Key="Ctrl+W"/>
+		<Shortcut Id="22017" Key="Ctrl+Shift+S"/>
+		<Shortcut Id="22021" Key="Ctrl+Alt+S"/>
+		<Shortcut Id="22019" Key="Ctrl+M"/>
+		<Shortcut Id="22061" Key="Ctrl+Shift+Z"/>
+		<Shortcut Id="22066" Key="Ctrl+A"/>
+		<Shortcut Id="22065" Key="Shift+Del"/>
+		<Shortcut Id="22074" Key="Ctrl+Shift+R"/>
+		<Shortcut Id="22073" Key="Ctrl+Shift+L"/>
+		<Shortcut Id="22075" Key="Ctrl+Shift+T"/>
+		<Shortcut Id="22076" Key="Ctrl+Shift+B"/>
+		<Shortcut Id="22083" Key="Ctrl+G"/>
+		<Shortcut Id="22084" Key="Ctrl+Shift+G"/>
+		<Shortcut Id="22093" Key="Shift+1"/>
+		<Shortcut Id="22094" Key="Shift+2"/>
+		<Shortcut Id="22095" Key="Shift+3"/>
+		<Shortcut Id="22096" Key="Shift+4"/>
+		<Shortcut Id="22114" Key="Shift+5"/>
+		<Shortcut Id="22125" Key="Shift+6"/>
+		<Shortcut Id="22132" Key="Shift+7"/>
+		<Shortcut Id="22350" Key="Shift+Alt+1"/>
+		<Shortcut Id="22351" Key="Shift+Alt+2"/>
+		<Shortcut Id="22352" Key="Shift+Alt+3"/>
+		<Shortcut Id="22353" Key="Shift+Alt+4"/>
+		<Shortcut Id="22354" Key="Shift+Alt+5"/>
+		<Shortcut Id="22355" Key="Shift+Alt+6"/>
+		<Shortcut Id="22356" Key="Shift+Alt+7"/>
+		<Shortcut Id="22357" Key="Shift+Alt+8"/>
+		<Shortcut Id="22358" Key="Shift+Alt+9"/>
+		<Shortcut Id="22349" Key="Shift+Alt+0"/>
+		<Shortcut Id="7000" Key="Ctrl+Shift+6"/>
+		<Shortcut Id="7050" Key="Ctrl+Shift+7"/>
+		<Shortcut Id="7010" Key="Ctrl+Shift+8"/>
+		<Shortcut Id="7030" Key="Ctrl+Shift+9"/>
+		<Shortcut Id="22153" Key="Ctrl+Shift+0xbf"/>
+		<Shortcut Id="22155" Key="Ctrl+Alt+R"/>
+		<Shortcut Id="22156" Key="Ctrl+Alt+E"/>
+		<Shortcut Id="22154" Key="Ctrl+Alt+L"/>
+		<Shortcut Id="22171" Key="Ctrl+Alt+P"/>
+		<Shortcut Id="22169" Key="Shift+O"/>
+		<Shortcut Id="22160" Key="Ctrl+T"/>
+		<Shortcut Id="24609" Key="0xdb"/>
+		<Shortcut Id="24610" Key="0xdd"/>
+		<Shortcut Id="26616" Key="Ctrl+L"/>
+		<Shortcut Id="24606" Key="Ctrl+Shift+P"/>
+		<Shortcut Id="28020" Key="Ctrl+B"/>
+		<Shortcut Id="28021" Key="Ctrl+I"/>
+	</Main>
+	<Timeline Schema="43">
+		<Shortcut Id="35008" Key="M"/>
+		<Shortcut Id="7018" Key="Right Arrow"/>
+		<Shortcut Id="7017" Key="Left Arrow"/>
+		<Shortcut Id="7019" Key="Ctrl+Right Arrow"/>
+		<Shortcut Id="7016" Key="Ctrl+Left Arrow"/>
+		<Shortcut Id="7015" Key="Ctrl+Home"/>
+		<Shortcut Id="7020" Key="Ctrl+End"/>
+		<Shortcut Id="7001" Key="0xbb"/>
+		<Shortcut Id="7002" Key="0xbd"/>
+		<Shortcut Id="7007" Key="Shift+Num +"/>
+		<Shortcut Id="7007" Key="Shift+0xbb"/>
+		<Shortcut Id="7008" Key="Shift+Num -"/>
+		<Shortcut Id="7008" Key="Shift+0xbd"/>
+		<Shortcut Id="7009" Key="Shift+Num /"/>
+		<Shortcut Id="7009" Key="Shift+0xbf"/>
+		<Shortcut Id="7009" Key="Shift+0xdc"/>
+		<Shortcut Id="34990" Key="Shift+Right Arrow"/>
+		<Shortcut Id="34992" Key="Shift+Left Arrow"/>
+		<Shortcut Id="34991" Key="Ctrl+Shift+Right Arrow"/>
+		<Shortcut Id="34993" Key="Ctrl+Shift+Left Arrow"/>
+		<Shortcut Id="34994" Key="Shift+Home"/>
+		<Shortcut Id="34995" Key="Shift+End"/>
+		<Shortcut Id="35005" Key="Ctrl+Shift+Home"/>
+		<Shortcut Id="35006" Key="Ctrl+Shift+End"/>
+		<Shortcut Id="35007" Key="Ctrl+G"/>
+		<Shortcut Id="34996" Key="Home"/>
+		<Shortcut Id="34997" Key="End"/>
+		<Shortcut Id="34984" Key="Alt+0xdb"/>
+		<Shortcut Id="34985" Key="Alt+0xdd"/>
+		<Shortcut Id="22066" Key="Ctrl+A"/>
+		<Shortcut Id="35000" Key="Del"/>
+		<Shortcut Id="7022" Key="M, M"/>
+		<Shortcut Id="7006" Key="Num /, Num /"/>
+		<Shortcut Id="7006" Key="0xbf, 0xbf"/>
+		<Shortcut Id="7006" Key="0xdc, 0xdc"/>
+		<Shortcut Id="7023" Key="Space"/>
+		<Shortcut Id="7035" Key="Enter"/>
+		<Shortcut Id="7003" Key="0xdc"/>
+		<Shortcut Id="7004" Key="0"/>
+		<Shortcut Id="7029" Key="Ctrl+L"/>
+		<Shortcut Id="7025" Key="Ctrl+Shift+Alt+R"/>
+		<Shortcut Id="7011" Key="0xdb"/>
+		<Shortcut Id="7012" Key="0xdd"/>
+	</Timeline>
+	<Curve Schema="43">
+		<Shortcut Id="35008" Key="M"/>
+		<Shortcut Id="7001" Key="Num +"/>
+		<Shortcut Id="7001" Key="0xbb"/>
+		<Shortcut Id="7002" Key="Num -"/>
+		<Shortcut Id="7002" Key="0xbd"/>
+		<Shortcut Id="7004" Key="Num /"/>
+		<Shortcut Id="7004" Key="0xbf"/>
+		<Shortcut Id="7004" Key="0xdc"/>
+		<Shortcut Id="7220" Key="Ins"/>
+		<Shortcut Id="7221" Key="Del"/>
+		<Shortcut Id="7242" Key="Left Arrow"/>
+		<Shortcut Id="7241" Key="Ctrl+Left Arrow"/>
+		<Shortcut Id="7243" Key="Right Arrow"/>
+		<Shortcut Id="7244" Key="Ctrl+Right Arrow"/>
+		<Shortcut Id="7240" Key="Ctrl+Home"/>
+		<Shortcut Id="7245" Key="Ctrl+End"/>
+		<Shortcut Id="7022" Key="M, M"/>
+	</Curve>
+	<Slideshow Schema="43"/>
+	<Animation Schema="43"/>
+	<Editor Schema="43">
+		<Shortcut Id="35000" Key="Del"/>
+		<Shortcut Id="35000" Key="Ctrl+G"/>
+		<Shortcut Id="32860" Key="Ctrl+E"/>
+		<Shortcut Id="32861" Key="Ctrl+S"/>
+		<Shortcut Id="32820" Key="Ctrl+F12"/>
+		<Shortcut Id="34998" Key="Num +"/>
+		<Shortcut Id="34998" Key="0xbb"/>
+		<Shortcut Id="34999" Key="Num -"/>
+		<Shortcut Id="34999" Key="0xbd"/>
+		<Shortcut Id="1047" Key="Num /"/>
+		<Shortcut Id="1047" Key="0xbf"/>
+		<Shortcut Id="1047" Key="0xdc"/>
+		<Shortcut Id="32862" Key="F5"/>
+		<Shortcut Id="32862" Key="Space"/>
+		<Shortcut Id="32862" Key="Ctrl+P"/>
+		<Shortcut Id="34988" Key="Left Arrow"/>
+		<Shortcut Id="34989" Key="Ctrl+Left Arrow"/>
+		<Shortcut Id="34986" Key="Right Arrow"/>
+		<Shortcut Id="34987" Key="Ctrl+Right Arrow"/>
+		<Shortcut Id="34996" Key="Home"/>
+		<Shortcut Id="34997" Key="End"/>
+		<Shortcut Id="34992" Key="Shift+Left Arrow"/>
+		<Shortcut Id="34993" Key="Ctrl+Shift+Left Arrow"/>
+		<Shortcut Id="34990" Key="Shift+Right Arrow"/>
+		<Shortcut Id="34991" Key="Ctrl+Shift+Right Arrow"/>
+		<Shortcut Id="34994" Key="Shift+Home"/>
+		<Shortcut Id="34995" Key="Shift+End"/>
+		<Shortcut Id="1289" Key="0xdb"/>
+		<Shortcut Id="1290" Key="0xdd"/>
+		<Shortcut Id="1136" Key="M"/>
+	</Editor>
+	<Burner Schema="43">
+		<Shortcut Id="32823" Key="Del"/>
+		<Shortcut Id="32822" Key="Enter"/>
+		<Shortcut Id="32821" Key="Backspace"/>
+		<Shortcut Id="32824" Key="Ctrl+A"/>
+	</Burner>
+	<Playlist Schema="43">
+		<Shortcut Id="32910" Key="Ctrl+A"/>
+	</Playlist>
+	<Player Schema="43">
+		<Shortcut Id="1001" Key="Space"/>
+		<Shortcut Id="1001" Key="Play"/>
+		<Shortcut Id="1001" Key="Ctrl+Pause"/>
+		<Shortcut Id="1001" Key="Ctrl+P"/>
+		<Shortcut Id="1002" Key="Ctrl+S"/>
+		<Shortcut Id="32918" Key="Backspace"/>
+		<Shortcut Id="32858" Key="Ctrl+R"/>
+		<Shortcut Id="32912" Key="Up Arrow"/>
+		<Shortcut Id="32912" Key="0xaf"/>
+		<Shortcut Id="32913" Key="Down Arrow"/>
+		<Shortcut Id="32913" Key="0xae"/>
+		<Shortcut Id="2036" Key="Ctrl+M"/>
+		<Shortcut Id="2036" Key="Ctrl+0xad"/>
+		<Shortcut Id="34988" Key="Ctrl+Left Arrow"/>
+		<Shortcut Id="32879" Key="Left Arrow"/>
+		<Shortcut Id="34989" Key="Alt+Left Arrow"/>
+		<Shortcut Id="34986" Key="Ctrl+Right Arrow"/>
+		<Shortcut Id="32878" Key="Right Arrow"/>
+		<Shortcut Id="34987" Key="Alt+Right Arrow"/>
+		<Shortcut Id="1004" Key="Ctrl+F"/>
+		<Shortcut Id="1004" Key="Ctrl+0xbe"/>
+		<Shortcut Id="1005" Key="Ctrl+B"/>
+		<Shortcut Id="1005" Key="Ctrl+0xbc"/>
+		<Shortcut Id="32911" Key="Ctrl+I"/>
+		<Shortcut Id="32914" Key="P"/>
+		<Shortcut Id="1014" Key="Ctrl+T"/>
+		<Shortcut Id="32915" Key="Shift+Esc"/>
+		<Shortcut Id="32916" Key="Alt+Enter"/>
+	</Player>
+</Shortcuts>

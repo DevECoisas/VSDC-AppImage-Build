@@ -1,0 +1,62 @@
+<PropertiesBag version="1" tag="-1" type="13" itype="1">
+	<LUT version="1" tag="-1" type="13" itype="1" ctype="0" pos="0">
+		<Type type="3" pos="0">2</Type>
+		<Title type="8" pos="1">Mofo</Title>
+		<Path type="8" pos="2">mofo.cube</Path>
+		<MD5 type="8" pos="3">1a934e0017456f8e103f25debc07958a</MD5>
+	</LUT>
+	<LUT version="1" tag="-1" type="13" itype="1" ctype="0" pos="1">
+		<Type type="3" pos="0">2</Type>
+		<Title type="8" pos="1">Proxima</Title>
+		<Path type="8" pos="2">proxima.cube</Path>
+		<MD5 type="8" pos="3">0f313c2f439b9dd605ce81b84c4c7100</MD5>
+	</LUT>
+	<LUT version="1" tag="-1" type="13" itype="1" ctype="0" pos="2">
+		<Type type="3" pos="0">2</Type>
+		<Title type="8" pos="1">Clair De Lune</Title>
+		<Path type="8" pos="2">clair de lune.cube</Path>
+		<MD5 type="8" pos="3">d35b03dc8205b2e305e9be8e6532b4c6</MD5>
+	</LUT>
+	<LUT version="1" tag="-1" type="13" itype="1" ctype="0" pos="3">
+		<Type type="3" pos="0">2</Type>
+		<Title type="8" pos="1">Blade</Title>
+		<Path type="8" pos="2">blade.cube</Path>
+		<MD5 type="8" pos="3">7d9ffbfa645982bafb82f4169b404f10</MD5>
+	</LUT>
+	<LUT version="1" tag="-1" type="13" itype="1" ctype="0" pos="4">
+		<Type type="3" pos="0">2</Type>
+		<Title type="8" pos="1">Comfort chain</Title>
+		<Path type="8" pos="2">comfort chain.cube</Path>
+		<MD5 type="8" pos="3">ef0fd05aae9525d6973e74af0bc76ed9</MD5>
+	</LUT>
+	<LUT version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+		<Type type="3" pos="0">2</Type>
+		<Title type="8" pos="1">Wild west</Title>
+		<Path type="8" pos="2">wild west.cube</Path>
+		<MD5 type="8" pos="3">ff7b3d8541e65cc6918a12b1f4365bce</MD5>
+	</LUT>
+	<LUT version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+		<Type type="3" pos="0">2</Type>
+		<Title type="8" pos="1">Road trip</Title>
+		<Path type="8" pos="2">road trip.cube</Path>
+		<MD5 type="8" pos="3">c2bbc67e35b39474b2e4cd1092801c46</MD5>
+	</LUT>
+	<LUT version="1" tag="-1" type="13" itype="1" ctype="0" pos="7">
+		<Type type="3" pos="0">2</Type>
+		<Title type="8" pos="1">City lights</Title>
+		<Path type="8" pos="2">city lights.cube</Path>
+		<MD5 type="8" pos="3">61f3ca4cb4edb5605f741ff2f3577905</MD5>
+	</LUT>
+	<LUT version="1" tag="-1" type="13" itype="1" ctype="0" pos="8">
+		<Type type="3" pos="0">2</Type>
+		<Title type="8" pos="1">Night dive</Title>
+		<Path type="8" pos="2">night dive.cube</Path>
+		<MD5 type="8" pos="3">e4e8cf1323f85a6ab67056c21bb55b3f</MD5>
+	</LUT>
+	<LUT version="1" tag="-1" type="13" itype="1" ctype="0" pos="9">
+		<Type type="3" pos="0">2</Type>
+		<Title type="8" pos="1">Faze</Title>
+		<Path type="8" pos="2">faze.cube</Path>
+		<MD5 type="8" pos="3">260855754a6a5cee47fab21d5ae2ffe9</MD5>
+	</LUT>
+</PropertiesBag>

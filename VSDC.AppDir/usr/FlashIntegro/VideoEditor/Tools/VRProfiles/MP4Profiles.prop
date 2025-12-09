@@ -1,0 +1,162 @@
+<Profiles version="1">
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">
+		</ProfileGroup>
+		<ProfileName type="8" pos="2">Normal quality: AAC - 128 kbps, 44100 Hz, Stereo</ProfileName>
+		<ProfileDescription type="8" pos="3">Normal quality: AAC - 128 kbps, 44100 Hz, Stereo</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="102" pos="0">
+				<Format version="1">
+					<AVType>102</AVType>
+					<FormatFlags>0</FormatFlags>
+					<Options version="1" tag="-1" type="13" itype="1"/>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>86018</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>41222</FormatTag>
+					<Channels>2</Channels>
+					<SamplesPerSec>44100</SamplesPerSec>
+					<BitsPerSample>0</BitsPerSample>
+					<BlockAlign>0</BlockAlign>
+					<AvgBytesPerSec>16000</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+					<MpegVersion>0</MpegVersion>
+					<AACObjectType>2</AACObjectType>
+					<AllowMidside>-1</AllowMidside>
+					<UseLFE>0</UseLFE>
+					<UseTNS>-1</UseTNS>
+					<BandWidth>-1</BandWidth>
+					<Quality>100</Quality>
+					<OutputFormat>1</OutputFormat>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">
+		</ProfileGroup>
+		<ProfileName type="8" pos="2">High quality: AAC - 192 kbps, 44100 Hz, Stereo</ProfileName>
+		<ProfileDescription type="8" pos="3">High quality: AAC - 192 kbps, 44100 Hz, Stereo</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="102" pos="0">
+				<Format version="1">
+					<AVType>102</AVType>
+					<FormatFlags>0</FormatFlags>
+					<Options version="1" tag="-1" type="13" itype="1"/>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>86018</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>41222</FormatTag>
+					<Channels>2</Channels>
+					<SamplesPerSec>44100</SamplesPerSec>
+					<BitsPerSample>0</BitsPerSample>
+					<BlockAlign>0</BlockAlign>
+					<AvgBytesPerSec>24000</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+					<MpegVersion>0</MpegVersion>
+					<AACObjectType>2</AACObjectType>
+					<AllowMidside>-1</AllowMidside>
+					<UseLFE>0</UseLFE>
+					<UseTNS>-1</UseTNS>
+					<BandWidth>-1</BandWidth>
+					<Quality>100</Quality>
+					<OutputFormat>1</OutputFormat>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">
+		</ProfileGroup>
+		<ProfileName type="8" pos="2">Highest quality: AAC - 256 kbps, 48000 Hz, Stereo</ProfileName>
+		<ProfileDescription type="8" pos="3">Highest quality: AAC - 256 kbps, 48000 Hz, Stereo</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="102" pos="0">
+				<Format version="1">
+					<AVType>102</AVType>
+					<FormatFlags>0</FormatFlags>
+					<Options version="1" tag="-1" type="13" itype="1"/>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>86018</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>41222</FormatTag>
+					<Channels>2</Channels>
+					<SamplesPerSec>48000</SamplesPerSec>
+					<BitsPerSample>0</BitsPerSample>
+					<BlockAlign>0</BlockAlign>
+					<AvgBytesPerSec>32000</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+					<MpegVersion>0</MpegVersion>
+					<AACObjectType>2</AACObjectType>
+					<AllowMidside>-1</AllowMidside>
+					<UseLFE>0</UseLFE>
+					<UseTNS>-1</UseTNS>
+					<BandWidth>-1</BandWidth>
+					<Quality>100</Quality>
+					<OutputFormat>1</OutputFormat>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">
+		</ProfileGroup>
+		<ProfileName type="8" pos="2">Least quality: AAC - 80 kbps, 44100 Hz, Stereo</ProfileName>
+		<ProfileDescription type="8" pos="3">Least quality: AAC - 80 kbps, 44100 Hz, Stereo</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="102" pos="0">
+				<Format version="1">
+					<AVType>102</AVType>
+					<FormatFlags>0</FormatFlags>
+					<Options version="1" tag="-1" type="13" itype="1"/>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>86018</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>41222</FormatTag>
+					<Channels>2</Channels>
+					<SamplesPerSec>44100</SamplesPerSec>
+					<BitsPerSample>0</BitsPerSample>
+					<BlockAlign>0</BlockAlign>
+					<AvgBytesPerSec>10000</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+					<MpegVersion>0</MpegVersion>
+					<AACObjectType>2</AACObjectType>
+					<AllowMidside>-1</AllowMidside>
+					<UseLFE>0</UseLFE>
+					<UseTNS>-1</UseTNS>
+					<BandWidth>-1</BandWidth>
+					<Quality>100</Quality>
+					<OutputFormat>1</OutputFormat>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+</Profiles>

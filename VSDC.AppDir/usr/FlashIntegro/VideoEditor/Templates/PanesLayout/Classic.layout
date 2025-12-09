@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DockingPaneLayouts CompactMode="1">
+	<PaneLayouts>
+		<Summary Panes="25" TopContainer="13" Client="19"/>
+		<Pane-1 Type="0" DockingCX="200" DockingCY="542" Title="Projects explorer\n\n" ID="110" DockingHolder="16" LastHolder="16" MinTrackX="100" MinTrackY="100" MaxTrackX="32000" MaxTrackY="32000"/>
+		<Pane-2 Type="0" DockingCX="200" DockingCY="542" Title="Objects explorer\n\n" ID="111" DockingHolder="16" LastHolder="16" MinTrackX="100" MinTrackY="100" MaxTrackX="32000" MaxTrackY="32000"/>
+		<Pane-3 Type="0" DockingCX="200" DockingCY="542" Title="Templates\n\n" ID="116" DockingHolder="16" LastHolder="16" MinTrackX="100" MinTrackY="100" MaxTrackX="32000" MaxTrackY="32000"/>
+		<Pane-4 Type="0" DockingCX="393" DockingCY="542" Title="Template preview\n\n" ID="121" DockingHolder="17" LastHolder="17" MinTrackX="151" MinTrackY="151" MaxTrackX="32000" MaxTrackY="32000"/>
+		<Pane-5 Type="0" DockingCX="400" DockingCY="542" Title="Sources\n\n" ID="119" DockingHolder="18" LastHolder="18" MinTrackX="100" MinTrackY="100" MaxTrackX="32000" MaxTrackY="32000"/>
+		<Pane-6 Type="0" DockingCX="720" DockingCY="264" Title="Timeline\n\n" ID="114" Options="8" DockingHolder="20" LastHolder="20" MinTrackX="100" MinTrackY="100" MaxTrackX="32000" MaxTrackY="32000"/>
+		<Pane-7 Type="0" DockingCX="1212" DockingCY="264" Title="Color grading\n\n" ID="118" Options="8" DockingHolder="20" LastHolder="20" MinTrackX="720" MinTrackY="150" MaxTrackX="32000" MaxTrackY="32000"/>
+		<Pane-8 Type="0" DockingCX="720" DockingCY="264" Title="Key editor\n\n" ID="120" DockingHolder="25" LastHolder="25" MinTrackX="100" MinTrackY="100" MaxTrackX="32000" MaxTrackY="32000"/>
+		<Pane-9 Type="0" DockingCX="250" DockingCY="542" Title="Properties window\n\n" ID="112" DockingHolder="23" LastHolder="23" MinTrackX="100" MinTrackY="100" MaxTrackX="32000" MaxTrackY="32000"/>
+		<Pane-10 Type="0" DockingCX="250" DockingCY="542" Title="Resources window\n\n" ID="113" DockingHolder="23" LastHolder="23" MinTrackX="100" MinTrackY="100" MaxTrackX="32000" MaxTrackY="32000"/>
+		<Pane-11 Type="0" DockingCX="250" DockingCY="542" Title="Basic effects\n\n" ID="115" DockingHolder="24" LastHolder="24" MinTrackX="100" MinTrackY="100" MaxTrackX="32000" MaxTrackY="32000"/>
+		<Pane-12 Type="0" DockingCX="500" DockingCY="264" Title="Scopes\n\n" ID="117" Options="2" DockingHolder="25" LastHolder="25" MinTrackX="200" MinTrackY="100" MaxTrackX="32000" MaxTrackY="32000"/>
+		<Pane-13 Type="2" DockingCX="0" DockingCY="0" Horiz="1" Panes="2" Pane-1="14" Pane-2="21"/>
+		<Pane-14 Type="2" DockingCX="1330" DockingCY="0" Panes="2" Pane-1="15" Pane-2="20"/>
+		<Pane-15 Type="2" DockingCX="0" DockingCY="538" Horiz="1" Panes="4" Pane-1="16" Pane-2="17" Pane-3="18" Pane-4="19"/>
+		<Pane-16 Type="1" DockingCX="200" DockingCY="542" Panes="3" Selected="3" Pane-1="1" Pane-2="2" Pane-3="3"/>
+		<Pane-17 Type="1" DockingCX="393" DockingCY="542" Panes="0"/>
+		<Pane-18 Type="1" DockingCX="400" DockingCY="542" Panes="0"/>
+		<Pane-19 Type="4" DockingCX="1126" DockingCY="0"/>
+		<Pane-20 Type="1" DockingCX="720" DockingCY="264" Panes="2" Selected="6" Pane-1="6" Pane-2="7"/>
+		<Pane-21 Type="2" DockingCX="500" DockingCY="264" Panes="2" Pane-1="22" Pane-2="25"/>
+		<Pane-22 Type="2" DockingCX="250" DockingCY="542" Horiz="1" Panes="2" Pane-1="23" Pane-2="24"/>
+		<Pane-23 Type="1" DockingCX="250" DockingCY="542" Panes="2" Selected="9" Pane-1="9" Pane-2="10"/>
+		<Pane-24 Type="1" DockingCX="250" DockingCY="542" Panes="1" Selected="11" Pane-1="11"/>
+		<Pane-25 Type="1" DockingCX="500" DockingCY="264" Panes="2" Selected="12" Pane-1="12" Pane-2="8"/>
+	</PaneLayouts>
+</DockingPaneLayouts>

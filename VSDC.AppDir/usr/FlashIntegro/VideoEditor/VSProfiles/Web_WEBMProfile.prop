@@ -1,0 +1,251 @@
+<Profiles version="1">
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">Common</ProfileGroup>
+		<ProfileName type="8" pos="2">High Quality - Video: Google VP9; Audio: Opus - 160 kbps</ProfileName>
+		<ProfileDescription type="8" pos="3">High Quality - Video: Google VP9, Frame Size - Original; Audio: Opus - 160 kbps</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<VideoStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="204" pos="0">
+				<Format version="1">
+					<AVType>204</AVType>
+					<FormatFlags>0</FormatFlags>
+					<Options version="1" tag="-1" type="13" itype="1"/>
+					<ProfileCodec>0</ProfileCodec>
+					<fccHandler>0</fccHandler>
+					<InternalCodec>173</InternalCodec>
+					<EncodeMode>0</EncodeMode>
+					<Bitrate>1000000</Bitrate>
+					<Quality>70</Quality>
+					<TargetFileSize>1379328</TargetFileSize>
+					<Width>0</Width>
+					<Height>0</Height>
+					<FrameRate>0</FrameRate>
+					<AspectX>800</AspectX>
+					<AspectY>480</AspectY>
+					<ColorSpace>0</ColorSpace>
+					<Interlaced>0</Interlaced>
+					<HasTransparent>0</HasTransparent>
+					<FormatName>
+					</FormatName>
+					<EncodingType>0</EncodingType>
+					<EncodingComplexity>2</EncodingComplexity>
+					<VideoMode>0</VideoMode>
+					<MaxStartupLatency>4</MaxStartupLatency>
+					<LossProtection>0</LossProtection>
+					<MaxOutputFrameRate>0</MaxOutputFrameRate>
+					<MaxTimeBetweenKeyFrames>10</MaxTimeBetweenKeyFrames>
+				</Format>
+			</AVFormat>
+		</VideoStreamInfo>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<AVFormat type="13" itype="4" ctype="0" avtype="100" pos="0">
+				<Format version="1">
+					<AVType>100</AVType>
+					<FormatFlags>0</FormatFlags>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>86080</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>1</FormatTag>
+					<Channels>0</Channels>
+					<SamplesPerSec>0</SamplesPerSec>
+					<BitsPerSample>16</BitsPerSample>
+					<BlockAlign>4</BlockAlign>
+					<AvgBytesPerSec>20000</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">Common</ProfileGroup>
+		<ProfileName type="8" pos="2">Highest Quality - Video: Google VP9; Audio: Opus - 192 kbps</ProfileName>
+		<ProfileDescription type="8" pos="3">Highest Quality - Video: Google VP9, Frame Size - Original; Audio: Opus - 192 kbps</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<VideoStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="204" pos="0">
+				<Format version="1">
+					<AVType>204</AVType>
+					<FormatFlags>0</FormatFlags>
+					<ProfileCodec>0</ProfileCodec>
+					<fccHandler>0</fccHandler>
+					<InternalCodec>173</InternalCodec>
+					<EncodeMode>0</EncodeMode>
+					<Bitrate>1000000</Bitrate>
+					<Quality>85</Quality>
+					<TargetFileSize>1379328</TargetFileSize>
+					<Width>0</Width>
+					<Height>0</Height>
+					<FrameRate>0</FrameRate>
+					<AspectX>800</AspectX>
+					<AspectY>480</AspectY>
+					<ColorSpace>0</ColorSpace>
+					<Interlaced>0</Interlaced>
+					<HasTransparent>0</HasTransparent>
+					<FormatName>
+					</FormatName>
+					<EncodingType>0</EncodingType>
+					<EncodingComplexity>2</EncodingComplexity>
+					<VideoMode>0</VideoMode>
+					<MaxStartupLatency>4</MaxStartupLatency>
+					<LossProtection>0</LossProtection>
+					<MaxOutputFrameRate>0</MaxOutputFrameRate>
+					<MaxTimeBetweenKeyFrames>10</MaxTimeBetweenKeyFrames>
+				</Format>
+			</AVFormat>
+		</VideoStreamInfo>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<AVFormat type="13" itype="4" ctype="0" avtype="100" pos="0">
+				<Format version="1">
+					<AVType>100</AVType>
+					<FormatFlags>0</FormatFlags>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>86080</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>1</FormatTag>
+					<Channels>0</Channels>
+					<SamplesPerSec>0</SamplesPerSec>
+					<BitsPerSample>16</BitsPerSample>
+					<BlockAlign>4</BlockAlign>
+					<AvgBytesPerSec>24000</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">Common</ProfileGroup>
+		<ProfileName type="8" pos="2">Normal Quality - Video: Google VP9; Audio: Opus - 128 kbps</ProfileName>
+		<ProfileDescription type="8" pos="3">Normal Quality - Video: Google VP9, Frame Size - Original; Audio: Opus - 128 kbps</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<VideoStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="204" pos="0">
+				<Format version="1">
+					<AVType>204</AVType>
+					<FormatFlags>0</FormatFlags>
+					<ProfileCodec>0</ProfileCodec>
+					<fccHandler>0</fccHandler>
+					<InternalCodec>173</InternalCodec>
+					<EncodeMode>0</EncodeMode>
+					<Bitrate>1000000</Bitrate>
+					<Quality>50</Quality>
+					<TargetFileSize>1379328</TargetFileSize>
+					<Width>0</Width>
+					<Height>0</Height>
+					<FrameRate>0</FrameRate>
+					<AspectX>800</AspectX>
+					<AspectY>480</AspectY>
+					<ColorSpace>0</ColorSpace>
+					<Interlaced>0</Interlaced>
+					<HasTransparent>0</HasTransparent>
+					<FormatName>
+					</FormatName>
+					<EncodingType>0</EncodingType>
+					<EncodingComplexity>2</EncodingComplexity>
+					<VideoMode>0</VideoMode>
+					<MaxStartupLatency>4</MaxStartupLatency>
+					<LossProtection>0</LossProtection>
+					<MaxOutputFrameRate>0</MaxOutputFrameRate>
+					<MaxTimeBetweenKeyFrames>10</MaxTimeBetweenKeyFrames>
+				</Format>
+			</AVFormat>
+		</VideoStreamInfo>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<AVFormat type="13" itype="4" ctype="0" avtype="100" pos="0">
+				<Format version="1">
+					<AVType>100</AVType>
+					<FormatFlags>0</FormatFlags>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>86080</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>1</FormatTag>
+					<Channels>0</Channels>
+					<SamplesPerSec>0</SamplesPerSec>
+					<BitsPerSample>16</BitsPerSample>
+					<BlockAlign>4</BlockAlign>
+					<AvgBytesPerSec>16000</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+	<AVProfile version="1" tag="-1" type="13" itype="1">
+		<ContainerType type="3" pos="0">-1</ContainerType>
+		<ProfileGroup type="8" pos="1">Common</ProfileGroup>
+		<ProfileName type="8" pos="2">Low Quality - Video: Google VP9; Audio: Opus - 96 kbps</ProfileName>
+		<ProfileDescription type="8" pos="3">Low Quality - Video: Google VP9, Frame Size - Original; Audio: Opus - 96 kbps</ProfileDescription>
+		<ProfileComment type="8" pos="4">
+		</ProfileComment>
+		<VideoStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="5">
+			<AVFormat type="13" itype="4" ctype="0" avtype="204" pos="0">
+				<Format version="1">
+					<AVType>204</AVType>
+					<FormatFlags>0</FormatFlags>
+					<ProfileCodec>0</ProfileCodec>
+					<fccHandler>0</fccHandler>
+					<InternalCodec>173</InternalCodec>
+					<EncodeMode>0</EncodeMode>
+					<Bitrate>1000000</Bitrate>
+					<Quality>30</Quality>
+					<TargetFileSize>1379328</TargetFileSize>
+					<Width>0</Width>
+					<Height>0</Height>
+					<FrameRate>0</FrameRate>
+					<AspectX>800</AspectX>
+					<AspectY>480</AspectY>
+					<ColorSpace>0</ColorSpace>
+					<Interlaced>0</Interlaced>
+					<HasTransparent>0</HasTransparent>
+					<FormatName>
+					</FormatName>
+					<EncodingType>0</EncodingType>
+					<EncodingComplexity>2</EncodingComplexity>
+					<VideoMode>0</VideoMode>
+					<MaxStartupLatency>4</MaxStartupLatency>
+					<LossProtection>0</LossProtection>
+					<MaxOutputFrameRate>0</MaxOutputFrameRate>
+					<MaxTimeBetweenKeyFrames>10</MaxTimeBetweenKeyFrames>
+				</Format>
+			</AVFormat>
+		</VideoStreamInfo>
+		<AudioStreamInfo version="1" tag="-1" type="13" itype="1" ctype="0" pos="6">
+			<AVFormat type="13" itype="4" ctype="0" avtype="100" pos="0">
+				<Format version="1">
+					<AVType>100</AVType>
+					<FormatFlags>0</FormatFlags>
+					<ProfileCodec>0</ProfileCodec>
+					<InternalCodec>86080</InternalCodec>
+					<ChannelsMask>0</ChannelsMask>
+					<FormatTag>1</FormatTag>
+					<Channels>0</Channels>
+					<SamplesPerSec>0</SamplesPerSec>
+					<BitsPerSample>16</BitsPerSample>
+					<BlockAlign>4</BlockAlign>
+					<AvgBytesPerSec>12000</AvgBytesPerSec>
+					<cbSize>0</cbSize>
+					<FormatName>
+					</FormatName>
+					<WaveExt>
+					</WaveExt>
+				</Format>
+			</AVFormat>
+		</AudioStreamInfo>
+	</AVProfile>
+</Profiles>
