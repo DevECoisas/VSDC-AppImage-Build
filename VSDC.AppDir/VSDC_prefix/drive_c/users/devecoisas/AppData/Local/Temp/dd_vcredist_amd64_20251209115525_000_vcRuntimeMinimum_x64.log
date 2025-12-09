@@ -1,0 +1,284 @@
+1: 0 2: 1033 3: 1252 
+=== Logging Iniciado: 09/12/2025  11:55:26 ===
+Tipo da Mensagem: 0, Argumento: 1033, 1252
+Tipo da Mensagem: 1, Argumento: Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.42.34438
+Ação 11:55:26: INSTALL. 
+Inicio da Ação 11:55:26: INSTALL.
+1: 0 2: 1033 3: 1252 
+1: 0 2: 1033 3: 1252 
+=== Logging Iniciado: 09/12/2025  11:55:26 ===
+Tipo da Mensagem: 0, Argumento: 1033, 1252
+Tipo da Mensagem: 1, Argumento: Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.42.34438
+Ação 11:55:26: INSTALL. 
+Inicio da Ação 11:55:26: INSTALL.
+1: Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.42.34438 2: {2E15F519-4FDA-4834-B4EE-7EFCE7D8D4EE} 
+Ação 11:55:26: FindRelatedProducts. Buscando por aplicações relacionadas
+Inicio da Ação 11:55:26: FindRelatedProducts.
+Ação finalizada 11:55:26: FindRelatedProducts. Valore de Retorno 1.
+Ação 11:55:26: AppSearch. Buscando por aplicativos instalados
+Inicio da Ação 11:55:26: AppSearch.
+Propriedade: ARM64CHECK, Assinatura: Arm64_Reg_Check
+Ação finalizada 11:55:26: AppSearch. Valore de Retorno 1.
+Ação 11:55:26: LaunchConditions. Avaliando condições de inicialização
+Inicio da Ação 11:55:26: LaunchConditions.
+Ação finalizada 11:55:26: LaunchConditions. Valore de Retorno 1.
+Ação 11:55:26: ValidateProductID. 
+Inicio da Ação 11:55:26: ValidateProductID.
+Ação finalizada 11:55:26: ValidateProductID. Valore de Retorno 1.
+Ação 11:55:26: CostInitialize. Calculando requisitos de espaço
+Inicio da Ação 11:55:26: CostInitialize.
+Ação finalizada 11:55:26: CostInitialize. Valore de Retorno 1.
+Ação 11:55:26: FileCost. Calculando requisitos de espaço
+Inicio da Ação 11:55:26: FileCost.
+Ação finalizada 11:55:26: FileCost. Valore de Retorno 1.
+Ação 11:55:26: CostFinalize. Calculando requisitos de espaço
+Inicio da Ação 11:55:26: CostFinalize.
+Ação finalizada 11:55:26: CostFinalize. Valore de Retorno 1.
+Ação 11:55:26: InstallValidate. Validando instalação
+Inicio da Ação 11:55:26: InstallValidate.
+Ação finalizada 11:55:26: InstallValidate. Valore de Retorno 1.
+Ação 11:55:26: InstallInitialize. 
+Inicio da Ação 11:55:26: InstallInitialize.
+Ação finalizada 11:55:26: InstallInitialize. Valore de Retorno 1.
+Ação 11:55:26: RemoveExistingProducts. Removendo aplicativos
+Inicio da Ação 11:55:26: RemoveExistingProducts.
+Ação finalizada 11:55:26: RemoveExistingProducts. Valore de Retorno 1.
+Ação 11:55:26: ProcessComponents. Atualizando registro de componentes
+Inicio da Ação 11:55:26: ProcessComponents.
+Ação finalizada 11:55:26: ProcessComponents. Valore de Retorno 1.
+Ação 11:55:26: UnpublishFeatures. Removendo Características de Produto
+Inicio da Ação 11:55:26: UnpublishFeatures.
+Ação finalizada 11:55:26: UnpublishFeatures. Valore de Retorno 1.
+Ação 11:55:26: RemoveRegistryValues. Removendo valores do registro do sistema
+Inicio da Ação 11:55:26: RemoveRegistryValues.
+Ação finalizada 11:55:26: RemoveRegistryValues. Valore de Retorno 1.
+Ação 11:55:26: RemoveFiles. Removendo arquivos
+Inicio da Ação 11:55:26: RemoveFiles.
+Ação finalizada 11:55:26: RemoveFiles. Valore de Retorno 1.
+Ação 11:55:26: InstallFiles. Copiando novos arquivos
+Inicio da Ação 11:55:26: InstallFiles.
+Ação finalizada 11:55:26: InstallFiles. Valore de Retorno 1.
+Ação 11:55:26: WriteRegistryValues. Gravando valores do registro de sistema
+Inicio da Ação 11:55:26: WriteRegistryValues.
+Ação finalizada 11:55:26: WriteRegistryValues. Valore de Retorno 1.
+Ação 11:55:26: RegisterUser. Registrando usuário
+Inicio da Ação 11:55:26: RegisterUser.
+Ação finalizada 11:55:26: RegisterUser. Valore de Retorno 1.
+Ação 11:55:26: RegisterProduct. Registrando produto
+Inicio da Ação 11:55:26: RegisterProduct.
+Ação finalizada 11:55:26: RegisterProduct. Valore de Retorno 1.
+Ação 11:55:26: PublishFeatures. Publicando Características de Produto
+Inicio da Ação 11:55:26: PublishFeatures.
+Ação finalizada 11:55:26: PublishFeatures. Valore de Retorno 1.
+Ação 11:55:26: PublishProduct. Publicando informações do produto
+Inicio da Ação 11:55:26: PublishProduct.
+Ação finalizada 11:55:26: PublishProduct. Valore de Retorno 1.
+Ação 11:55:26: InstallFinalize. 
+Inicio da Ação 11:55:26: InstallFinalize.
+Ação 11:55:26: ProcessComponents. Atualizando registro de componentes
+Inicio da Ação 11:55:26: ProcessComponents.
+1: {2E15F519-4FDA-4834-B4EE-7EFCE7D8D4EE} 2: {3639FCCA-5969-316D-AC18-E0C6B2B532E9} 3: 02:\SOFTWARE\Microsoft\VisualStudio\14.0\VC\Runtimes\X64\Version 
+1: {2E15F519-4FDA-4834-B4EE-7EFCE7D8D4EE} 2: {D2959D22-4DB7-32AF-A1B0-8405C4221749} 3: 02:\SOFTWARE\Microsoft\VisualStudio\14.0\VC\Runtimes\X64\Version 
+1: {2E15F519-4FDA-4834-B4EE-7EFCE7D8D4EE} 2: {B33258FD-750C-3B42-8BE4-535B48E97DB4} 3: C:\windows\system32\vcruntime140.dll 
+1: {2E15F519-4FDA-4834-B4EE-7EFCE7D8D4EE} 2: {4AF15CBB-F5C1-4468-A694-C5A03A2238D5} 3: C:\windows\system32\vcruntime140_threads.dll 
+1: {2E15F519-4FDA-4834-B4EE-7EFCE7D8D4EE} 2: {2427B123-F132-4F0B-A958-50F7CDFCAA56} 3: C:\windows\system32\vcruntime140_1.dll 
+1: {2E15F519-4FDA-4834-B4EE-7EFCE7D8D4EE} 2: {22824972-0C4A-31B4-AEEF-9FC7596F1305} 3: C:\windows\system32\msvcp140.dll 
+1: {2E15F519-4FDA-4834-B4EE-7EFCE7D8D4EE} 2: {6713558D-DE1F-373C-A12D-BAE9004657F9} 3: C:\windows\system32\msvcp140_1.dll 
+1: {2E15F519-4FDA-4834-B4EE-7EFCE7D8D4EE} 2: {AD0439C6-DC3D-3A2C-AF38-B22083D8639F} 3: C:\windows\system32\msvcp140_2.dll 
+1: {2E15F519-4FDA-4834-B4EE-7EFCE7D8D4EE} 2: {F8DFE2DF-F4E5-4845-9828-2849C685A91B} 3: C:\windows\system32\msvcp140_atomic_wait.dll 
+1: {2E15F519-4FDA-4834-B4EE-7EFCE7D8D4EE} 2: {61413AE1-024F-4854-B8D8-1D2EF801EC21} 3: C:\windows\system32\msvcp140_codecvt_ids.dll 
+1: {2E15F519-4FDA-4834-B4EE-7EFCE7D8D4EE} 2: {35B5C1D2-EB5B-3569-83EB-78E34F5C3254} 3: C:\windows\system32\concrt140.dll 
+1: {2E15F519-4FDA-4834-B4EE-7EFCE7D8D4EE} 2: {D227D7DF-D9F8-33AF-B935-4BF2F47F2EA4} 3: C:\windows\system32\vccorlib140.dll 
+1: {2E15F519-4FDA-4834-B4EE-7EFCE7D8D4EE} 2: {7050289E-BECF-32C7-89DC-08C4480E482B} 3: C:\windows\system32\vcamp140.dll 
+1: {2E15F519-4FDA-4834-B4EE-7EFCE7D8D4EE} 2: {F5E98D96-3C7F-37D7-821F-E4BB03D4384B} 3: C:\windows\system32\vcomp140.dll 
+1: {2E15F519-4FDA-4834-B4EE-7EFCE7D8D4EE} 2: {EA0D3A76-AE46-3F46-B94D-309D5097A125} 3: 02:\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\SP 
+1: {2E15F519-4FDA-4834-B4EE-7EFCE7D8D4EE} 2: {38F26AF8-73D2-34A5-9BB3-83CE1900A2AE} 3: 02:\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\RuntimeMinimum\Install 
+1: {2E15F519-4FDA-4834-B4EE-7EFCE7D8D4EE} 2: {04D1E303-8E0F-36D1-BC1F-E27EE209198A} 3: 02:\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\SP 
+1: {2E15F519-4FDA-4834-B4EE-7EFCE7D8D4EE} 2: {F53F2531-272C-39F4-9C5B-312B318B91E5} 3: 02:\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\RuntimeMinimum\Install 
+1: {2E15F519-4FDA-4834-B4EE-7EFCE7D8D4EE} 2: {31FF3687-EC05-3A6B-A8CE-ADD81BF1506E} 3: -1:\Software\Classes\Installer\Dependencies\Microsoft.VS.VC_RuntimeMinimumVSU_amd64,v14\Version 
+Ação finalizada 11:55:26: ProcessComponents. Valore de Retorno 1.
+Ação 11:55:26: UnpublishFeatures. Removendo Características de Produto
+Inicio da Ação 11:55:26: UnpublishFeatures.
+Ação finalizada 11:55:26: UnpublishFeatures. Valore de Retorno 1.
+Ação 11:55:26: RemoveRegistryValues. Removendo valores do registro do sistema
+Inicio da Ação 11:55:26: RemoveRegistryValues.
+Ação finalizada 11:55:26: RemoveRegistryValues. Valore de Retorno 1.
+Ação 11:55:26: RemoveFiles. Removendo arquivos
+Inicio da Ação 11:55:26: RemoveFiles.
+Arquivo: concrt140.dll, Pasta: System64Folder
+Arquivo: msvcp140.dll, Pasta: System64Folder
+Arquivo: msvcp140_1.dll, Pasta: System64Folder
+Arquivo: msvcp140_2.dll, Pasta: System64Folder
+Arquivo: msvcp140_atomic_wait.dll, Pasta: System64Folder
+Arquivo: msvcp140_codecvt_ids.dll, Pasta: System64Folder
+Arquivo: vcamp140.dll, Pasta: System64Folder
+Arquivo: vccorlib140.dll, Pasta: System64Folder
+Arquivo: vcomp140.dll, Pasta: System64Folder
+Arquivo: vcruntime140.dll, Pasta: System64Folder
+Arquivo: vcruntime140_1.dll, Pasta: System64Folder
+Arquivo: vcruntime140_threads.dll, Pasta: System64Folder
+Ação finalizada 11:55:26: RemoveFiles. Valore de Retorno 1.
+Ação 11:55:26: InstallFiles. Copiando novos arquivos
+Inicio da Ação 11:55:26: InstallFiles.
+Arquivo: concrt140.dll, Pasta: System64Folder, Tamanho: 322672
+Arquivo: msvcp140.dll, Pasta: System64Folder, Tamanho: 575568
+Arquivo: msvcp140_1.dll, Pasta: System64Folder, Tamanho: 35920
+Arquivo: msvcp140_2.dll, Pasta: System64Folder, Tamanho: 267888
+Arquivo: msvcp140_atomic_wait.dll, Pasta: System64Folder, Tamanho: 50288
+Arquivo: msvcp140_codecvt_ids.dll, Pasta: System64Folder, Tamanho: 31856
+Arquivo: vcamp140.dll, Pasta: System64Folder, Tamanho: 408680
+Arquivo: vccorlib140.dll, Pasta: System64Folder, Tamanho: 351824
+Arquivo: vcomp140.dll, Pasta: System64Folder, Tamanho: 192112
+Arquivo: vcruntime140.dll, Pasta: System64Folder, Tamanho: 120400
+Arquivo: vcruntime140_1.dll, Pasta: System64Folder, Tamanho: 49776
+Arquivo: vcruntime140_threads.dll, Pasta: System64Folder, Tamanho: 38480
+Ação finalizada 11:55:26: InstallFiles. Valore de Retorno 1.
+Ação 11:55:26: WriteRegistryValues. Gravando valores do registro de sistema
+Inicio da Ação 11:55:26: WriteRegistryValues.
+Chave: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\VisualStudio\14.0\VC\Runtimes\X64, Nome: Version, Valor: v14.42.34438.00
+Chave: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\VisualStudio\14.0\VC\Runtimes\X64, Nome: Version, Valor: v14.42.34438.00
+Chave: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0, Nome: SP, Valor: 
+Chave: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\RuntimeMinimum, Nome: Install, Valor: 
+Chave: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0, Nome: SP, Valor: 
+Chave: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\RuntimeMinimum, Nome: Install, Valor: 
+Chave: HKEY_LOCAL_MACHINE\Software\Classes\Installer\Dependencies\Microsoft.VS.VC_RuntimeMinimumVSU_amd64,v14, Nome: Version, Valor: 14.42.34438
+Chave: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\VisualStudio\14.0\VC\Runtimes\X64, Nome: Installed, Valor: 
+Chave: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\VisualStudio\14.0\VC\Runtimes\X64, Nome: Major, Valor: 
+Chave: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\VisualStudio\14.0\VC\Runtimes\X64, Nome: Minor, Valor: 
+Chave: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\VisualStudio\14.0\VC\Runtimes\X64, Nome: Bld, Valor: 
+Chave: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\VisualStudio\14.0\VC\Runtimes\X64, Nome: Rbld, Valor: 
+Chave: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\VisualStudio\14.0\VC\Runtimes\X64, Nome: Installed, Valor: 
+Chave: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\VisualStudio\14.0\VC\Runtimes\X64, Nome: Major, Valor: 
+Chave: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\VisualStudio\14.0\VC\Runtimes\X64, Nome: Minor, Valor: 
+Chave: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\VisualStudio\14.0\VC\Runtimes\X64, Nome: Bld, Valor: 
+Chave: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\VisualStudio\14.0\VC\Runtimes\X64, Nome: Rbld, Valor: 
+Chave: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0, Nome: SPIndex, Valor: 
+Chave: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\RuntimeMinimum, Nome: InstallerType, Valor: MSI
+Chave: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\RuntimeMinimum, Nome: SP, Valor: 
+Chave: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\RuntimeMinimum, Nome: SPIndex, Valor: 
+Chave: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\RuntimeMinimum, Nome: SPName, Valor: RTM
+Chave: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\RuntimeMinimum, Nome: Version, Valor: 14.42.34438
+Chave: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\RuntimeMinimum, Nome: UpdateVersion, Valor: 14.42.34438
+Chave: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0, Nome: SPIndex, Valor: 
+Chave: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\RuntimeMinimum, Nome: InstallerType, Valor: MSI
+Chave: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\RuntimeMinimum, Nome: SP, Valor: 
+Chave: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\RuntimeMinimum, Nome: SPIndex, Valor: 
+Chave: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\RuntimeMinimum, Nome: SPName, Valor: RTM
+Chave: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\RuntimeMinimum, Nome: Version, Valor: 14.42.34438
+Chave: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\VC\Servicing\14.0\RuntimeMinimum, Nome: UpdateVersion, Valor: 14.42.34438
+Chave: HKEY_LOCAL_MACHINE\Software\Classes\Installer\Dependencies\Microsoft.VS.VC_RuntimeMinimumVSU_amd64,v14, Nome: , Valor: {2E15F519-4FDA-4834-B4EE-7EFCE7D8D4EE}
+Chave: HKEY_LOCAL_MACHINE\Software\Classes\Installer\Dependencies\Microsoft.VS.VC_RuntimeMinimumVSU_amd64,v14, Nome: DisplayName, Valor: Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.42.34438
+Ação finalizada 11:55:26: WriteRegistryValues. Valore de Retorno 1.
+Ação 11:55:26: RegisterUser. Registrando usuário
+Inicio da Ação 11:55:26: RegisterUser.
+1:  
+Ação finalizada 11:55:26: RegisterUser. Valore de Retorno 1.
+Ação 11:55:26: RegisterProduct. Registrando produto
+Inicio da Ação 11:55:26: RegisterProduct.
+1: {2E15F519-4FDA-4834-B4EE-7EFCE7D8D4EE} 
+Ação finalizada 11:55:26: RegisterProduct. Valore de Retorno 1.
+Ação 11:55:26: PublishFeatures. Publicando Características de Produto
+Inicio da Ação 11:55:26: PublishFeatures.
+Característica: VC_Runtime_Minimum
+Característica: Provider
+Característica: Servicing_Key
+Ação finalizada 11:55:26: PublishFeatures. Valore de Retorno 1.
+Ação 11:55:26: PublishProduct. Publicando informações do produto
+Inicio da Ação 11:55:26: PublishProduct.
+1: {2E15F519-4FDA-4834-B4EE-7EFCE7D8D4EE} 
+Ação finalizada 11:55:26: PublishProduct. Valore de Retorno 1.
+Ação finalizada 11:55:26: InstallFinalize. Valore de Retorno 1.
+Ação finalizada 11:55:26: INSTALL. Valore de Retorno 1.
+1: Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.42.34438 2: {2E15F519-4FDA-4834-B4EE-7EFCE7D8D4EE} 3: 1 
+Property(S): UpgradeCode = {36F68A90-239C-34DF-B58C-64B30153CE35}
+Property(S): ARM64CHECK = AMD64
+Property(S): TARGETDIR = C:\
+Property(S): System64Folder = C:\windows\system32\
+Property(S): SourceDir = C:\ProgramData\Package Cache\{2E15F519-4FDA-4834-B4EE-7EFCE7D8D4EE}v14.42.34438\packages\vcRuntimeMinimum_amd64\
+Property(S): ALLUSERS = 1
+Property(S): FILESINUSETEXT = The following applications should be closed before continuing the install:
+Property(S): INSTALLLEVEL = 2
+Property(S): LIMITUI = 1
+Property(S): REBOOT = ReallySuppress
+Property(S): REPAIR_REINSTALLMODE = pecmsu
+Property(S): ARPSYSTEMCOMPONENT = 1
+Property(S): LocProductName = Microsoft Visual C++ 2022 X64 Runtime
+Property(S): ProductCPU = amd64
+Property(S): ProductEdition = RuntimeMinimum
+Property(S): ProductFamily = VC
+Property(S): RTM_ProductVersion = 14.42.34438
+Property(S): MsiLogging = voicewarmupx
+Property(S): Manufacturer = Microsoft Corporation
+Property(S): ProductCode = {2E15F519-4FDA-4834-B4EE-7EFCE7D8D4EE}
+Property(S): ProductLanguage = 1033
+Property(S): ProductName = Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.42.34438
+Property(S): ProductVersion = 14.42.34438
+Property(S): DirectoryTable100_amd64 = DirectoryTable
+Property(S): SecureCustomProperties = IGNOREDEPENDENCIES;NEWERVCRUNTIMEVERSIONDETECTED;UPGRADEVCRUNTIME
+Property(S): AdminUser = 1
+Property(S): Privileged = 1
+Property(S): MsiRunningElevated = 1
+Property(S): MsiTrueAdminUser = 1
+Property(S): CommonAppDataFolder = C:\ProgramData\
+Property(S): FavoritesFolder = C:\users\devecoisas\Favorites\
+Property(S): FontsFolder = C:\windows\Fonts\
+Property(S): SendToFolder = C:\users\devecoisas\AppData\Roaming\Microsoft\Windows\SendTo\
+Property(S): StartMenuFolder = C:\users\devecoisas\AppData\Roaming\Microsoft\Windows\Start Menu\
+Property(S): StartupFolder = C:\users\devecoisas\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\StartUp\
+Property(S): TemplateFolder = C:\users\devecoisas\AppData\Roaming\Microsoft\Windows\Templates\
+Property(S): DesktopFolder = C:\users\devecoisas\Desktop\
+Property(S): ProgramMenuFolder = C:\users\devecoisas\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\
+Property(S): AdminToolsFolder = C:\users\devecoisas\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Administrative Tools\
+Property(S): AppDataFolder = C:\users\devecoisas\AppData\Roaming\
+Property(S): SystemFolder = C:\windows\syswow64\
+Property(S): System16Folder = C:\windows\system32\
+Property(S): LocalAppDataFolder = C:\users\devecoisas\AppData\Local\
+Property(S): MyPicturesFolder = C:\users\devecoisas\Pictures\
+Property(S): PersonalFolder = C:\users\devecoisas\Documents\
+Property(S): WindowsFolder = C:\windows\
+Property(S): PrintHoodFolder = C:\users\devecoisas\AppData\Roaming\Microsoft\Windows\Printer Shortcuts\
+Property(S): NetHoodFolder = C:\users\devecoisas\AppData\Roaming\Microsoft\Windows\Network Shortcuts\
+Property(S): RecentFolder = C:\users\devecoisas\AppData\Roaming\Microsoft\Windows\Recent\
+Property(S): PhysicalMemory = 7902
+Property(S): WindowsVolume = C:\
+Property(S): TempFolder = C:\users\devecoisas\AppData\Local\Temp\
+Property(S): VersionNT = 603
+Property(S): MsiNTProductType = 1
+Property(S): WindowsBuild = 9600
+Property(S): ServicePackLevel = 0
+Property(S): VersionMsi = 5.0
+Property(S): VersionDatabase = 500
+Property(S): Intel = 6
+Property(S): MsiAMD64 = 6
+Property(S): Msix64 = 6
+Property(S): VersionNT64 = 603
+Property(S): ProgramFiles64Folder = C:\Program Files\
+Property(S): ProgramFilesFolder = C:\Program Files (x86)\
+Property(S): CommonFiles64Folder = C:\Program Files\Common Files\
+Property(S): CommonFilesFolder = C:\Program Files (x86)\Common Files\
+Property(S): ScreenX = 1360
+Property(S): ScreenY = 768
+Property(S): ColorBits = 32
+Property(S): UserSID = S-1-5-21-0-0-0-1000
+Property(S): MsiNetAssemblySupport = 4.6.1590.0
+Property(S): UserLanguageID = 1046
+Property(S): SystemLanguageID = 1046
+Property(S): ProductState = -1
+Property(S): LogonUser = devecoisas
+Property(S): ComputerName = DEBIAN
+Property(S): UILevel = 2
+Property(S): PackageCode = {A99D9E9B-085C-4A21-A172-DC4E6D60CE13}
+Property(S): DATABASE = C:\windows\Installer\82ae.msi
+Property(S): OriginalDatabase = C:\ProgramData\Package Cache\{2E15F519-4FDA-4834-B4EE-7EFCE7D8D4EE}v14.42.34438\packages\vcRuntimeMinimum_amd64\vc_runtimeMinimum_x64.msi
+Property(S): SOURCEDIR = C:\ProgramData\Package Cache\{2E15F519-4FDA-4834-B4EE-7EFCE7D8D4EE}v14.42.34438\packages\vcRuntimeMinimum_amd64\
+Property(S): MSIFASTINSTALL = 7
+Property(S): NOVSUI = 1
+Property(S): ACTION = INSTALL
+Property(S): EXECUTEACTION = INSTALL
+Property(S): CostingComplete = 1
+Property(S): ROOTDRIVE = C:\
+Property(S): OutOfDiskSpace = 0
+Property(S): OutOfNoRbDiskSpace = 0
+1: 2 2: 0 
+1: 2 2: 1 
+Ação finalizada 11:55:26: INSTALL. Valore de Retorno 1.

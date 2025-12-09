@@ -1,6 +1,14 @@
-#!/bin/sh
-HERE="$(dirname "$(readlink -f "$0")")"
-APPDIR="$HERE/.."
+#!/bin/bash
+APPDIR="$(dirname "$(readlink -f "$0")")/../.."
 
-exec "$APPDIR/wine-devel_10.20-x86_64.AppImage" \
-    "$APPDIR/FlashIntegro/VideoEditor/VideoEditor.exe"
+export WINEPREFIX="$APPDIR/VSDC_prefix"
+export WINEDEBUG=-all
+export WINEDLLOVERRIDES="mscoree,mshtml="
+
+# Make the internal wine remain fully portable
+export WINEENVIRONMENT="$APPDIR/VSDC_prefix"
+
+# Run the embedded Wine.AppImage
+"$APPDIR/usr/wine-stable_10.0-x86_64.AppImage" \
+  --appimage-extract-and-run \
+  "$WINEPREFIX/drive_c/Program Files/FlashIntegro/VideoEditor/VideoEditor.exe"
